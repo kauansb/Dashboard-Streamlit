@@ -1,0 +1,1001 @@
+Nota fiscal;Ramo;Cidade;Tipo de Cliente;Genero;Linha de produtos;Preco unitario;Quantidade;Taxa 5%;Total;Data;Hora;Forma de pagamento;cogs;Percentual de margem Bruta;Receita bruta;Classificacao
+0;750-67-8428;Loja Física;Ceilondon;Member;Feminino;Saúde e beleza;74,69;7;26,1415;548,9715;1/5/2023;13:08;Ewallet;522,83;4,761904762;26,1415;9,1
+1;226-31-3081;Representante;Sobradisney;Normal;Feminino;Eletrônicos e acessórios;15,28;5;3,82;80,22;3/8/2023;10:29;Em espécie;76,4;4,761904762;3,82;9,6
+2;631-41-3108;Loja Física;Ceilondon;Normal;Masculino;Casa e estilo de vida;46,33;7;16,2155;340,5255;3/3/2023;13:23;Cartão de credito;324,31;4,761904762;16,2155;7,4
+3;123-19-1176;Loja Física;Ceilondon;Member;Masculino;Saúde e beleza;58,22;8;23,288;489,048;1/27/2023;20:33;Ewallet;465,76;4,761904762;23,288;8,4
+4;373-73-7910;Loja Física;Ceilondon;Normal;Masculino;Esportes e viagens;86,31;7;30,2085;634,3785;2/8/2023;10:37;Ewallet;604,17;4,761904762;30,2085;5,3
+5;699-14-3026;Representante;Sobradisney;Normal;Masculino;Eletrônicos e acessórios;85,39;7;29,8865;627,6165;3/25/2023;18:30;Ewallet;597,73;4,761904762;29,8865;4,1
+6;355-53-5943;Loja Física;Ceilondon;Member;Feminino;Eletrônicos e acessórios;68,84;6;20,652;433,692;2/25/2023;14:36;Ewallet;413,04;4,761904762;20,652;5,8
+7;315-22-5665;Representante;Sobradisney;Normal;Feminino;Casa e estilo de vida;73,56;10;36,78;772,38;2/24/2023;11:38;Ewallet;735,6;4,761904762;36,78;8,0
+8;665-32-9167;Loja Física;Ceilondon;Member;Feminino;Saúde e beleza;36,26;2;3,626;76,146;1/10/2023;17:15;Cartão de credito;72,52;4,761904762;3,626;7,2
+9;692-92-5582;E-commerce;Alagoinha;Member;Feminino;Comida e bebidas;54,84;3;8,226;172,746;2/20/2023;13:27;Cartão de credito;164,52;4,761904762;8,226;5,9
+10;351-62-0822;E-commerce;Alagoinha;Member;Feminino;Moda e acessórios;14,48;4;2,896;60,816;2/6/2023;18:07;Ewallet;57,92;4,761904762;2,896;4,5
+11;529-56-3974;E-commerce;Alagoinha;Member;Masculino;Eletrônicos e acessórios;25,51;4;5,102;107,142;3/9/2023;17:03;Em espécie;102,04;4,761904762;5,102;6,8
+12;365-64-0515;Loja Física;Ceilondon;Normal;Feminino;Eletrônicos e acessórios;46,95;5;11,7375;246,4875;2/12/2023;10:25;Ewallet;234,75;4,761904762;11,7375;7,1
+13;252-56-2699;Loja Física;Ceilondon;Normal;Masculino;Comida e bebidas;43,19;10;21,595;453,495;2/7/2023;16:48;Ewallet;431,9;4,761904762;21,595;8,2
+14;829-34-3910;Loja Física;Ceilondon;Normal;Feminino;Saúde e beleza;71,38;10;35,69;749,49;3/29/2023;19:21;Em espécie;713,8;4,761904762;35,69;5,7
+15;299-46-1805;E-commerce;Alagoinha;Member;Feminino;Esportes e viagens;93,72;6;28,116;590,436;1/15/2023;16:19;Em espécie;562,32;4,761904762;28,116;4,5
+16;656-95-9349;Loja Física;Ceilondon;Member;Feminino;Saúde e beleza;68,93;7;24,1255;506,6355;3/11/2023;11:03;Cartão de credito;482,51;4,761904762;24,1255;4,6
+17;765-26-6951;Loja Física;Ceilondon;Normal;Masculino;Esportes e viagens;72,61;6;21,783;457,443;1/1/2023;10:39;Cartão de credito;435,66;4,761904762;21,783;6,9
+18;329-62-1586;Loja Física;Ceilondon;Normal;Masculino;Comida e bebidas;54,67;3;8,2005;172,2105;1/21/2023;18:00;Cartão de credito;164,01;4,761904762;8,2005;8,6
+19;319-50-3348;E-commerce;Alagoinha;Normal;Feminino;Casa e estilo de vida;40,3;2;4,03;84,63;3/11/2023;15:30;Ewallet;80,6;4,761904762;4,03;4,4
+20;300-71-4605;Representante;Sobradisney;Member;Masculino;Eletrônicos e acessórios;86,04;5;21,51;451,71;2/25/2023;11:24;Ewallet;430,2;4,761904762;21,51;4,8
+21;371-85-5789;E-commerce;Alagoinha;Normal;Masculino;Saúde e beleza;87,98;3;13,197;277,137;3/5/2023;10:40;Ewallet;263,94;4,761904762;13,197;5,1
+22;273-16-6619;E-commerce;Alagoinha;Normal;Masculino;Casa e estilo de vida;33,2;2;3,32;69,72;3/15/2023;12:20;Cartão de credito;66,4;4,761904762;3,32;4,4
+23;636-48-8204;Loja Física;Ceilondon;Normal;Masculino;Eletrônicos e acessórios;34,56;5;8,64;181,44;2/17/2023;11:15;Ewallet;172,8;4,761904762;8,64;9,9
+24;549-59-1358;Loja Física;Ceilondon;Member;Masculino;Esportes e viagens;88,63;3;13,2945;279,1845;3/2/2023;17:36;Ewallet;265,89;4,761904762;13,2945;6,0
+25;227-03-5010;Loja Física;Ceilondon;Member;Feminino;Casa e estilo de vida;52,59;8;21,036;441,756;3/22/2023;19:20;Cartão de credito;420,72;4,761904762;21,036;8,5
+26;649-29-6775;E-commerce;Alagoinha;Normal;Masculino;Moda e acessórios;33,52;1;1,676;35,196;2/8/2023;15:31;Em espécie;33,52;4,761904762;1,676;6,7
+27;189-17-4241;Loja Física;Ceilondon;Normal;Feminino;Moda e acessórios;87,67;2;8,767;184,107;3/10/2023;12:17;Cartão de credito;175,34;4,761904762;8,767;7,7
+28;145-94-9061;E-commerce;Alagoinha;Normal;Feminino;Comida e bebidas;88,36;5;22,09;463,89;1/25/2023;19:48;Em espécie;441,8;4,761904762;22,09;9,6
+29;848-62-7243;Loja Física;Ceilondon;Normal;Masculino;Saúde e beleza;24,89;9;11,2005;235,2105;3/15/2023;15:36;Em espécie;224,01;4,761904762;11,2005;7,4
+30;871-79-8483;E-commerce;Alagoinha;Normal;Masculino;Moda e acessórios;94,13;5;23,5325;494,1825;2/25/2023;19:39;Cartão de credito;470,65;4,761904762;23,5325;4,8
+31;149-71-6266;E-commerce;Alagoinha;Member;Masculino;Esportes e viagens;78,07;9;35,1315;737,7615;1/28/2023;12:43;Em espécie;702,63;4,761904762;35,1315;4,5
+32;640-49-2076;E-commerce;Alagoinha;Normal;Masculino;Esportes e viagens;83,78;8;33,512;703,752;1/10/2023;14:49;Em espécie;670,24;4,761904762;33,512;5,1
+33;595-11-5460;Loja Física;Ceilondon;Normal;Masculino;Saúde e beleza;96,58;2;9,658;202,818;3/15/2023;10:12;Cartão de credito;193,16;4,761904762;9,658;5,1
+34;183-56-6882;Representante;Sobradisney;Member;Feminino;Comida e bebidas;99,42;4;19,884;417,564;2/6/2023;10:42;Ewallet;397,68;4,761904762;19,884;7,5
+35;232-16-2483;Representante;Sobradisney;Member;Feminino;Esportes e viagens;68,12;1;3,406;71,526;1/7/2023;12:28;Ewallet;68,12;4,761904762;3,406;6,8
+36;129-29-8530;Loja Física;Ceilondon;Member;Masculino;Esportes e viagens;62,62;5;15,655;328,755;3/10/2023;19:15;Ewallet;313,1;4,761904762;15,655;7,0
+37;272-65-1806;Loja Física;Ceilondon;Normal;Feminino;Eletrônicos e acessórios;60,88;9;27,396;575,316;1/15/2023;17:17;Ewallet;547,92;4,761904762;27,396;4,7
+38;333-73-7901;Representante;Sobradisney;Normal;Feminino;Saúde e beleza;54,92;8;21,968;461,328;3/23/2023;13:24;Ewallet;439,36;4,761904762;21,968;7,6
+39;777-82-7220;E-commerce;Alagoinha;Member;Masculino;Casa e estilo de vida;30,12;8;12,048;253,008;3/3/2023;13:01;Em espécie;240,96;4,761904762;12,048;7,7
+40;280-35-5823;E-commerce;Alagoinha;Member;Feminino;Casa e estilo de vida;86,72;1;4,336;91,056;1/17/2023;18:45;Ewallet;86,72;4,761904762;4,336;7,9
+41;554-53-8700;Representante;Sobradisney;Member;Masculino;Casa e estilo de vida;56,11;2;5,611;117,831;2/2/2023;10:11;Em espécie;112,22;4,761904762;5,611;6,3
+42;354-25-5821;E-commerce;Alagoinha;Member;Feminino;Esportes e viagens;69,12;6;20,736;435,456;2/8/2023;13:03;Em espécie;414,72;4,761904762;20,736;5,6
+43;228-96-1411;Representante;Sobradisney;Member;Feminino;Comida e bebidas;98,7;8;39,48;829,08;3/4/2023;20:39;Em espécie;789,6;4,761904762;39,48;7,6
+44;617-15-4209;Representante;Sobradisney;Member;Masculino;Saúde e beleza;15,37;2;1,537;32,277;3/16/2023;19:47;Em espécie;30,74;4,761904762;1,537;7,2
+45;132-32-9879;E-commerce;Alagoinha;Member;Feminino;Eletrônicos e acessórios;93,96;4;18,792;394,632;3/9/2023;18:00;Em espécie;375,84;4,761904762;18,792;9,5
+46;370-41-7321;E-commerce;Alagoinha;Member;Masculino;Saúde e beleza;56,69;9;25,5105;535,7205;2/27/2023;17:24;Cartão de credito;510,21;4,761904762;25,5105;8,4
+47;727-46-3608;E-commerce;Alagoinha;Member;Feminino;Comida e bebidas;20,01;9;9,0045;189,0945;2/6/2023;15:47;Ewallet;180,09;4,761904762;9,0045;4,1
+48;669-54-1719;E-commerce;Alagoinha;Member;Masculino;Eletrônicos e acessórios;18,93;6;5,679;119,259;2/10/2023;12:45;Cartão de credito;113,58;4,761904762;5,679;8,1
+49;574-22-5561;Representante;Sobradisney;Member;Feminino;Moda e acessórios;82,63;10;41,315;867,615;3/19/2023;17:08;Ewallet;826,3;4,761904762;41,315;7,9
+50;326-78-5178;Representante;Sobradisney;Member;Masculino;Comida e bebidas;91,4;7;31,99;671,79;2/3/2023;10:19;Em espécie;639,8;4,761904762;31,99;9,5
+51;162-48-8011;Loja Física;Ceilondon;Member;Feminino;Comida e bebidas;44,59;5;11,1475;234,0975;2/10/2023;15:10;Em espécie;222,95;4,761904762;11,1475;8,5
+52;616-24-2851;E-commerce;Alagoinha;Member;Feminino;Moda e acessórios;17,87;4;3,574;75,054;3/22/2023;14:42;Ewallet;71,48;4,761904762;3,574;6,5
+53;778-71-5554;Representante;Sobradisney;Member;Masculino;Moda e acessórios;15,43;1;0,7715;16,2015;1/25/2023;15:46;Cartão de credito;15,43;4,761904762;0,7715;6,1
+54;242-55-6721;E-commerce;Alagoinha;Normal;Masculino;Casa e estilo de vida;16,16;2;1,616;33,936;3/7/2023;11:49;Ewallet;32,32;4,761904762;1,616;6,5
+55;399-46-5918;Representante;Sobradisney;Normal;Feminino;Eletrônicos e acessórios;85,98;8;34,392;722,232;2/28/2023;19:01;Em espécie;687,84;4,761904762;34,392;8,2
+56;106-35-6779;Loja Física;Ceilondon;Member;Masculino;Casa e estilo de vida;44,34;2;4,434;93,114;3/27/2023;11:26;Em espécie;88,68;4,761904762;4,434;5,8
+57;635-40-6220;Loja Física;Ceilondon;Normal;Masculino;Saúde e beleza;89,6;8;35,84;752,64;2/7/2023;11:28;Ewallet;716,8;4,761904762;35,84;6,6
+58;817-48-8732;Loja Física;Ceilondon;Member;Feminino;Casa e estilo de vida;72,35;10;36,175;759,675;1/20/2023;15:55;Em espécie;723,5;4,761904762;36,175;5,4
+59;120-06-4233;Representante;Sobradisney;Normal;Masculino;Eletrônicos e acessórios;30,61;6;9,183;192,843;3/12/2023;20:36;Em espécie;183,66;4,761904762;9,183;9,3
+60;285-68-5083;Representante;Sobradisney;Member;Feminino;Esportes e viagens;24,74;3;3,711;77,931;2/15/2023;17:47;Cartão de credito;74,22;4,761904762;3,711;10,0
+61;803-83-5989;Representante;Sobradisney;Normal;Masculino;Casa e estilo de vida;55,73;6;16,719;351,099;2/24/2023;10:55;Ewallet;334,38;4,761904762;16,719;7,0
+62;347-34-2234;E-commerce;Alagoinha;Member;Feminino;Esportes e viagens;55,07;9;24,7815;520,4115;2/3/2023;13:40;Ewallet;495,63;4,761904762;24,7815;10,0
+63;199-75-8169;Loja Física;Ceilondon;Member;Masculino;Esportes e viagens;15,81;10;7,905;166,005;3/6/2023;12:27;Cartão de credito;158,1;4,761904762;7,905;8,6
+64;853-23-2453;E-commerce;Alagoinha;Member;Masculino;Saúde e beleza;75,74;4;15,148;318,108;2/14/2023;14:35;Em espécie;302,96;4,761904762;15,148;7,6
+65;877-22-3308;Loja Física;Ceilondon;Member;Masculino;Saúde e beleza;15,87;10;7,935;166,635;3/13/2023;16:40;Em espécie;158,7;4,761904762;7,935;5,8
+66;838-78-4295;Representante;Sobradisney;Normal;Feminino;Saúde e beleza;33,47;2;3,347;70,287;2/10/2023;15:43;Ewallet;66,94;4,761904762;3,347;6,7
+67;109-28-2512;E-commerce;Alagoinha;Member;Feminino;Moda e acessórios;97,61;6;29,283;614,943;1/7/2023;15:01;Ewallet;585,66;4,761904762;29,283;9,9
+68;232-11-3025;Loja Física;Ceilondon;Normal;Masculino;Esportes e viagens;78,77;10;39,385;827,085;1/24/2023;10:04;Em espécie;787,7;4,761904762;39,385;6,4
+69;382-03-4532;Loja Física;Ceilondon;Member;Feminino;Saúde e beleza;18,33;1;0,9165;19,2465;2/2/2023;18:50;Em espécie;18,33;4,761904762;0,9165;4,3
+70;393-65-2792;Representante;Sobradisney;Normal;Masculino;Comida e bebidas;89,48;10;44,74;939,54;1/6/2023;12:46;Cartão de credito;894,8;4,761904762;44,74;9,6
+71;796-12-2025;Representante;Sobradisney;Normal;Masculino;Moda e acessórios;62,12;10;31,06;652,26;2/11/2023;16:19;Em espécie;621,2;4,761904762;31,06;5,9
+72;510-95-6347;E-commerce;Alagoinha;Member;Feminino;Comida e bebidas;48,52;3;7,278;152,838;3/5/2023;18:17;Ewallet;145,56;4,761904762;7,278;4,0
+73;841-35-6630;Representante;Sobradisney;Normal;Feminino;Eletrônicos e acessórios;75,91;6;22,773;478,233;3/9/2023;18:21;Em espécie;455,46;4,761904762;22,773;8,7
+74;287-21-9091;Loja Física;Ceilondon;Normal;Masculino;Casa e estilo de vida;74,67;9;33,6015;705,6315;1/22/2023;10:55;Ewallet;672,03;4,761904762;33,6015;9,4
+75;732-94-0499;Representante;Sobradisney;Normal;Feminino;Eletrônicos e acessórios;41,65;10;20,825;437,325;1/13/2023;17:04;Cartão de credito;416,5;4,761904762;20,825;5,4
+76;263-10-3913;Representante;Sobradisney;Member;Masculino;Moda e acessórios;49,04;9;22,068;463,428;1/9/2023;14:20;Cartão de credito;441,36;4,761904762;22,068;8,6
+77;381-20-0914;Loja Física;Ceilondon;Member;Feminino;Moda e acessórios;20,01;9;9,0045;189,0945;1/12/2023;15:48;Cartão de credito;180,09;4,761904762;9,0045;5,7
+78;829-49-1914;Representante;Sobradisney;Member;Feminino;Comida e bebidas;78,31;10;39,155;822,255;3/5/2023;16:24;Ewallet;783,1;4,761904762;39,155;6,6
+79;756-01-7507;Representante;Sobradisney;Normal;Feminino;Saúde e beleza;20,38;5;5,095;106,995;1/22/2023;18:56;Em espécie;101,9;4,761904762;5,095;6,0
+80;870-72-4431;Representante;Sobradisney;Normal;Feminino;Saúde e beleza;99,19;6;29,757;624,897;1/21/2023;14:42;Cartão de credito;595,14;4,761904762;29,757;5,5
+81;847-38-7188;E-commerce;Alagoinha;Normal;Feminino;Comida e bebidas;96,68;3;14,502;304,542;1/26/2023;19:56;Ewallet;290,04;4,761904762;14,502;6,4
+82;480-63-2856;Representante;Sobradisney;Normal;Masculino;Comida e bebidas;19,25;8;7,7;161,7;1/23/2023;18:37;Ewallet;154,0;4,761904762;7,7;6,6
+83;787-56-0757;Representante;Sobradisney;Member;Feminino;Comida e bebidas;80,36;4;16,072;337,512;2/23/2023;18:45;Cartão de credito;321,44;4,761904762;16,072;8,3
+84;360-39-5055;Representante;Sobradisney;Member;Masculino;Esportes e viagens;48,91;5;12,2275;256,7775;3/9/2023;10:17;Em espécie;244,55;4,761904762;12,2275;6,6
+85;730-50-9884;Representante;Sobradisney;Normal;Feminino;Esportes e viagens;83,06;7;29,071;610,491;3/5/2023;14:31;Ewallet;581,42;4,761904762;29,071;4,0
+86;362-58-8315;Representante;Sobradisney;Normal;Masculino;Moda e acessórios;76,52;5;19,13;401,73;3/25/2023;10:23;Em espécie;382,6;4,761904762;19,13;9,9
+87;633-44-8566;Loja Física;Ceilondon;Member;Masculino;Comida e bebidas;49,38;7;17,283;362,943;3/27/2023;20:35;Cartão de credito;345,66;4,761904762;17,283;7,3
+88;504-35-8843;Loja Física;Ceilondon;Normal;Masculino;Esportes e viagens;42,47;1;2,1235;44,5935;1/2/2023;16:57;Em espécie;42,47;4,761904762;2,1235;5,7
+89;318-68-5053;E-commerce;Alagoinha;Normal;Feminino;Saúde e beleza;76,99;6;23,097;485,037;2/27/2023;17:55;Em espécie;461,94;4,761904762;23,097;6,1
+90;565-80-5980;Representante;Sobradisney;Member;Feminino;Casa e estilo de vida;47,38;4;9,476;198,996;1/23/2023;10:25;Em espécie;189,52;4,761904762;9,476;7,1
+91;225-32-0908;Representante;Sobradisney;Normal;Feminino;Esportes e viagens;44,86;10;22,43;471,03;1/26/2023;19:54;Ewallet;448,6;4,761904762;22,43;8,2
+92;873-51-0671;Loja Física;Ceilondon;Member;Feminino;Esportes e viagens;21,98;7;7,693;161,553;1/10/2023;16:42;Ewallet;153,86;4,761904762;7,693;5,1
+93;152-08-9985;E-commerce;Alagoinha;Member;Masculino;Saúde e beleza;64,36;9;28,962;608,202;3/12/2023;12:09;Cartão de credito;579,24;4,761904762;28,962;8,6
+94;512-91-0811;Representante;Sobradisney;Normal;Masculino;Saúde e beleza;89,75;1;4,4875;94,2375;2/6/2023;20:05;Cartão de credito;89,75;4,761904762;4,4875;6,6
+95;594-34-4444;Loja Física;Ceilondon;Normal;Masculino;Eletrônicos e acessórios;97,16;1;4,858;102,018;3/8/2023;20:38;Ewallet;97,16;4,761904762;4,858;7,2
+96;766-85-7061;E-commerce;Alagoinha;Normal;Masculino;Saúde e beleza;87,87;10;43,935;922,635;3/29/2023;10:25;Ewallet;878,7;4,761904762;43,935;5,1
+97;871-39-9221;Representante;Sobradisney;Normal;Feminino;Eletrônicos e acessórios;12,45;6;3,735;78,435;2/9/2023;13:11;Em espécie;74,7;4,761904762;3,735;4,1
+98;865-92-6136;Loja Física;Ceilondon;Normal;Masculino;Comida e bebidas;52,75;3;7,9125;166,1625;3/23/2023;10:16;Ewallet;158,25;4,761904762;7,9125;9,3
+99;733-01-9107;E-commerce;Alagoinha;Normal;Masculino;Casa e estilo de vida;82,7;6;24,81;521,01;3/5/2023;18:14;Em espécie;496,2;4,761904762;24,81;7,4
+100;163-56-7055;Representante;Sobradisney;Member;Masculino;Moda e acessórios;48,71;1;2,4355;51,1455;3/26/2023;19:20;Em espécie;48,71;4,761904762;2,4355;4,1
+101;189-98-2939;Representante;Sobradisney;Normal;Masculino;Moda e acessórios;78,55;9;35,3475;742,2975;3/1/2023;13:22;Em espécie;706,95;4,761904762;35,3475;7,2
+102;551-21-3069;Representante;Sobradisney;Normal;Feminino;Eletrônicos e acessórios;23,07;9;10,3815;218,0115;2/1/2023;11:27;Em espécie;207,63;4,761904762;10,3815;4,9
+103;212-62-1842;Loja Física;Ceilondon;Normal;Masculino;Comida e bebidas;58,26;6;17,478;367,038;3/28/2023;16:44;Em espécie;349,56;4,761904762;17,478;9,9
+104;716-39-1409;E-commerce;Alagoinha;Normal;Masculino;Saúde e beleza;30,35;7;10,6225;223,0725;3/19/2023;18:19;Em espécie;212,45;4,761904762;10,6225;8,0
+105;704-48-3927;Loja Física;Ceilondon;Member;Masculino;Eletrônicos e acessórios;88,67;10;44,335;931,035;1/12/2023;14:50;Ewallet;886,7;4,761904762;44,335;7,3
+106;628-34-3388;Representante;Sobradisney;Normal;Masculino;Moda e acessórios;27,38;6;8,214;172,494;1/5/2023;20:54;Cartão de credito;164,28;4,761904762;8,214;7,9
+107;630-74-5166;Loja Física;Ceilondon;Normal;Masculino;Esportes e viagens;62,13;6;18,639;391,419;3/22/2023;20:19;Em espécie;372,78;4,761904762;18,639;7,4
+108;588-01-7461;Representante;Sobradisney;Normal;Feminino;Comida e bebidas;33,98;9;15,291;321,111;3/24/2023;10:43;Em espécie;305,82;4,761904762;15,291;4,2
+109;861-77-0145;Representante;Sobradisney;Member;Masculino;Eletrônicos e acessórios;81,97;10;40,985;860,685;3/3/2023;14:30;Em espécie;819,7;4,761904762;40,985;9,2
+110;479-26-8945;E-commerce;Alagoinha;Member;Feminino;Esportes e viagens;16,49;2;1,649;34,629;2/5/2023;11:32;Ewallet;32,98;4,761904762;1,649;4,6
+111;210-67-5886;Representante;Sobradisney;Member;Feminino;Saúde e beleza;98,21;3;14,7315;309,3615;2/5/2023;10:41;Cartão de credito;294,63;4,761904762;14,7315;7,8
+112;227-78-1148;E-commerce;Alagoinha;Normal;Feminino;Moda e acessórios;72,84;7;25,494;535,374;2/15/2023;12:44;Em espécie;509,88;4,761904762;25,494;8,4
+113;645-44-1170;Loja Física;Ceilondon;Member;Masculino;Casa e estilo de vida;58,07;9;26,1315;548,7615;1/19/2023;20:07;Ewallet;522,63;4,761904762;26,1315;4,3
+114;237-01-6122;Representante;Sobradisney;Member;Feminino;Casa e estilo de vida;80,79;9;36,3555;763,4655;2/1/2023;20:31;Cartão de credito;727,11;4,761904762;36,3555;9,5
+115;225-98-1496;Representante;Sobradisney;Normal;Feminino;Moda e acessórios;27,02;3;4,053;85,113;3/2/2023;13:01;Cartão de credito;81,06;4,761904762;4,053;7,1
+116;291-32-1427;E-commerce;Alagoinha;Member;Masculino;Moda e acessórios;21,94;5;5,485;115,185;3/5/2023;12:29;Ewallet;109,7;4,761904762;5,485;5,3
+117;659-65-8956;E-commerce;Alagoinha;Member;Masculino;Moda e acessórios;51,36;1;2,568;53,928;1/16/2023;15:26;Ewallet;51,36;4,761904762;2,568;5,2
+118;642-32-2990;Loja Física;Ceilondon;Normal;Feminino;Comida e bebidas;10,96;10;5,48;115,08;2/2/2023;20:48;Ewallet;109,6;4,761904762;5,48;6,0
+119;378-24-2715;E-commerce;Alagoinha;Normal;Masculino;Casa e estilo de vida;53,44;2;5,344;112,224;1/20/2023;20:38;Ewallet;106,88;4,761904762;5,344;4,1
+120;638-60-7125;Loja Física;Ceilondon;Normal;Feminino;Eletrônicos e acessórios;99,56;8;39,824;836,304;2/14/2023;17:03;Cartão de credito;796,48;4,761904762;39,824;5,2
+121;659-36-1684;Representante;Sobradisney;Member;Masculino;Esportes e viagens;57,12;7;19,992;419,832;1/12/2023;12:02;Cartão de credito;399,84;4,761904762;19,992;6,5
+122;219-22-9386;E-commerce;Alagoinha;Member;Masculino;Esportes e viagens;99,96;9;44,982;944,622;3/9/2023;17:26;Cartão de credito;899,64;4,761904762;44,982;4,2
+123;336-78-2147;Representante;Sobradisney;Member;Masculino;Casa e estilo de vida;63,91;8;25,564;536,844;3/13/2023;19:52;Cartão de credito;511,28;4,761904762;25,564;4,6
+124;268-27-6179;E-commerce;Alagoinha;Member;Feminino;Moda e acessórios;56,47;8;22,588;474,348;3/9/2023;14:57;Ewallet;451,76;4,761904762;22,588;7,3
+125;668-90-8900;Loja Física;Ceilondon;Normal;Feminino;Casa e estilo de vida;93,69;7;32,7915;688,6215;3/10/2023;18:44;Cartão de credito;655,83;4,761904762;32,7915;4,5
+126;870-54-3162;Loja Física;Ceilondon;Normal;Feminino;Esportes e viagens;32,25;5;8,0625;169,3125;1/27/2023;13:26;Em espécie;161,25;4,761904762;8,0625;9,0
+127;189-08-9157;Representante;Sobradisney;Normal;Feminino;Moda e acessórios;31,73;9;14,2785;299,8485;1/8/2023;16:17;Cartão de credito;285,57;4,761904762;14,2785;5,9
+128;663-86-9076;Representante;Sobradisney;Member;Feminino;Comida e bebidas;68,54;8;27,416;575,736;1/8/2023;15:57;Ewallet;548,32;4,761904762;27,416;8,5
+129;549-84-7482;E-commerce;Alagoinha;Normal;Feminino;Esportes e viagens;90,28;9;40,626;853,146;2/8/2023;11:15;Ewallet;812,52;4,761904762;40,626;7,2
+130;191-10-6171;E-commerce;Alagoinha;Normal;Feminino;Moda e acessórios;39,62;7;13,867;291,207;1/25/2023;13:18;Em espécie;277,34;4,761904762;13,867;7,5
+131;802-70-5316;Loja Física;Ceilondon;Member;Feminino;Esportes e viagens;92,13;6;27,639;580,419;3/6/2023;20:34;Em espécie;552,78;4,761904762;27,639;8,3
+132;695-51-0018;E-commerce;Alagoinha;Normal;Feminino;Esportes e viagens;34,84;4;6,968;146,328;2/10/2023;18:36;Em espécie;139,36;4,761904762;6,968;7,4
+133;590-83-4591;E-commerce;Alagoinha;Member;Masculino;Eletrônicos e acessórios;87,45;6;26,235;550,935;2/17/2023;14:40;Cartão de credito;524,7;4,761904762;26,235;8,8
+134;483-71-1164;Representante;Sobradisney;Normal;Feminino;Saúde e beleza;81,3;6;24,39;512,19;3/8/2023;16:43;Ewallet;487,8;4,761904762;24,39;5,3
+135;597-78-7908;Representante;Sobradisney;Normal;Masculino;Moda e acessórios;90,22;3;13,533;284,193;2/18/2023;19:39;Em espécie;270,66;4,761904762;13,533;6,2
+136;700-81-1757;Loja Física;Ceilondon;Normal;Feminino;Eletrônicos e acessórios;26,31;5;6,5775;138,1275;1/18/2023;20:59;Cartão de credito;131,55;4,761904762;6,5775;8,8
+137;354-39-5160;Loja Física;Ceilondon;Member;Feminino;Casa e estilo de vida;34,42;6;10,326;216,846;2/18/2023;15:39;Em espécie;206,52;4,761904762;10,326;9,8
+138;241-72-9525;E-commerce;Alagoinha;Normal;Masculino;Esportes e viagens;51,91;10;25,955;545,055;2/16/2023;12:21;Em espécie;519,1;4,761904762;25,955;8,2
+139;575-30-8091;Loja Física;Ceilondon;Normal;Masculino;Esportes e viagens;72,5;8;29,0;609,0;3/16/2023;19:25;Ewallet;580,0;4,761904762;29,0;9,2
+140;731-81-9469;Representante;Sobradisney;Member;Feminino;Esportes e viagens;89,8;10;44,9;942,9;1/23/2023;13:00;Cartão de credito;898,0;4,761904762;44,9;5,4
+141;280-17-4359;Representante;Sobradisney;Member;Masculino;Saúde e beleza;90,5;10;45,25;950,25;1/25/2023;13:48;Em espécie;905,0;4,761904762;45,25;8,1
+142;338-65-2210;Representante;Sobradisney;Member;Feminino;Saúde e beleza;68,6;10;34,3;720,3;2/5/2023;19:57;Em espécie;686,0;4,761904762;34,3;9,1
+143;488-25-4221;Representante;Sobradisney;Member;Feminino;Comida e bebidas;30,41;1;1,5205;31,9305;2/22/2023;10:36;Cartão de credito;30,41;4,761904762;1,5205;8,4
+144;239-10-7476;Loja Física;Ceilondon;Normal;Feminino;Casa e estilo de vida;77,95;6;23,385;491,085;1/21/2023;16:37;Ewallet;467,7;4,761904762;23,385;8,0
+145;458-41-1477;Representante;Sobradisney;Normal;Feminino;Saúde e beleza;46,26;6;13,878;291,438;3/8/2023;17:11;Cartão de credito;277,56;4,761904762;13,878;9,5
+146;685-64-1609;Loja Física;Ceilondon;Member;Feminino;Moda e acessórios;30,14;10;15,07;316,47;2/10/2023;12:28;Ewallet;301,4;4,761904762;15,07;9,2
+147;568-90-5112;Representante;Sobradisney;Normal;Masculino;Saúde e beleza;66,14;4;13,228;277,788;3/19/2023;12:46;Cartão de credito;264,56;4,761904762;13,228;5,6
+148;262-47-2794;E-commerce;Alagoinha;Member;Masculino;Casa e estilo de vida;71,86;8;28,744;603,624;3/6/2023;15:07;Cartão de credito;574,88;4,761904762;28,744;6,2
+149;238-49-0436;Loja Física;Ceilondon;Normal;Masculino;Saúde e beleza;32,46;8;12,984;272,664;3/27/2023;13:48;Cartão de credito;259,68;4,761904762;12,984;4,9
+150;608-96-3517;E-commerce;Alagoinha;Member;Feminino;Moda e acessórios;91,54;4;18,308;384,468;3/23/2023;19:20;Cartão de credito;366,16;4,761904762;18,308;4,8
+151;584-86-7256;Representante;Sobradisney;Member;Masculino;Esportes e viagens;34,56;7;12,096;254,016;3/11/2023;16:07;Cartão de credito;241,92;4,761904762;12,096;7,3
+152;746-94-0204;Loja Física;Ceilondon;Normal;Masculino;Moda e acessórios;83,24;9;37,458;786,618;1/29/2023;11:56;Cartão de credito;749,16;4,761904762;37,458;7,4
+153;214-17-6927;Representante;Sobradisney;Normal;Feminino;Comida e bebidas;16,48;6;4,944;103,824;2/7/2023;18:23;Ewallet;98,88;4,761904762;4,944;9,9
+154;400-89-4171;Representante;Sobradisney;Normal;Feminino;Esportes e viagens;80,97;8;32,388;680,148;1/28/2023;13:05;Em espécie;647,76;4,761904762;32,388;9,3
+155;782-95-9291;Loja Física;Ceilondon;Member;Masculino;Comida e bebidas;92,29;5;23,0725;484,5225;2/20/2023;15:55;Cartão de credito;461,45;4,761904762;23,0725;9,0
+156;279-74-2924;E-commerce;Alagoinha;Member;Masculino;Eletrônicos e acessórios;72,17;1;3,6085;75,7785;1/4/2023;19:40;Em espécie;72,17;4,761904762;3,6085;6,1
+157;307-85-2293;E-commerce;Alagoinha;Normal;Masculino;Casa e estilo de vida;50,28;5;12,57;263,97;3/7/2023;13:58;Ewallet;251,4;4,761904762;12,57;9,7
+158;743-04-1105;E-commerce;Alagoinha;Member;Masculino;Saúde e beleza;97,22;9;43,749;918,729;3/30/2023;14:43;Ewallet;874,98;4,761904762;43,749;6,0
+159;423-57-2993;E-commerce;Alagoinha;Normal;Masculino;Esportes e viagens;93,39;6;28,017;588,357;3/27/2023;19:18;Ewallet;560,34;4,761904762;28,017;10,0
+160;894-41-5205;Representante;Sobradisney;Normal;Feminino;Comida e bebidas;43,18;8;17,272;362,712;1/19/2023;19:39;Cartão de credito;345,44;4,761904762;17,272;8,3
+161;275-28-0149;Loja Física;Ceilondon;Normal;Masculino;Esportes e viagens;63,69;1;3,1845;66,8745;2/25/2023;16:21;Em espécie;63,69;4,761904762;3,1845;6,0
+162;101-17-6199;Loja Física;Ceilondon;Normal;Masculino;Comida e bebidas;45,79;7;16,0265;336,5565;3/13/2023;19:44;Cartão de credito;320,53;4,761904762;16,0265;7,0
+163;423-80-0988;Representante;Sobradisney;Normal;Masculino;Esportes e viagens;76,4;2;7,64;160,44;1/30/2023;19:42;Ewallet;152,8;4,761904762;7,64;6,5
+164;548-46-9322;E-commerce;Alagoinha;Normal;Masculino;Comida e bebidas;39,9;10;19,95;418,95;2/20/2023;15:24;Cartão de credito;399,0;4,761904762;19,95;5,9
+165;505-02-0892;E-commerce;Alagoinha;Member;Masculino;Saúde e beleza;42,57;8;17,028;357,588;2/25/2023;14:12;Ewallet;340,56;4,761904762;17,028;5,6
+166;234-65-2137;Representante;Sobradisney;Normal;Masculino;Casa e estilo de vida;95,58;10;47,79;1003,59;1/16/2023;13:32;Em espécie;955,8;4,761904762;47,79;4,8
+167;687-47-8271;Loja Física;Ceilondon;Normal;Masculino;Moda e acessórios;98,98;10;49,49;1039,29;2/8/2023;16:20;Cartão de credito;989,8;4,761904762;49,49;8,7
+168;796-32-9050;Loja Física;Ceilondon;Normal;Masculino;Comida e bebidas;51,28;6;15,384;323,064;1/19/2023;16:31;Em espécie;307,68;4,761904762;15,384;6,5
+169;105-31-1824;Loja Física;Ceilondon;Member;Masculino;Esportes e viagens;69,52;7;24,332;510,972;2/1/2023;15:10;Cartão de credito;486,64;4,761904762;24,332;8,5
+170;249-42-3782;Loja Física;Ceilondon;Normal;Masculino;Saúde e beleza;70,01;5;17,5025;367,5525;1/3/2023;11:36;Ewallet;350,05;4,761904762;17,5025;5,5
+171;316-55-4634;E-commerce;Alagoinha;Member;Masculino;Comida e bebidas;80,05;5;20,0125;420,2625;1/26/2023;12:45;Cartão de credito;400,25;4,761904762;20,0125;9,4
+172;733-33-4967;Representante;Sobradisney;Normal;Masculino;Eletrônicos e acessórios;20,85;8;8,34;175,14;3/3/2023;19:17;Em espécie;166,8;4,761904762;8,34;6,3
+173;608-27-6295;E-commerce;Alagoinha;Member;Masculino;Eletrônicos e acessórios;52,89;6;15,867;333,207;1/19/2023;17:34;Cartão de credito;317,34;4,761904762;15,867;9,8
+174;414-12-7047;E-commerce;Alagoinha;Normal;Masculino;Comida e bebidas;19,79;8;7,916;166,236;1/18/2023;12:04;Ewallet;158,32;4,761904762;7,916;8,7
+175;827-26-2100;Loja Física;Ceilondon;Member;Masculino;Casa e estilo de vida;33,84;9;15,228;319,788;3/21/2023;16:21;Ewallet;304,56;4,761904762;15,228;8,8
+176;175-54-2529;Loja Física;Ceilondon;Member;Masculino;Comida e bebidas;22,17;8;8,868;186,228;3/3/2023;17:01;Cartão de credito;177,36;4,761904762;8,868;9,6
+177;139-52-2867;Representante;Sobradisney;Normal;Feminino;Moda e acessórios;22,51;7;7,8785;165,4485;2/13/2023;10:50;Cartão de credito;157,57;4,761904762;7,8785;4,8
+178;407-63-8975;Loja Física;Ceilondon;Normal;Masculino;Comida e bebidas;73,88;6;22,164;465,444;3/23/2023;19:16;Ewallet;443,28;4,761904762;22,164;4,4
+179;342-65-4817;Representante;Sobradisney;Member;Masculino;Saúde e beleza;86,8;3;13,02;273,42;1/28/2023;16:47;Ewallet;260,4;4,761904762;13,02;9,9
+180;130-98-8941;Representante;Sobradisney;Normal;Masculino;Moda e acessórios;64,26;7;22,491;472,311;2/9/2023;10:00;Em espécie;449,82;4,761904762;22,491;5,7
+181;434-83-9547;Representante;Sobradisney;Member;Masculino;Comida e bebidas;38,47;8;15,388;323,148;1/23/2023;11:51;Em espécie;307,76;4,761904762;15,388;7,7
+182;851-28-6367;Loja Física;Ceilondon;Member;Masculino;Esportes e viagens;15,5;10;7,75;162,75;3/23/2023;10:55;Ewallet;155,0;4,761904762;7,75;8,0
+183;824-88-3614;Representante;Sobradisney;Normal;Masculino;Saúde e beleza;34,31;8;13,724;288,204;1/25/2023;15:00;Ewallet;274,48;4,761904762;13,724;5,7
+184;586-25-0848;Loja Física;Ceilondon;Normal;Feminino;Esportes e viagens;12,34;7;4,319;90,699;3/4/2023;11:19;Cartão de credito;86,38;4,761904762;4,319;6,7
+185;895-66-0685;E-commerce;Alagoinha;Member;Masculino;Comida e bebidas;18,08;3;2,712;56,952;3/5/2023;19:46;Ewallet;54,24;4,761904762;2,712;8,0
+186;305-14-0245;E-commerce;Alagoinha;Member;Feminino;Casa e estilo de vida;94,49;8;37,796;793,716;3/3/2023;19:00;Ewallet;755,92;4,761904762;37,796;7,5
+187;732-04-5373;E-commerce;Alagoinha;Member;Masculino;Casa e estilo de vida;46,47;4;9,294;195,174;2/8/2023;10:53;Em espécie;185,88;4,761904762;9,294;7,0
+188;400-60-7251;Loja Física;Ceilondon;Normal;Masculino;Casa e estilo de vida;74,07;1;3,7035;77,7735;2/10/2023;12:50;Ewallet;74,07;4,761904762;3,7035;9,9
+189;593-65-1552;Representante;Sobradisney;Normal;Feminino;Casa e estilo de vida;69,81;4;13,962;293,202;1/28/2023;20:50;Cartão de credito;279,24;4,761904762;13,962;5,9
+190;284-34-9626;E-commerce;Alagoinha;Normal;Feminino;Casa e estilo de vida;77,04;3;11,556;242,676;2/11/2023;10:39;Cartão de credito;231,12;4,761904762;11,556;7,2
+191;437-58-8131;E-commerce;Alagoinha;Normal;Feminino;Moda e acessórios;73,52;2;7,352;154,392;1/15/2023;13:41;Ewallet;147,04;4,761904762;7,352;4,6
+192;286-43-6208;Representante;Sobradisney;Normal;Feminino;Comida e bebidas;87,8;9;39,51;829,71;3/16/2023;19:08;Em espécie;790,2;4,761904762;39,51;9,2
+193;641-43-2399;E-commerce;Alagoinha;Normal;Masculino;Casa e estilo de vida;25,55;4;5,11;107,31;1/26/2023;20:23;Ewallet;102,2;4,761904762;5,11;5,7
+194;831-07-6050;Loja Física;Ceilondon;Normal;Masculino;Eletrônicos e acessórios;32,71;5;8,1775;171,7275;3/19/2023;11:30;Cartão de credito;163,55;4,761904762;8,1775;9,9
+195;556-86-3144;Representante;Sobradisney;Member;Feminino;Moda e acessórios;74,29;1;3,7145;78,0045;1/13/2023;19:30;Em espécie;74,29;4,761904762;3,7145;5,0
+196;848-24-9445;Representante;Sobradisney;Member;Masculino;Saúde e beleza;43,7;2;4,37;91,77;3/26/2023;18:03;Em espécie;87,4;4,761904762;4,37;4,9
+197;856-22-8149;Loja Física;Ceilondon;Normal;Feminino;Casa e estilo de vida;25,29;1;1,2645;26,5545;3/23/2023;10:13;Ewallet;25,29;4,761904762;1,2645;6,1
+198;699-01-4164;Representante;Sobradisney;Normal;Masculino;Saúde e beleza;41,5;4;8,3;174,3;3/12/2023;19:58;Cartão de credito;166,0;4,761904762;8,3;8,2
+199;420-11-4919;Representante;Sobradisney;Member;Feminino;Comida e bebidas;71,39;5;17,8475;374,7975;2/17/2023;19:57;Cartão de credito;356,95;4,761904762;17,8475;5,5
+200;606-80-4905;Representante;Sobradisney;Member;Feminino;Esportes e viagens;19,15;6;5,745;120,645;1/29/2023;10:01;Cartão de credito;114,9;4,761904762;5,745;6,8
+201;542-41-0513;E-commerce;Alagoinha;Member;Feminino;Eletrônicos e acessórios;57,49;4;11,498;241,458;3/15/2023;11:57;Em espécie;229,96;4,761904762;11,498;6,6
+202;426-39-2418;Representante;Sobradisney;Normal;Masculino;Eletrônicos e acessórios;61,41;7;21,4935;451,3635;1/14/2023;10:02;Em espécie;429,87;4,761904762;21,4935;9,8
+203;875-46-5808;E-commerce;Alagoinha;Member;Masculino;Saúde e beleza;25,9;10;12,95;271,95;2/6/2023;14:51;Ewallet;259,0;4,761904762;12,95;8,7
+204;394-43-4238;E-commerce;Alagoinha;Member;Masculino;Casa e estilo de vida;17,77;5;4,4425;93,2925;2/15/2023;12:42;Cartão de credito;88,85;4,761904762;4,4425;5,4
+205;749-24-1565;Loja Física;Ceilondon;Normal;Feminino;Saúde e beleza;23,03;9;10,3635;217,6335;1/3/2023;12:02;Ewallet;207,27;4,761904762;10,3635;7,9
+206;672-51-8681;Representante;Sobradisney;Member;Feminino;Eletrônicos e acessórios;66,65;9;29,9925;629,8425;1/4/2023;18:19;Cartão de credito;599,85;4,761904762;29,9925;9,7
+207;263-87-5680;Representante;Sobradisney;Member;Feminino;Casa e estilo de vida;28,53;10;14,265;299,565;3/18/2023;17:38;Ewallet;285,3;4,761904762;14,265;7,8
+208;573-58-9734;E-commerce;Alagoinha;Normal;Feminino;Moda e acessórios;30,37;3;4,5555;95,6655;3/28/2023;13:41;Ewallet;91,11;4,761904762;4,5555;5,1
+209;817-69-8206;E-commerce;Alagoinha;Normal;Feminino;Eletrônicos e acessórios;99,73;9;44,8785;942,4485;3/2/2023;19:42;Cartão de credito;897,57;4,761904762;44,8785;6,5
+210;888-02-0338;Loja Física;Ceilondon;Normal;Masculino;Eletrônicos e acessórios;26,23;9;11,8035;247,8735;1/25/2023;20:24;Ewallet;236,07;4,761904762;11,8035;5,9
+211;677-11-0152;Representante;Sobradisney;Normal;Feminino;Comida e bebidas;93,26;9;41,967;881,307;1/16/2023;18:08;Em espécie;839,34;4,761904762;41,967;8,8
+212;142-63-6033;E-commerce;Alagoinha;Normal;Masculino;Casa e estilo de vida;92,36;5;23,09;484,89;3/20/2023;19:17;Ewallet;461,8;4,761904762;23,09;4,9
+213;656-16-1063;E-commerce;Alagoinha;Normal;Masculino;Esportes e viagens;46,42;3;6,963;146,223;1/4/2023;13:24;Cartão de credito;139,26;4,761904762;6,963;4,4
+214;891-58-8335;E-commerce;Alagoinha;Member;Feminino;Esportes e viagens;29,61;7;10,3635;217,6335;3/11/2023;15:53;Em espécie;207,27;4,761904762;10,3635;6,5
+215;802-43-8934;Loja Física;Ceilondon;Normal;Masculino;Casa e estilo de vida;18,28;1;0,914;19,194;3/22/2023;15:05;Cartão de credito;18,28;4,761904762;0,914;8,3
+216;560-30-5617;E-commerce;Alagoinha;Normal;Feminino;Esportes e viagens;24,77;5;6,1925;130,0425;3/24/2023;18:27;Em espécie;123,85;4,761904762;6,1925;8,5
+217;319-74-2561;Loja Física;Ceilondon;Member;Feminino;Eletrônicos e acessórios;94,64;3;14,196;298,116;2/21/2023;16:55;Em espécie;283,92;4,761904762;14,196;5,5
+218;549-03-9315;E-commerce;Alagoinha;Normal;Masculino;Moda e acessórios;94,87;8;37,948;796,908;2/12/2023;12:58;Ewallet;758,96;4,761904762;37,948;8,7
+219;790-29-1172;E-commerce;Alagoinha;Normal;Feminino;Comida e bebidas;57,34;3;8,601;180,621;3/10/2023;18:59;Cartão de credito;172,02;4,761904762;8,601;7,9
+220;239-36-3640;E-commerce;Alagoinha;Normal;Masculino;Eletrônicos e acessórios;45,35;6;13,605;285,705;1/31/2023;13:44;Ewallet;272,1;4,761904762;13,605;6,1
+221;468-01-2051;E-commerce;Alagoinha;Normal;Masculino;Comida e bebidas;62,08;7;21,728;456,288;3/6/2023;13:46;Ewallet;434,56;4,761904762;21,728;5,4
+222;389-25-3394;Representante;Sobradisney;Normal;Masculino;Eletrônicos e acessórios;11,81;5;2,9525;62,0025;2/17/2023;18:06;Em espécie;59,05;4,761904762;2,9525;9,4
+223;279-62-1445;Representante;Sobradisney;Member;Feminino;Moda e acessórios;12,54;1;0,627;13,167;2/21/2023;12:38;Em espécie;12,54;4,761904762;0,627;8,2
+224;213-72-6612;Loja Física;Ceilondon;Normal;Masculino;Comida e bebidas;43,25;2;4,325;90,825;3/20/2023;15:56;Em espécie;86,5;4,761904762;4,325;6,2
+225;746-68-6593;Representante;Sobradisney;Member;Feminino;Esportes e viagens;87,16;2;8,716;183,036;1/11/2023;14:29;Cartão de credito;174,32;4,761904762;8,716;9,7
+226;836-82-5858;E-commerce;Alagoinha;Member;Masculino;Saúde e beleza;69,37;9;31,2165;655,5465;1/26/2023;19:14;Ewallet;624,33;4,761904762;31,2165;4,0
+227;583-72-1480;Representante;Sobradisney;Member;Masculino;Eletrônicos e acessórios;37,06;4;7,412;155,652;1/31/2023;16:24;Ewallet;148,24;4,761904762;7,412;9,7
+228;466-61-5506;E-commerce;Alagoinha;Member;Feminino;Eletrônicos e acessórios;90,7;6;27,21;571,41;2/26/2023;10:52;Em espécie;544,2;4,761904762;27,21;5,3
+229;721-86-6247;Loja Física;Ceilondon;Normal;Feminino;Casa e estilo de vida;63,42;8;25,368;532,728;3/11/2023;12:55;Ewallet;507,36;4,761904762;25,368;7,4
+230;289-65-5721;E-commerce;Alagoinha;Normal;Feminino;Moda e acessórios;81,37;2;8,137;170,877;1/26/2023;19:28;Em espécie;162,74;4,761904762;8,137;6,5
+231;545-46-3100;E-commerce;Alagoinha;Member;Feminino;Eletrônicos e acessórios;10,59;3;1,5885;33,3585;3/12/2023;13:52;Cartão de credito;31,77;4,761904762;1,5885;8,7
+232;418-02-5978;E-commerce;Alagoinha;Normal;Feminino;Saúde e beleza;84,09;9;37,8405;794,6505;2/11/2023;10:54;Em espécie;756,81;4,761904762;37,8405;8,0
+233;269-04-5750;E-commerce;Alagoinha;Member;Masculino;Moda e acessórios;73,82;4;14,764;310,044;2/21/2023;18:31;Em espécie;295,28;4,761904762;14,764;6,7
+234;157-13-5295;Loja Física;Ceilondon;Member;Masculino;Saúde e beleza;51,94;10;25,97;545,37;3/9/2023;18:24;Ewallet;519,4;4,761904762;25,97;6,5
+235;645-78-8093;Loja Física;Ceilondon;Normal;Feminino;Esportes e viagens;93,14;2;9,314;195,594;1/20/2023;18:09;Ewallet;186,28;4,761904762;9,314;4,1
+236;211-30-9270;Representante;Sobradisney;Normal;Masculino;Saúde e beleza;17,41;5;4,3525;91,4025;1/28/2023;15:16;Cartão de credito;87,05;4,761904762;4,3525;4,9
+237;755-12-3214;Representante;Sobradisney;Member;Feminino;Moda e acessórios;44,22;5;11,055;232,155;3/5/2023;17:07;Cartão de credito;221,1;4,761904762;11,055;8,6
+238;346-84-3103;E-commerce;Alagoinha;Member;Feminino;Eletrônicos e acessórios;13,22;5;3,305;69,405;3/2/2023;19:26;Em espécie;66,1;4,761904762;3,305;4,3
+239;478-06-7835;Loja Física;Ceilondon;Normal;Masculino;Moda e acessórios;89,69;1;4,4845;94,1745;1/11/2023;11:20;Ewallet;89,69;4,761904762;4,4845;4,9
+240;540-11-4336;Loja Física;Ceilondon;Normal;Masculino;Comida e bebidas;24,94;9;11,223;235,683;1/11/2023;16:49;Cartão de credito;224,46;4,761904762;11,223;5,6
+241;448-81-5016;Loja Física;Ceilondon;Normal;Masculino;Saúde e beleza;59,77;2;5,977;125,517;3/11/2023;12:01;Cartão de credito;119,54;4,761904762;5,977;5,8
+242;142-72-4741;Representante;Sobradisney;Member;Masculino;Moda e acessórios;93,2;2;9,32;195,72;2/28/2023;18:37;Cartão de credito;186,4;4,761904762;9,32;6,0
+243;217-58-1179;Loja Física;Ceilondon;Member;Masculino;Casa e estilo de vida;62,65;4;12,53;263,13;1/5/2023;11:25;Em espécie;250,6;4,761904762;12,53;4,2
+244;376-02-8238;E-commerce;Alagoinha;Normal;Masculino;Casa e estilo de vida;93,87;8;37,548;788,508;2/2/2023;18:42;Cartão de credito;750,96;4,761904762;37,548;8,3
+245;530-90-9855;Loja Física;Ceilondon;Member;Masculino;Casa e estilo de vida;47,59;8;19,036;399,756;1/1/2023;14:47;Em espécie;380,72;4,761904762;19,036;5,7
+246;866-05-7563;E-commerce;Alagoinha;Member;Feminino;Eletrônicos e acessórios;81,4;3;12,21;256,41;2/9/2023;19:43;Em espécie;244,2;4,761904762;12,21;4,8
+247;604-70-6476;Loja Física;Ceilondon;Member;Masculino;Moda e acessórios;17,94;5;4,485;94,185;1/23/2023;14:04;Ewallet;89,7;4,761904762;4,485;6,8
+248;799-71-1548;Loja Física;Ceilondon;Member;Masculino;Eletrônicos e acessórios;77,72;4;15,544;326,424;1/7/2023;16:11;Cartão de credito;310,88;4,761904762;15,544;8,8
+249;785-13-7708;E-commerce;Alagoinha;Normal;Masculino;Comida e bebidas;73,06;7;25,571;536,991;1/14/2023;19:06;Cartão de credito;511,42;4,761904762;25,571;4,2
+250;845-51-0542;E-commerce;Alagoinha;Member;Masculino;Comida e bebidas;46,55;9;20,9475;439,8975;2/2/2023;15:34;Ewallet;418,95;4,761904762;20,9475;6,4
+251;662-47-5456;Representante;Sobradisney;Member;Masculino;Moda e acessórios;35,19;10;17,595;369,495;3/17/2023;19:06;Cartão de credito;351,9;4,761904762;17,595;8,4
+252;883-17-4236;Representante;Sobradisney;Normal;Feminino;Esportes e viagens;14,39;2;1,439;30,219;3/2/2023;19:44;Cartão de credito;28,78;4,761904762;1,439;7,2
+253;290-68-2984;Loja Física;Ceilondon;Normal;Masculino;Casa e estilo de vida;23,75;4;4,75;99,75;3/16/2023;11:22;Em espécie;95,0;4,761904762;4,75;5,2
+254;704-11-6354;Loja Física;Ceilondon;Member;Masculino;Casa e estilo de vida;58,9;8;23,56;494,76;1/6/2023;11:23;Em espécie;471,2;4,761904762;23,56;8,9
+255;110-48-7033;E-commerce;Alagoinha;Member;Masculino;Moda e acessórios;32,62;4;6,524;137,004;1/29/2023;14:12;Em espécie;130,48;4,761904762;6,524;9,0
+256;366-93-0948;Loja Física;Ceilondon;Member;Masculino;Eletrônicos e acessórios;66,35;1;3,3175;69,6675;1/31/2023;10:46;Cartão de credito;66,35;4,761904762;3,3175;9,7
+257;729-09-9681;Loja Física;Ceilondon;Member;Masculino;Casa e estilo de vida;25,91;6;7,773;163,233;2/5/2023;10:16;Ewallet;155,46;4,761904762;7,773;8,7
+258;151-16-1484;Loja Física;Ceilondon;Member;Masculino;Eletrônicos e acessórios;32,25;4;6,45;135,45;2/13/2023;12:38;Ewallet;129,0;4,761904762;6,45;6,5
+259;380-94-4661;Representante;Sobradisney;Member;Masculino;Eletrônicos e acessórios;65,94;4;13,188;276,948;2/7/2023;13:05;Cartão de credito;263,76;4,761904762;13,188;6,9
+260;850-41-9669;Loja Física;Ceilondon;Normal;Feminino;Eletrônicos e acessórios;75,06;9;33,777;709,317;3/19/2023;13:25;Ewallet;675,54;4,761904762;33,777;6,2
+261;821-07-3596;Representante;Sobradisney;Normal;Feminino;Moda e acessórios;16,45;4;3,29;69,09;3/7/2023;14:53;Ewallet;65,8;4,761904762;3,29;5,6
+262;655-85-5130;E-commerce;Alagoinha;Member;Feminino;Moda e acessórios;38,3;4;7,66;160,86;3/13/2023;19:22;Em espécie;153,2;4,761904762;7,66;5,7
+263;447-15-7839;Loja Física;Ceilondon;Member;Feminino;Esportes e viagens;22,24;10;11,12;233,52;2/9/2023;11:00;Em espécie;222,4;4,761904762;11,12;4,2
+264;154-74-7179;E-commerce;Alagoinha;Normal;Masculino;Esportes e viagens;54,45;1;2,7225;57,1725;2/26/2023;19:24;Ewallet;54,45;4,761904762;2,7225;7,9
+265;253-12-6086;Loja Física;Ceilondon;Member;Feminino;Esportes e viagens;98,4;7;34,44;723,24;3/12/2023;12:43;Cartão de credito;688,8;4,761904762;34,44;8,7
+266;808-65-0703;Representante;Sobradisney;Normal;Masculino;Casa e estilo de vida;35,47;4;7,094;148,974;3/14/2023;17:22;Cartão de credito;141,88;4,761904762;7,094;6,9
+267;571-94-0759;E-commerce;Alagoinha;Member;Feminino;Comida e bebidas;74,6;10;37,3;783,3;1/8/2023;20:55;Em espécie;746,0;4,761904762;37,3;9,5
+268;144-51-6085;Loja Física;Ceilondon;Member;Masculino;Casa e estilo de vida;70,74;4;14,148;297,108;1/5/2023;16:05;Cartão de credito;282,96;4,761904762;14,148;4,4
+269;731-14-2199;Loja Física;Ceilondon;Member;Feminino;Casa e estilo de vida;35,54;10;17,77;373,17;1/4/2023;13:34;Ewallet;355,4;4,761904762;17,77;7,0
+270;783-09-1637;E-commerce;Alagoinha;Normal;Feminino;Esportes e viagens;67,43;5;16,8575;354,0075;3/6/2023;18:13;Ewallet;337,15;4,761904762;16,8575;6,3
+271;687-15-1097;Representante;Sobradisney;Member;Feminino;Saúde e beleza;21,12;2;2,112;44,352;1/3/2023;19:17;Em espécie;42,24;4,761904762;2,112;9,7
+272;126-54-1082;Loja Física;Ceilondon;Member;Feminino;Casa e estilo de vida;21,54;9;9,693;203,553;1/7/2023;11:44;Cartão de credito;193,86;4,761904762;9,693;8,8
+273;633-91-1052;Loja Física;Ceilondon;Normal;Feminino;Casa e estilo de vida;12,03;2;1,203;25,263;1/27/2023;15:51;Em espécie;24,06;4,761904762;1,203;5,1
+274;477-24-6490;E-commerce;Alagoinha;Normal;Feminino;Saúde e beleza;99,71;6;29,913;628,173;2/26/2023;16:52;Ewallet;598,26;4,761904762;29,913;7,9
+275;566-19-5475;E-commerce;Alagoinha;Normal;Masculino;Moda e acessórios;47,97;7;16,7895;352,5795;1/7/2023;20:52;Em espécie;335,79;4,761904762;16,7895;6,2
+276;526-86-8552;Representante;Sobradisney;Member;Feminino;Casa e estilo de vida;21,82;10;10,91;229,11;1/7/2023;17:36;Em espécie;218,2;4,761904762;10,91;7,1
+277;376-56-3573;Representante;Sobradisney;Normal;Feminino;Moda e acessórios;95,42;4;19,084;400,764;2/2/2023;13:23;Ewallet;381,68;4,761904762;19,084;6,4
+278;537-72-0426;Representante;Sobradisney;Member;Masculino;Moda e acessórios;70,99;10;35,495;745,395;3/20/2023;16:28;Em espécie;709,9;4,761904762;35,495;5,7
+279;828-61-5674;Loja Física;Ceilondon;Member;Masculino;Esportes e viagens;44,02;10;22,01;462,21;3/20/2023;19:57;Cartão de credito;440,2;4,761904762;22,01;9,6
+280;136-08-6195;Loja Física;Ceilondon;Normal;Feminino;Casa e estilo de vida;69,96;8;27,984;587,664;2/15/2023;17:01;Cartão de credito;559,68;4,761904762;27,984;6,4
+281;523-38-0215;Representante;Sobradisney;Normal;Masculino;Casa e estilo de vida;37,0;1;1,85;38,85;3/6/2023;13:29;Cartão de credito;37,0;4,761904762;1,85;7,9
+282;490-29-1201;Loja Física;Ceilondon;Normal;Feminino;Esportes e viagens;15,34;1;0,767;16,107;1/6/2023;11:09;Em espécie;15,34;4,761904762;0,767;6,5
+283;667-92-0055;Loja Física;Ceilondon;Member;Masculino;Saúde e beleza;99,83;6;29,949;628,929;3/4/2023;15:02;Ewallet;598,98;4,761904762;29,949;8,5
+284;565-17-3836;Loja Física;Ceilondon;Member;Feminino;Saúde e beleza;47,67;4;9,534;200,214;3/12/2023;14:21;Em espécie;190,68;4,761904762;9,534;9,1
+285;498-41-1961;E-commerce;Alagoinha;Normal;Masculino;Saúde e beleza;66,68;5;16,67;350,07;2/20/2023;18:01;Em espécie;333,4;4,761904762;16,67;7,6
+286;593-95-4461;Representante;Sobradisney;Member;Masculino;Casa e estilo de vida;74,86;1;3,743;78,603;3/24/2023;14:49;Em espécie;74,86;4,761904762;3,743;6,9
+287;226-71-3580;Representante;Sobradisney;Normal;Feminino;Esportes e viagens;23,75;9;10,6875;224,4375;1/31/2023;12:02;Em espécie;213,75;4,761904762;10,6875;9,5
+288;283-79-9594;E-commerce;Alagoinha;Normal;Feminino;Comida e bebidas;48,51;7;16,9785;356,5485;1/25/2023;13:30;Cartão de credito;339,57;4,761904762;16,9785;5,2
+289;430-60-3493;Loja Física;Ceilondon;Member;Feminino;Casa e estilo de vida;94,88;7;33,208;697,368;2/3/2023;14:38;Em espécie;664,16;4,761904762;33,208;4,2
+290;139-20-0155;E-commerce;Alagoinha;Member;Masculino;Eletrônicos e acessórios;40,3;10;20,15;423,15;1/24/2023;17:37;Cartão de credito;403,0;4,761904762;20,15;7,0
+291;558-80-4082;Representante;Sobradisney;Normal;Masculino;Eletrônicos e acessórios;27,85;7;9,7475;204,6975;3/14/2023;17:20;Ewallet;194,95;4,761904762;9,7475;6,0
+292;278-97-7759;Loja Física;Ceilondon;Member;Feminino;Eletrônicos e acessórios;62,48;1;3,124;65,604;2/18/2023;20:29;Em espécie;62,48;4,761904762;3,124;4,7
+293;316-68-6352;Loja Física;Ceilondon;Member;Feminino;Comida e bebidas;36,36;2;3,636;76,356;1/21/2023;10:00;Em espécie;72,72;4,761904762;3,636;7,1
+294;585-03-5943;E-commerce;Alagoinha;Normal;Masculino;Saúde e beleza;18,11;10;9,055;190,155;3/13/2023;11:46;Ewallet;181,1;4,761904762;9,055;5,9
+295;211-05-0490;Representante;Sobradisney;Member;Feminino;Eletrônicos e acessórios;51,92;5;12,98;272,58;3/3/2023;13:42;Em espécie;259,6;4,761904762;12,98;7,5
+296;727-75-6477;Representante;Sobradisney;Normal;Masculino;Eletrônicos e acessórios;28,84;4;5,768;121,128;3/29/2023;14:44;Em espécie;115,36;4,761904762;5,768;6,4
+297;744-02-5987;Loja Física;Ceilondon;Member;Masculino;Casa e estilo de vida;78,38;6;23,514;493,794;1/10/2023;14:16;Ewallet;470,28;4,761904762;23,514;5,8
+298;307-83-9164;Loja Física;Ceilondon;Member;Masculino;Casa e estilo de vida;60,01;4;12,002;252,042;1/25/2023;15:54;Em espécie;240,04;4,761904762;12,002;4,5
+299;779-06-0012;Representante;Sobradisney;Member;Feminino;Casa e estilo de vida;88,61;1;4,4305;93,0405;1/19/2023;10:21;Em espécie;88,61;4,761904762;4,4305;7,7
+300;446-47-6729;Representante;Sobradisney;Normal;Masculino;Moda e acessórios;99,82;2;9,982;209,622;1/2/2023;18:09;Cartão de credito;199,64;4,761904762;9,982;6,7
+301;573-10-3877;E-commerce;Alagoinha;Member;Masculino;Saúde e beleza;39,01;1;1,9505;40,9605;3/12/2023;16:46;Cartão de credito;39,01;4,761904762;1,9505;4,7
+302;735-06-4124;Representante;Sobradisney;Normal;Masculino;Comida e bebidas;48,61;1;2,4305;51,0405;2/25/2023;15:31;Em espécie;48,61;4,761904762;2,4305;4,4
+303;439-54-7422;Loja Física;Ceilondon;Normal;Feminino;Eletrônicos e acessórios;51,19;4;10,238;214,998;3/18/2023;17:15;Cartão de credito;204,76;4,761904762;10,238;4,7
+304;396-90-2219;E-commerce;Alagoinha;Normal;Feminino;Eletrônicos e acessórios;14,96;8;5,984;125,664;2/23/2023;12:29;Em espécie;119,68;4,761904762;5,984;8,6
+305;411-77-0180;Loja Física;Ceilondon;Member;Masculino;Eletrônicos e acessórios;72,2;7;25,27;530,67;3/26/2023;20:14;Ewallet;505,4;4,761904762;25,27;4,3
+306;286-01-5402;Loja Física;Ceilondon;Normal;Feminino;Esportes e viagens;40,23;7;14,0805;295,6905;3/30/2023;13:22;Em espécie;281,61;4,761904762;14,0805;9,6
+307;803-17-8013;Loja Física;Ceilondon;Member;Feminino;Casa e estilo de vida;88,79;8;35,516;745,836;2/17/2023;17:09;Em espécie;710,32;4,761904762;35,516;4,1
+308;512-98-1403;Loja Física;Ceilondon;Member;Feminino;Eletrônicos e acessórios;26,48;3;3,972;83,412;3/21/2023;10:40;Ewallet;79,44;4,761904762;3,972;4,7
+309;848-42-2560;Loja Física;Ceilondon;Normal;Feminino;Moda e acessórios;81,91;2;8,191;172,011;3/5/2023;17:43;Em espécie;163,82;4,761904762;8,191;7,8
+310;532-59-7201;E-commerce;Alagoinha;Member;Masculino;Esportes e viagens;79,93;6;23,979;503,559;1/31/2023;14:04;Em espécie;479,58;4,761904762;23,979;5,5
+311;181-94-6432;Representante;Sobradisney;Member;Masculino;Moda e acessórios;69,33;2;6,933;145,593;2/5/2023;19:05;Ewallet;138,66;4,761904762;6,933;9,7
+312;870-76-1733;Loja Física;Ceilondon;Member;Feminino;Comida e bebidas;14,23;5;3,5575;74,7075;2/1/2023;10:08;Cartão de credito;71,15;4,761904762;3,5575;4,4
+313;423-64-4619;Loja Física;Ceilondon;Member;Feminino;Saúde e beleza;15,55;9;6,9975;146,9475;3/7/2023;13:12;Em espécie;139,95;4,761904762;6,9975;5,0
+314;227-07-4446;Representante;Sobradisney;Member;Feminino;Eletrônicos e acessórios;78,13;10;39,065;820,365;2/10/2023;20:51;Em espécie;781,3;4,761904762;39,065;4,4
+315;174-36-3675;Representante;Sobradisney;Member;Masculino;Comida e bebidas;99,37;2;9,937;208,677;2/14/2023;17:29;Em espécie;198,74;4,761904762;9,937;5,2
+316;428-83-5800;Representante;Sobradisney;Member;Feminino;Comida e bebidas;21,08;3;3,162;66,402;2/9/2023;10:25;Em espécie;63,24;4,761904762;3,162;7,3
+317;603-07-0961;Representante;Sobradisney;Member;Masculino;Eletrônicos e acessórios;74,79;5;18,6975;392,6475;1/10/2023;11:34;Em espécie;373,95;4,761904762;18,6975;4,9
+318;704-20-4138;Representante;Sobradisney;Member;Feminino;Saúde e beleza;29,67;7;10,3845;218,0745;3/11/2023;18:58;Cartão de credito;207,69;4,761904762;10,3845;8,1
+319;787-15-1757;Representante;Sobradisney;Member;Masculino;Saúde e beleza;44,07;4;8,814;185,094;2/18/2023;16:28;Ewallet;176,28;4,761904762;8,814;8,4
+320;649-11-3678;Representante;Sobradisney;Normal;Feminino;Comida e bebidas;22,93;9;10,3185;216,6885;2/26/2023;20:26;Em espécie;206,37;4,761904762;10,3185;5,5
+321;622-20-1945;Representante;Sobradisney;Normal;Feminino;Saúde e beleza;39,42;1;1,971;41,391;1/18/2023;15:08;Em espécie;39,42;4,761904762;1,971;8,4
+322;372-94-8041;Loja Física;Ceilondon;Normal;Masculino;Saúde e beleza;15,26;6;4,578;96,138;2/15/2023;18:03;Ewallet;91,56;4,761904762;4,578;9,8
+323;563-91-7120;Loja Física;Ceilondon;Normal;Feminino;Moda e acessórios;61,77;5;15,4425;324,2925;3/8/2023;13:21;Em espécie;308,85;4,761904762;15,4425;6,7
+324;746-54-5508;Loja Física;Ceilondon;Normal;Masculino;Casa e estilo de vida;21,52;6;6,456;135,576;1/17/2023;12:48;Cartão de credito;129,12;4,761904762;6,456;9,4
+325;276-54-0879;E-commerce;Alagoinha;Normal;Masculino;Esportes e viagens;97,74;4;19,548;410,508;3/12/2023;19:53;Ewallet;390,96;4,761904762;19,548;6,4
+326;815-11-1168;Loja Física;Ceilondon;Member;Masculino;Comida e bebidas;99,78;5;24,945;523,845;3/9/2023;19:09;Em espécie;498,9;4,761904762;24,945;5,4
+327;719-76-3868;Representante;Sobradisney;Member;Masculino;Comida e bebidas;94,26;4;18,852;395,892;3/12/2023;16:30;Em espécie;377,04;4,761904762;18,852;8,6
+328;730-61-8757;E-commerce;Alagoinha;Member;Masculino;Saúde e beleza;51,13;4;10,226;214,746;1/25/2023;10:11;Cartão de credito;204,52;4,761904762;10,226;4,0
+329;340-66-0321;Loja Física;Ceilondon;Member;Masculino;Eletrônicos e acessórios;36,36;4;7,272;152,712;3/25/2023;13:07;Em espécie;145,44;4,761904762;7,272;7,6
+330;868-81-1752;E-commerce;Alagoinha;Normal;Masculino;Casa e estilo de vida;22,02;9;9,909;208,089;2/7/2023;18:48;Em espécie;198,18;4,761904762;9,909;6,8
+331;634-97-8956;Loja Física;Ceilondon;Normal;Masculino;Comida e bebidas;32,9;3;4,935;103,635;2/17/2023;17:27;Cartão de credito;98,7;4,761904762;4,935;9,1
+332;566-71-1091;Loja Física;Ceilondon;Normal;Masculino;Moda e acessórios;77,02;5;19,255;404,355;2/3/2023;15:59;Em espécie;385,1;4,761904762;19,255;5,5
+333;442-48-3607;Loja Física;Ceilondon;Member;Masculino;Comida e bebidas;23,48;2;2,348;49,308;3/14/2023;11:21;Cartão de credito;46,96;4,761904762;2,348;7,9
+334;835-16-0096;Representante;Sobradisney;Member;Masculino;Esportes e viagens;14,7;5;3,675;77,175;3/24/2023;13:48;Ewallet;73,5;4,761904762;3,675;8,5
+335;527-09-6272;Loja Física;Ceilondon;Member;Feminino;Eletrônicos e acessórios;28,45;5;7,1125;149,3625;3/21/2023;10:17;Cartão de credito;142,25;4,761904762;7,1125;9,1
+336;898-04-2717;Loja Física;Ceilondon;Normal;Masculino;Moda e acessórios;76,4;9;34,38;721,98;3/19/2023;15:49;Ewallet;687,6;4,761904762;34,38;7,5
+337;692-27-8933;E-commerce;Alagoinha;Normal;Feminino;Esportes e viagens;57,95;6;17,385;365,085;2/24/2023;13:02;Em espécie;347,7;4,761904762;17,385;5,2
+338;633-09-3463;Representante;Sobradisney;Normal;Feminino;Eletrônicos e acessórios;47,65;3;7,1475;150,0975;3/28/2023;12:58;Cartão de credito;142,95;4,761904762;7,1475;9,5
+339;374-17-3652;E-commerce;Alagoinha;Member;Feminino;Comida e bebidas;42,82;9;19,269;404,649;2/5/2023;15:26;Cartão de credito;385,38;4,761904762;19,269;8,9
+340;378-07-7001;E-commerce;Alagoinha;Member;Masculino;Eletrônicos e acessórios;48,09;3;7,2135;151,4835;2/10/2023;18:23;Cartão de credito;144,27;4,761904762;7,2135;7,8
+341;433-75-6987;E-commerce;Alagoinha;Member;Feminino;Saúde e beleza;55,97;7;19,5895;411,3795;3/5/2023;19:06;Ewallet;391,79;4,761904762;19,5895;8,9
+342;873-95-4984;E-commerce;Alagoinha;Member;Feminino;Saúde e beleza;76,9;7;26,915;565,215;2/15/2023;20:21;Em espécie;538,3;4,761904762;26,915;7,7
+343;416-13-5917;Representante;Sobradisney;Normal;Feminino;Comida e bebidas;97,03;5;24,2575;509,4075;1/30/2023;16:24;Ewallet;485,15;4,761904762;24,2575;9,3
+344;150-89-8043;Loja Física;Ceilondon;Normal;Masculino;Esportes e viagens;44,65;3;6,6975;140,6475;2/14/2023;15:04;Em espécie;133,95;4,761904762;6,6975;6,2
+345;135-84-8019;Loja Física;Ceilondon;Normal;Feminino;Moda e acessórios;77,93;9;35,0685;736,4385;2/27/2023;16:10;Ewallet;701,37;4,761904762;35,0685;7,6
+346;441-94-7118;Loja Física;Ceilondon;Member;Masculino;Eletrônicos e acessórios;71,95;1;3,5975;75,5475;2/4/2023;12:14;Em espécie;71,95;4,761904762;3,5975;7,3
+347;725-96-3778;Representante;Sobradisney;Member;Feminino;Casa e estilo de vida;89,25;8;35,7;749,7;1/20/2023;10:13;Em espécie;714,0;4,761904762;35,7;4,7
+348;531-80-1784;Loja Física;Ceilondon;Normal;Masculino;Eletrônicos e acessórios;26,02;7;9,107;191,247;3/28/2023;17:38;Em espécie;182,14;4,761904762;9,107;5,1
+349;400-45-1220;E-commerce;Alagoinha;Normal;Feminino;Saúde e beleza;13,5;10;6,75;141,75;2/27/2023;11:06;Cartão de credito;135,0;4,761904762;6,75;4,8
+350;860-79-0874;Representante;Sobradisney;Member;Feminino;Moda e acessórios;99,3;10;49,65;1042,65;2/15/2023;14:53;Cartão de credito;993,0;4,761904762;49,65;6,6
+351;834-61-8124;Loja Física;Ceilondon;Normal;Masculino;Eletrônicos e acessórios;51,69;7;18,0915;379,9215;1/26/2023;18:22;Em espécie;361,83;4,761904762;18,0915;5,5
+352;115-99-4379;E-commerce;Alagoinha;Member;Feminino;Moda e acessórios;54,73;7;19,1555;402,2655;3/14/2023;19:02;Cartão de credito;383,11;4,761904762;19,1555;8,5
+353;565-67-6697;E-commerce;Alagoinha;Member;Masculino;Casa e estilo de vida;27,0;9;12,15;255,15;3/2/2023;14:16;Em espécie;243,0;4,761904762;12,15;4,8
+354;320-49-6392;Representante;Sobradisney;Normal;Feminino;Eletrônicos e acessórios;30,24;1;1,512;31,752;3/4/2023;15:44;Em espécie;30,24;4,761904762;1,512;8,4
+355;889-04-9723;E-commerce;Alagoinha;Member;Feminino;Comida e bebidas;89,14;4;17,828;374,388;1/7/2023;12:20;Cartão de credito;356,56;4,761904762;17,828;7,8
+356;632-90-0281;Representante;Sobradisney;Normal;Feminino;Moda e acessórios;37,55;10;18,775;394,275;3/8/2023;20:01;Cartão de credito;375,5;4,761904762;18,775;9,3
+357;554-42-2417;Representante;Sobradisney;Normal;Feminino;Esportes e viagens;95,44;10;47,72;1002,12;1/9/2023;13:45;Em espécie;954,4;4,761904762;47,72;5,2
+358;453-63-6187;E-commerce;Alagoinha;Normal;Masculino;Eletrônicos e acessórios;27,5;3;4,125;86,625;3/1/2023;15:40;Ewallet;82,5;4,761904762;4,125;6,5
+359;578-80-7669;E-commerce;Alagoinha;Normal;Masculino;Esportes e viagens;74,97;1;3,7485;78,7185;3/16/2023;16:58;Em espécie;74,97;4,761904762;3,7485;5,6
+360;612-36-5536;Loja Física;Ceilondon;Member;Masculino;Comida e bebidas;80,96;8;32,384;680,064;2/17/2023;11:12;Cartão de credito;647,68;4,761904762;32,384;7,4
+361;605-72-4132;Representante;Sobradisney;Normal;Feminino;Comida e bebidas;94,47;8;37,788;793,548;2/27/2023;15:12;Em espécie;755,76;4,761904762;37,788;9,1
+362;471-41-2823;Representante;Sobradisney;Normal;Masculino;Comida e bebidas;99,79;2;9,979;209,559;3/7/2023;20:37;Ewallet;199,58;4,761904762;9,979;8,0
+363;462-67-9126;Loja Física;Ceilondon;Normal;Masculino;Casa e estilo de vida;73,22;6;21,966;461,286;1/21/2023;17:44;Em espécie;439,32;4,761904762;21,966;7,2
+364;272-27-9238;Representante;Sobradisney;Normal;Feminino;Comida e bebidas;41,24;4;8,248;173,208;2/19/2023;16:23;Em espécie;164,96;4,761904762;8,248;7,1
+365;834-25-9262;Representante;Sobradisney;Normal;Feminino;Moda e acessórios;81,68;4;16,336;343,056;1/6/2023;12:12;Em espécie;326,72;4,761904762;16,336;9,1
+366;122-61-9553;Representante;Sobradisney;Normal;Feminino;Eletrônicos e acessórios;51,32;9;23,094;484,974;3/14/2023;19:33;Em espécie;461,88;4,761904762;23,094;5,6
+367;468-88-0009;Loja Física;Ceilondon;Member;Masculino;Casa e estilo de vida;65,94;4;13,188;276,948;3/24/2023;10:29;Em espécie;263,76;4,761904762;13,188;6,0
+368;613-59-9758;Representante;Sobradisney;Normal;Feminino;Esportes e viagens;14,36;10;7,18;150,78;1/27/2023;14:28;Em espécie;143,6;4,761904762;7,18;5,4
+369;254-31-0042;Loja Física;Ceilondon;Member;Masculino;Eletrônicos e acessórios;21,5;9;9,675;203,175;3/6/2023;12:46;Cartão de credito;193,5;4,761904762;9,675;7,8
+370;201-86-2184;E-commerce;Alagoinha;Member;Feminino;Eletrônicos e acessórios;26,26;7;9,191;193,011;2/2/2023;19:40;Em espécie;183,82;4,761904762;9,191;9,9
+371;261-12-8671;E-commerce;Alagoinha;Normal;Feminino;Moda e acessórios;60,96;2;6,096;128,016;1/25/2023;19:39;Cartão de credito;121,92;4,761904762;6,096;4,9
+372;730-70-9830;Representante;Sobradisney;Normal;Feminino;Casa e estilo de vida;70,11;6;21,033;441,693;3/14/2023;17:54;Ewallet;420,66;4,761904762;21,033;5,2
+373;382-25-8917;Representante;Sobradisney;Normal;Masculino;Moda e acessórios;42,08;6;12,624;265,104;1/29/2023;12:25;Em espécie;252,48;4,761904762;12,624;8,9
+374;422-29-8786;Loja Física;Ceilondon;Normal;Feminino;Casa e estilo de vida;67,09;5;16,7725;352,2225;1/3/2023;16:47;Cartão de credito;335,45;4,761904762;16,7725;9,1
+375;667-23-5919;Loja Física;Ceilondon;Member;Feminino;Moda e acessórios;96,7;5;24,175;507,675;1/14/2023;12:52;Ewallet;483,5;4,761904762;24,175;7,0
+376;843-01-4703;E-commerce;Alagoinha;Member;Feminino;Casa e estilo de vida;35,38;9;15,921;334,341;1/5/2023;19:50;Cartão de credito;318,42;4,761904762;15,921;9,6
+377;743-88-1662;Representante;Sobradisney;Normal;Masculino;Esportes e viagens;95,49;7;33,4215;701,8515;2/22/2023;18:17;Ewallet;668,43;4,761904762;33,4215;8,7
+378;595-86-2894;Representante;Sobradisney;Member;Masculino;Moda e acessórios;96,98;4;19,396;407,316;2/6/2023;17:20;Ewallet;387,92;4,761904762;19,396;9,4
+379;182-69-8360;E-commerce;Alagoinha;Normal;Feminino;Eletrônicos e acessórios;23,65;4;4,73;99,33;1/30/2023;13:32;Cartão de credito;94,6;4,761904762;4,73;4,0
+380;289-15-7034;Loja Física;Ceilondon;Member;Masculino;Esportes e viagens;82,33;4;16,466;345,786;1/11/2023;10:37;Cartão de credito;329,32;4,761904762;16,466;7,5
+381;462-78-5240;Representante;Sobradisney;Normal;Feminino;Eletrônicos e acessórios;26,61;2;2,661;55,881;3/19/2023;14:35;Em espécie;53,22;4,761904762;2,661;4,2
+382;868-52-7573;E-commerce;Alagoinha;Normal;Feminino;Comida e bebidas;99,69;5;24,9225;523,3725;1/14/2023;12:09;Em espécie;498,45;4,761904762;24,9225;9,9
+383;153-58-4872;Representante;Sobradisney;Member;Feminino;Comida e bebidas;74,89;4;14,978;314,538;3/1/2023;15:32;Ewallet;299,56;4,761904762;14,978;4,2
+384;662-72-2873;Loja Física;Ceilondon;Normal;Feminino;Comida e bebidas;40,94;5;10,235;214,935;1/6/2023;13:58;Ewallet;204,7;4,761904762;10,235;9,9
+385;525-88-7307;E-commerce;Alagoinha;Member;Masculino;Esportes e viagens;75,82;1;3,791;79,611;1/31/2023;13:19;Em espécie;75,82;4,761904762;3,791;5,8
+386;689-16-9784;Representante;Sobradisney;Normal;Masculino;Comida e bebidas;46,77;6;14,031;294,651;3/11/2023;13:37;Em espécie;280,62;4,761904762;14,031;6,0
+387;725-56-0833;Loja Física;Ceilondon;Normal;Feminino;Saúde e beleza;32,32;10;16,16;339,36;2/20/2023;16:49;Cartão de credito;323,2;4,761904762;16,16;10,0
+388;394-41-0748;Representante;Sobradisney;Member;Feminino;Moda e acessórios;54,07;9;24,3315;510,9615;1/27/2023;14:55;Ewallet;486,63;4,761904762;24,3315;9,5
+389;596-42-3999;E-commerce;Alagoinha;Normal;Masculino;Comida e bebidas;18,22;7;6,377;133,917;3/10/2023;14:04;Cartão de credito;127,54;4,761904762;6,377;6,6
+390;541-89-9860;Representante;Sobradisney;Member;Feminino;Moda e acessórios;80,48;3;12,072;253,512;2/15/2023;12:31;Em espécie;241,44;4,761904762;12,072;8,1
+391;173-82-9529;E-commerce;Alagoinha;Normal;Feminino;Moda e acessórios;37,95;10;18,975;398,475;1/26/2023;14:51;Em espécie;379,5;4,761904762;18,975;9,7
+392;563-36-9814;Loja Física;Ceilondon;Member;Masculino;Eletrônicos e acessórios;76,82;1;3,841;80,661;2/13/2023;18:27;Ewallet;76,82;4,761904762;3,841;7,2
+393;308-47-4913;Loja Física;Ceilondon;Member;Feminino;Esportes e viagens;52,26;10;26,13;548,73;3/9/2023;12:45;Cartão de credito;522,6;4,761904762;26,13;6,2
+394;885-17-6250;Loja Física;Ceilondon;Normal;Feminino;Saúde e beleza;79,74;1;3,987;83,727;3/6/2023;10:36;Ewallet;79,74;4,761904762;3,987;7,3
+395;726-27-2396;Loja Física;Ceilondon;Normal;Feminino;Saúde e beleza;77,5;5;19,375;406,875;1/24/2023;20:36;Ewallet;387,5;4,761904762;19,375;4,3
+396;316-01-3952;Loja Física;Ceilondon;Normal;Feminino;Comida e bebidas;54,27;5;13,5675;284,9175;3/13/2023;14:16;Ewallet;271,35;4,761904762;13,5675;4,6
+397;760-54-1821;E-commerce;Alagoinha;Normal;Masculino;Casa e estilo de vida;13,59;9;6,1155;128,4255;3/15/2023;10:26;Em espécie;122,31;4,761904762;6,1155;5,8
+398;793-10-3222;E-commerce;Alagoinha;Member;Feminino;Saúde e beleza;41,06;6;12,318;258,678;3/5/2023;13:30;Cartão de credito;246,36;4,761904762;12,318;8,3
+399;346-12-3257;E-commerce;Alagoinha;Member;Masculino;Eletrônicos e acessórios;19,24;9;8,658;181,818;3/4/2023;16:28;Em espécie;173,16;4,761904762;8,658;8,0
+400;110-05-6330;Representante;Sobradisney;Normal;Feminino;Comida e bebidas;39,43;6;11,829;248,409;3/25/2023;20:18;Cartão de credito;236,58;4,761904762;11,829;9,4
+401;651-61-0874;Representante;Sobradisney;Normal;Masculino;Casa e estilo de vida;46,22;4;9,244;194,124;3/12/2023;20:04;Cartão de credito;184,88;4,761904762;9,244;6,2
+402;236-86-3015;Representante;Sobradisney;Member;Masculino;Casa e estilo de vida;13,98;1;0,699;14,679;2/4/2023;13:38;Ewallet;13,98;4,761904762;0,699;9,8
+403;831-64-0259;E-commerce;Alagoinha;Normal;Feminino;Moda e acessórios;39,75;5;9,9375;208,6875;2/22/2023;10:43;Ewallet;198,75;4,761904762;9,9375;9,6
+404;587-03-7455;Representante;Sobradisney;Member;Feminino;Moda e acessórios;97,79;7;34,2265;718,7565;2/16/2023;17:30;Ewallet;684,53;4,761904762;34,2265;4,9
+405;882-40-4577;Loja Física;Ceilondon;Member;Masculino;Esportes e viagens;67,26;4;13,452;282,492;1/19/2023;15:28;Cartão de credito;269,04;4,761904762;13,452;8,0
+406;732-67-5346;Loja Física;Ceilondon;Normal;Masculino;Comida e bebidas;13,79;5;3,4475;72,3975;1/11/2023;19:07;Cartão de credito;68,95;4,761904762;3,4475;7,8
+407;725-32-9708;E-commerce;Alagoinha;Member;Feminino;Moda e acessórios;68,71;4;13,742;288,582;1/4/2023;19:01;Em espécie;274,84;4,761904762;13,742;4,1
+408;256-08-8343;Loja Física;Ceilondon;Normal;Feminino;Casa e estilo de vida;56,53;4;11,306;237,426;3/4/2023;19:48;Ewallet;226,12;4,761904762;11,306;5,5
+409;372-26-1506;Representante;Sobradisney;Normal;Feminino;Moda e acessórios;23,82;5;5,955;125,055;1/28/2023;19:24;Ewallet;119,1;4,761904762;5,955;5,4
+410;244-08-0162;E-commerce;Alagoinha;Normal;Feminino;Saúde e beleza;34,21;10;17,105;359,205;1/2/2023;13:00;Em espécie;342,1;4,761904762;17,105;5,1
+411;569-71-4390;E-commerce;Alagoinha;Normal;Masculino;Esportes e viagens;21,87;2;2,187;45,927;1/25/2023;14:29;Ewallet;43,74;4,761904762;2,187;6,9
+412;132-23-6451;Loja Física;Ceilondon;Member;Masculino;Saúde e beleza;20,97;5;5,2425;110,0925;1/4/2023;13:21;Em espécie;104,85;4,761904762;5,2425;7,8
+413;696-90-2548;Loja Física;Ceilondon;Normal;Masculino;Esportes e viagens;25,84;3;3,876;81,396;3/10/2023;18:55;Ewallet;77,52;4,761904762;3,876;6,6
+414;472-15-9636;Loja Física;Ceilondon;Normal;Masculino;Casa e estilo de vida;50,93;8;20,372;427,812;3/22/2023;19:36;Ewallet;407,44;4,761904762;20,372;9,2
+415;268-03-6164;E-commerce;Alagoinha;Normal;Masculino;Saúde e beleza;96,11;1;4,8055;100,9155;1/25/2023;16:28;Ewallet;96,11;4,761904762;4,8055;7,8
+416;750-57-9686;Representante;Sobradisney;Normal;Feminino;Casa e estilo de vida;45,38;4;9,076;190,596;1/8/2023;13:48;Cartão de credito;181,52;4,761904762;9,076;8,7
+417;186-09-3669;Representante;Sobradisney;Member;Feminino;Saúde e beleza;81,51;1;4,0755;85,5855;1/22/2023;10:57;Ewallet;81,51;4,761904762;4,0755;9,2
+418;848-07-1692;E-commerce;Alagoinha;Normal;Feminino;Saúde e beleza;57,22;2;5,722;120,162;1/12/2023;17:13;Ewallet;114,44;4,761904762;5,722;8,3
+419;745-71-3520;Loja Física;Ceilondon;Member;Feminino;Eletrônicos e acessórios;25,22;7;8,827;185,367;2/4/2023;10:23;Em espécie;176,54;4,761904762;8,827;8,2
+420;266-76-6436;Representante;Sobradisney;Member;Feminino;Comida e bebidas;38,6;3;5,79;121,59;3/28/2023;13:57;Ewallet;115,8;4,761904762;5,79;7,5
+421;740-22-2500;Representante;Sobradisney;Normal;Feminino;Eletrônicos e acessórios;84,05;3;12,6075;264,7575;1/23/2023;13:29;Em espécie;252,15;4,761904762;12,6075;9,8
+422;271-88-8734;Representante;Sobradisney;Member;Feminino;Moda e acessórios;97,21;10;48,605;1020,705;2/8/2023;13:00;Cartão de credito;972,1;4,761904762;48,605;8,7
+423;301-81-8610;E-commerce;Alagoinha;Member;Masculino;Moda e acessórios;25,42;8;10,168;213,528;3/19/2023;19:42;Cartão de credito;203,36;4,761904762;10,168;6,7
+424;489-64-4354;Representante;Sobradisney;Normal;Masculino;Moda e acessórios;16,28;1;0,814;17,094;3/9/2023;15:36;Em espécie;16,28;4,761904762;0,814;5,0
+425;198-84-7132;E-commerce;Alagoinha;Member;Masculino;Moda e acessórios;40,61;9;18,2745;383,7645;1/2/2023;13:40;Em espécie;365,49;4,761904762;18,2745;7,0
+426;269-10-8440;Loja Física;Ceilondon;Member;Masculino;Saúde e beleza;53,17;7;18,6095;390,7995;1/21/2023;18:01;Em espécie;372,19;4,761904762;18,6095;8,9
+427;650-98-6268;E-commerce;Alagoinha;Member;Feminino;Comida e bebidas;20,87;3;3,1305;65,7405;3/20/2023;13:53;Cartão de credito;62,61;4,761904762;3,1305;8,0
+428;741-73-3559;E-commerce;Alagoinha;Normal;Masculino;Esportes e viagens;67,27;5;16,8175;353,1675;2/27/2023;17:27;Em espécie;336,35;4,761904762;16,8175;6,9
+429;325-77-6186;Loja Física;Ceilondon;Member;Feminino;Casa e estilo de vida;90,65;10;45,325;951,825;3/8/2023;10:53;Ewallet;906,5;4,761904762;45,325;7,3
+430;286-75-7818;E-commerce;Alagoinha;Normal;Masculino;Moda e acessórios;69,08;2;6,908;145,068;1/31/2023;19:48;Cartão de credito;138,16;4,761904762;6,908;6,9
+431;574-57-9721;Representante;Sobradisney;Normal;Masculino;Comida e bebidas;43,27;2;4,327;90,867;3/8/2023;16:53;Ewallet;86,54;4,761904762;4,327;5,7
+432;459-50-7686;Loja Física;Ceilondon;Normal;Feminino;Eletrônicos e acessórios;23,46;6;7,038;147,798;1/13/2023;19:14;Ewallet;140,76;4,761904762;7,038;6,4
+433;616-87-0016;E-commerce;Alagoinha;Normal;Masculino;Moda e acessórios;95,54;7;33,439;702,219;3/9/2023;14:36;Cartão de credito;668,78;4,761904762;33,439;9,6
+434;837-55-7229;E-commerce;Alagoinha;Normal;Feminino;Moda e acessórios;47,44;1;2,372;49,812;2/22/2023;18:19;Cartão de credito;47,44;4,761904762;2,372;6,8
+435;751-69-0068;Representante;Sobradisney;Normal;Masculino;Esportes e viagens;99,24;9;44,658;937,818;3/19/2023;19:09;Ewallet;893,16;4,761904762;44,658;9,0
+436;257-73-1380;Representante;Sobradisney;Member;Masculino;Esportes e viagens;82,93;4;16,586;348,306;1/20/2023;16:51;Ewallet;331,72;4,761904762;16,586;9,6
+437;345-08-4992;Loja Física;Ceilondon;Normal;Masculino;Casa e estilo de vida;33,99;6;10,197;214,137;3/8/2023;15:37;Cartão de credito;203,94;4,761904762;10,197;7,7
+438;549-96-4200;Representante;Sobradisney;Member;Masculino;Comida e bebidas;17,04;4;3,408;71,568;3/8/2023;20:15;Ewallet;68,16;4,761904762;3,408;7,0
+439;810-60-6344;Representante;Sobradisney;Normal;Feminino;Eletrônicos e acessórios;40,86;8;16,344;343,224;2/7/2023;14:38;Cartão de credito;326,88;4,761904762;16,344;6,5
+440;450-28-2866;Representante;Sobradisney;Member;Masculino;Comida e bebidas;17,44;5;4,36;91,56;1/15/2023;19:25;Em espécie;87,2;4,761904762;4,36;8,1
+441;394-30-3170;E-commerce;Alagoinha;Member;Feminino;Esportes e viagens;88,43;8;35,372;742,812;3/22/2023;19:35;Cartão de credito;707,44;4,761904762;35,372;4,3
+442;138-17-5109;Loja Física;Ceilondon;Member;Feminino;Casa e estilo de vida;89,21;9;40,1445;843,0345;1/15/2023;15:42;Cartão de credito;802,89;4,761904762;40,1445;6,5
+443;192-98-7397;Representante;Sobradisney;Normal;Masculino;Moda e acessórios;12,78;1;0,639;13,419;1/8/2023;14:11;Ewallet;12,78;4,761904762;0,639;9,5
+444;301-11-9629;Loja Física;Ceilondon;Normal;Feminino;Esportes e viagens;19,1;7;6,685;140,385;1/15/2023;10:43;Em espécie;133,7;4,761904762;6,685;9,7
+445;390-80-5128;E-commerce;Alagoinha;Member;Feminino;Saúde e beleza;19,15;1;0,9575;20,1075;1/28/2023;17:58;Cartão de credito;19,15;4,761904762;0,9575;9,5
+446;235-46-8343;Representante;Sobradisney;Member;Masculino;Comida e bebidas;27,66;10;13,83;290,43;2/14/2023;11:26;Cartão de credito;276,6;4,761904762;13,83;8,9
+447;453-12-7053;Representante;Sobradisney;Normal;Masculino;Moda e acessórios;45,74;3;6,861;144,081;3/10/2023;17:38;Cartão de credito;137,22;4,761904762;6,861;6,5
+448;296-11-7041;E-commerce;Alagoinha;Member;Feminino;Saúde e beleza;27,07;1;1,3535;28,4235;1/12/2023;20:07;Cartão de credito;27,07;4,761904762;1,3535;5,3
+449;449-27-2918;E-commerce;Alagoinha;Member;Feminino;Esportes e viagens;39,12;1;1,956;41,076;3/26/2023;11:02;Cartão de credito;39,12;4,761904762;1,956;9,6
+450;891-01-7034;E-commerce;Alagoinha;Normal;Feminino;Eletrônicos e acessórios;74,71;6;22,413;470,673;1/1/2023;19:07;Em espécie;448,26;4,761904762;22,413;6,7
+451;744-09-5786;E-commerce;Alagoinha;Normal;Masculino;Eletrônicos e acessórios;22,01;6;6,603;138,663;1/2/2023;18:50;Em espécie;132,06;4,761904762;6,603;7,6
+452;727-17-0390;Loja Física;Ceilondon;Normal;Feminino;Comida e bebidas;63,61;5;15,9025;333,9525;3/16/2023;12:43;Ewallet;318,05;4,761904762;15,9025;4,8
+453;568-88-3448;Loja Física;Ceilondon;Normal;Masculino;Saúde e beleza;25,0;1;1,25;26,25;3/3/2023;15:09;Ewallet;25,0;4,761904762;1,25;5,5
+454;187-83-5490;Loja Física;Ceilondon;Member;Masculino;Eletrônicos e acessórios;20,77;4;4,154;87,234;1/31/2023;13:47;Em espécie;83,08;4,761904762;4,154;4,7
+455;767-54-1907;E-commerce;Alagoinha;Member;Feminino;Moda e acessórios;29,56;5;7,39;155,19;2/13/2023;16:59;Em espécie;147,8;4,761904762;7,39;6,9
+456;710-46-4433;E-commerce;Alagoinha;Member;Feminino;Comida e bebidas;77,4;9;34,83;731,43;2/15/2023;14:15;Cartão de credito;696,6;4,761904762;34,83;4,5
+457;533-33-5337;E-commerce;Alagoinha;Normal;Masculino;Eletrônicos e acessórios;79,39;10;39,695;833,595;2/7/2023;20:24;Em espécie;793,9;4,761904762;39,695;6,2
+458;325-90-8763;Representante;Sobradisney;Member;Feminino;Eletrônicos e acessórios;46,57;10;23,285;488,985;1/27/2023;13:58;Em espécie;465,7;4,761904762;23,285;7,6
+459;729-46-7422;Representante;Sobradisney;Normal;Masculino;Comida e bebidas;35,89;1;1,7945;37,6845;2/23/2023;16:52;Cartão de credito;35,89;4,761904762;1,7945;7,9
+460;639-76-1242;Representante;Sobradisney;Normal;Masculino;Comida e bebidas;40,52;5;10,13;212,73;2/3/2023;15:19;Em espécie;202,6;4,761904762;10,13;4,5
+461;234-03-4040;E-commerce;Alagoinha;Member;Feminino;Comida e bebidas;73,05;10;36,525;767,025;3/3/2023;12:25;Cartão de credito;730,5;4,761904762;36,525;8,7
+462;326-71-2155;Representante;Sobradisney;Normal;Feminino;Esportes e viagens;73,95;4;14,79;310,59;2/3/2023;10:02;Em espécie;295,8;4,761904762;14,79;6,1
+463;320-32-8842;Representante;Sobradisney;Member;Feminino;Comida e bebidas;22,62;1;1,131;23,751;3/17/2023;18:58;Em espécie;22,62;4,761904762;1,131;6,4
+464;470-32-9057;Loja Física;Ceilondon;Member;Masculino;Comida e bebidas;51,34;5;12,835;269,535;3/28/2023;15:31;Cartão de credito;256,7;4,761904762;12,835;9,1
+465;878-30-2331;Representante;Sobradisney;Member;Feminino;Esportes e viagens;54,55;10;27,275;572,775;3/2/2023;11:22;Cartão de credito;545,5;4,761904762;27,275;7,1
+466;440-59-5691;Representante;Sobradisney;Member;Feminino;Saúde e beleza;37,15;7;13,0025;273,0525;2/8/2023;13:12;Cartão de credito;260,05;4,761904762;13,0025;7,7
+467;554-53-3790;E-commerce;Alagoinha;Normal;Masculino;Esportes e viagens;37,02;6;11,106;233,226;3/22/2023;18:33;Em espécie;222,12;4,761904762;11,106;4,5
+468;746-19-0921;Representante;Sobradisney;Normal;Masculino;Comida e bebidas;21,58;1;1,079;22,659;2/9/2023;10:02;Ewallet;21,58;4,761904762;1,079;7,2
+469;233-34-0817;Representante;Sobradisney;Member;Feminino;Eletrônicos e acessórios;98,84;1;4,942;103,782;2/15/2023;11:21;Em espécie;98,84;4,761904762;4,942;8,4
+470;767-05-1286;Representante;Sobradisney;Member;Feminino;Casa e estilo de vida;83,77;6;25,131;527,751;1/23/2023;12:10;Ewallet;502,62;4,761904762;25,131;5,4
+471;340-21-9136;Loja Física;Ceilondon;Member;Feminino;Esportes e viagens;40,05;4;8,01;168,21;1/25/2023;11:40;Em espécie;160,2;4,761904762;8,01;9,7
+472;405-31-3305;Loja Física;Ceilondon;Member;Masculino;Moda e acessórios;43,13;10;21,565;452,865;2/2/2023;18:31;Cartão de credito;431,3;4,761904762;21,565;5,5
+473;731-59-7531;E-commerce;Alagoinha;Member;Masculino;Saúde e beleza;72,57;8;29,028;609,588;3/30/2023;17:58;Em espécie;580,56;4,761904762;29,028;4,6
+474;676-39-6028;Loja Física;Ceilondon;Member;Feminino;Eletrônicos e acessórios;64,44;5;16,11;338,31;3/30/2023;17:04;Em espécie;322,2;4,761904762;16,11;6,6
+475;502-05-1910;Loja Física;Ceilondon;Normal;Masculino;Saúde e beleza;65,18;3;9,777;205,317;2/25/2023;20:35;Cartão de credito;195,54;4,761904762;9,777;6,3
+476;485-30-8700;Loja Física;Ceilondon;Normal;Feminino;Esportes e viagens;33,26;5;8,315;174,615;3/18/2023;16:10;Cartão de credito;166,3;4,761904762;8,315;4,2
+477;598-47-9715;Representante;Sobradisney;Normal;Masculino;Eletrônicos e acessórios;84,07;4;16,814;353,094;3/7/2023;16:54;Ewallet;336,28;4,761904762;16,814;4,4
+478;701-69-8742;E-commerce;Alagoinha;Normal;Masculino;Esportes e viagens;34,37;10;17,185;360,885;3/16/2023;10:11;Ewallet;343,7;4,761904762;17,185;6,7
+479;575-67-1508;Loja Física;Ceilondon;Normal;Masculino;Eletrônicos e acessórios;38,6;1;1,93;40,53;1/29/2023;11:26;Ewallet;38,6;4,761904762;1,93;6,7
+480;541-08-3113;Representante;Sobradisney;Normal;Masculino;Comida e bebidas;65,97;8;26,388;554,148;2/2/2023;20:29;Em espécie;527,76;4,761904762;26,388;8,4
+481;246-11-3901;Representante;Sobradisney;Normal;Feminino;Eletrônicos e acessórios;32,8;10;16,4;344,4;2/15/2023;12:12;Em espécie;328,0;4,761904762;16,4;6,2
+482;674-15-9296;Loja Física;Ceilondon;Normal;Masculino;Esportes e viagens;37,14;5;9,285;194,985;1/8/2023;13:05;Ewallet;185,7;4,761904762;9,285;5,0
+483;305-18-3552;E-commerce;Alagoinha;Member;Masculino;Casa e estilo de vida;60,38;10;30,19;633,99;2/12/2023;16:19;Em espécie;603,8;4,761904762;30,19;6,0
+484;493-65-6248;Representante;Sobradisney;Member;Feminino;Esportes e viagens;36,98;10;18,49;388,29;1/1/2023;19:48;Cartão de credito;369,8;4,761904762;18,49;7,0
+485;438-01-4015;E-commerce;Alagoinha;Member;Feminino;Esportes e viagens;49,49;4;9,898;207,858;3/21/2023;15:25;Ewallet;197,96;4,761904762;9,898;6,6
+486;709-58-4068;E-commerce;Alagoinha;Normal;Feminino;Moda e acessórios;41,09;10;20,545;431,445;2/28/2023;14:42;Em espécie;410,9;4,761904762;20,545;7,3
+487;795-49-7276;Loja Física;Ceilondon;Normal;Masculino;Moda e acessórios;37,15;4;7,43;156,03;3/23/2023;18:59;Ewallet;148,6;4,761904762;7,43;8,3
+488;556-72-8512;Representante;Sobradisney;Normal;Masculino;Casa e estilo de vida;22,96;1;1,148;24,108;1/30/2023;20:47;Em espécie;22,96;4,761904762;1,148;4,3
+489;627-95-3243;E-commerce;Alagoinha;Member;Feminino;Casa e estilo de vida;77,68;9;34,956;734,076;2/4/2023;13:21;Ewallet;699,12;4,761904762;34,956;9,8
+490;686-41-0932;E-commerce;Alagoinha;Normal;Feminino;Moda e acessórios;34,7;2;3,47;72,87;3/13/2023;19:48;Ewallet;69,4;4,761904762;3,47;8,2
+491;510-09-5628;Loja Física;Ceilondon;Member;Feminino;Moda e acessórios;19,66;10;9,83;206,43;3/15/2023;18:20;Cartão de credito;196,6;4,761904762;9,83;7,2
+492;608-04-3797;E-commerce;Alagoinha;Member;Feminino;Saúde e beleza;25,32;8;10,128;212,688;3/5/2023;20:24;Ewallet;202,56;4,761904762;10,128;8,7
+493;148-82-2527;Representante;Sobradisney;Member;Feminino;Casa e estilo de vida;12,12;10;6,06;127,26;3/5/2023;13:44;Cartão de credito;121,2;4,761904762;6,06;8,4
+494;437-53-3084;E-commerce;Alagoinha;Normal;Masculino;Moda e acessórios;99,89;2;9,989;209,769;2/26/2023;11:48;Ewallet;199,78;4,761904762;9,989;7,1
+495;632-32-4574;E-commerce;Alagoinha;Normal;Masculino;Esportes e viagens;75,92;8;30,368;637,728;3/20/2023;14:14;Em espécie;607,36;4,761904762;30,368;5,5
+496;556-97-7101;Representante;Sobradisney;Normal;Feminino;Eletrônicos e acessórios;63,22;2;6,322;132,762;1/1/2023;15:51;Em espécie;126,44;4,761904762;6,322;8,5
+497;862-59-8517;Representante;Sobradisney;Normal;Feminino;Comida e bebidas;90,24;6;27,072;568,512;1/27/2023;11:17;Em espécie;541,44;4,761904762;27,072;6,2
+498;401-18-8016;E-commerce;Alagoinha;Member;Feminino;Esportes e viagens;98,13;1;4,9065;103,0365;1/21/2023;17:36;Em espécie;98,13;4,761904762;4,9065;8,9
+499;420-18-8989;Loja Física;Ceilondon;Member;Feminino;Esportes e viagens;51,52;8;20,608;432,768;2/2/2023;15:47;Em espécie;412,16;4,761904762;20,608;9,6
+500;277-63-2961;E-commerce;Alagoinha;Member;Masculino;Esportes e viagens;73,97;1;3,6985;77,6685;2/3/2023;15:53;Cartão de credito;73,97;4,761904762;3,6985;5,4
+501;573-98-8548;Representante;Sobradisney;Member;Feminino;Moda e acessórios;31,9;1;1,595;33,495;1/5/2023;12:40;Ewallet;31,9;4,761904762;1,595;9,1
+502;620-02-2046;Representante;Sobradisney;Normal;Masculino;Casa e estilo de vida;69,4;2;6,94;145,74;1/27/2023;19:48;Ewallet;138,8;4,761904762;6,94;9,0
+503;282-35-2475;E-commerce;Alagoinha;Normal;Feminino;Esportes e viagens;93,31;2;9,331;195,951;3/25/2023;17:53;Em espécie;186,62;4,761904762;9,331;6,3
+504;511-54-3087;E-commerce;Alagoinha;Normal;Masculino;Esportes e viagens;88,45;1;4,4225;92,8725;2/25/2023;16:36;Cartão de credito;88,45;4,761904762;4,4225;9,5
+505;726-29-6793;Loja Física;Ceilondon;Member;Masculino;Eletrônicos e acessórios;24,18;8;9,672;203,112;1/28/2023;20:54;Ewallet;193,44;4,761904762;9,672;9,8
+506;387-49-4215;E-commerce;Alagoinha;Member;Feminino;Esportes e viagens;48,5;3;7,275;152,775;1/8/2023;12:50;Em espécie;145,5;4,761904762;7,275;6,7
+507;862-17-9201;E-commerce;Alagoinha;Normal;Feminino;Comida e bebidas;84,05;6;25,215;529,515;1/29/2023;10:48;Cartão de credito;504,3;4,761904762;25,215;7,7
+508;291-21-5991;E-commerce;Alagoinha;Member;Masculino;Saúde e beleza;61,29;5;15,3225;321,7725;3/29/2023;14:28;Em espécie;306,45;4,761904762;15,3225;7,0
+509;602-80-9671;Representante;Sobradisney;Member;Feminino;Casa e estilo de vida;15,95;6;4,785;100,485;2/9/2023;17:15;Cartão de credito;95,7;4,761904762;4,785;5,1
+510;347-72-6115;E-commerce;Alagoinha;Member;Feminino;Esportes e viagens;90,74;7;31,759;666,939;1/16/2023;18:03;Cartão de credito;635,18;4,761904762;31,759;6,2
+511;209-61-0206;Loja Física;Ceilondon;Normal;Feminino;Casa e estilo de vida;42,91;5;10,7275;225,2775;1/5/2023;17:29;Ewallet;214,55;4,761904762;10,7275;6,1
+512;595-27-4851;Loja Física;Ceilondon;Normal;Feminino;Moda e acessórios;54,28;7;18,998;398,958;1/27/2023;18:05;Ewallet;379,96;4,761904762;18,998;9,3
+513;189-52-0236;Loja Física;Ceilondon;Normal;Masculino;Eletrônicos e acessórios;99,55;7;34,8425;731,6925;3/14/2023;12:07;Em espécie;696,85;4,761904762;34,8425;7,6
+514;503-07-0930;Representante;Sobradisney;Member;Masculino;Esportes e viagens;58,39;7;20,4365;429,1665;2/23/2023;19:49;Cartão de credito;408,73;4,761904762;20,4365;8,2
+515;413-20-6708;Representante;Sobradisney;Member;Feminino;Moda e acessórios;51,47;1;2,5735;54,0435;3/18/2023;15:52;Ewallet;51,47;4,761904762;2,5735;8,5
+516;425-85-2085;E-commerce;Alagoinha;Member;Masculino;Saúde e beleza;54,86;5;13,715;288,015;3/29/2023;16:48;Ewallet;274,3;4,761904762;13,715;9,8
+517;521-18-7827;Representante;Sobradisney;Member;Masculino;Casa e estilo de vida;39,39;5;9,8475;206,7975;1/22/2023;20:46;Cartão de credito;196,95;4,761904762;9,8475;8,7
+518;220-28-1851;Loja Física;Ceilondon;Normal;Masculino;Casa e estilo de vida;34,73;2;3,473;72,933;3/1/2023;18:14;Ewallet;69,46;4,761904762;3,473;9,7
+519;600-38-9738;Representante;Sobradisney;Member;Masculino;Esportes e viagens;71,92;5;17,98;377,58;1/17/2023;15:05;Cartão de credito;359,6;4,761904762;17,98;4,3
+520;734-91-1155;E-commerce;Alagoinha;Normal;Feminino;Eletrônicos e acessórios;45,71;3;6,8565;143,9865;3/26/2023;10:34;Cartão de credito;137,13;4,761904762;6,8565;7,7
+521;451-28-5717;Representante;Sobradisney;Member;Feminino;Casa e estilo de vida;83,17;6;24,951;523,971;3/20/2023;11:23;Em espécie;499,02;4,761904762;24,951;7,3
+522;609-81-8548;Loja Física;Ceilondon;Member;Feminino;Casa e estilo de vida;37,44;6;11,232;235,872;2/6/2023;13:55;Cartão de credito;224,64;4,761904762;11,232;5,9
+523;133-14-7229;Representante;Sobradisney;Normal;Masculino;Saúde e beleza;62,87;2;6,287;132,027;1/1/2023;11:43;Em espécie;125,74;4,761904762;6,287;5,0
+524;534-01-4457;Loja Física;Ceilondon;Normal;Masculino;Comida e bebidas;81,71;6;24,513;514,773;1/27/2023;14:36;Cartão de credito;490,26;4,761904762;24,513;8,0
+525;719-89-8991;Loja Física;Ceilondon;Member;Feminino;Esportes e viagens;91,41;5;22,8525;479,9025;2/25/2023;16:03;Ewallet;457,05;4,761904762;22,8525;7,1
+526;286-62-6248;E-commerce;Alagoinha;Normal;Masculino;Moda e acessórios;39,21;4;7,842;164,682;1/16/2023;20:03;Cartão de credito;156,84;4,761904762;7,842;9,0
+527;339-38-9982;E-commerce;Alagoinha;Member;Masculino;Moda e acessórios;59,86;2;5,986;125,706;1/13/2023;14:55;Ewallet;119,72;4,761904762;5,986;6,7
+528;827-44-5872;E-commerce;Alagoinha;Member;Feminino;Comida e bebidas;54,36;10;27,18;570,78;2/7/2023;11:28;Cartão de credito;543,6;4,761904762;27,18;6,1
+529;827-77-7633;Loja Física;Ceilondon;Normal;Masculino;Esportes e viagens;98,09;9;44,1405;926,9505;2/17/2023;19:41;Em espécie;882,81;4,761904762;44,1405;9,3
+530;287-83-1405;Loja Física;Ceilondon;Normal;Masculino;Saúde e beleza;25,43;6;7,629;160,209;2/12/2023;19:01;Ewallet;152,58;4,761904762;7,629;7,0
+531;435-13-4908;Loja Física;Ceilondon;Member;Masculino;Moda e acessórios;86,68;8;34,672;728,112;1/24/2023;18:04;Cartão de credito;693,44;4,761904762;34,672;7,2
+532;857-67-9057;E-commerce;Alagoinha;Normal;Masculino;Eletrônicos e acessórios;22,95;10;11,475;240,975;2/6/2023;19:20;Ewallet;229,5;4,761904762;11,475;8,2
+533;236-27-1144;Representante;Sobradisney;Normal;Feminino;Comida e bebidas;16,31;9;7,3395;154,1295;3/26/2023;10:31;Ewallet;146,79;4,761904762;7,3395;8,4
+534;892-05-6689;Loja Física;Ceilondon;Normal;Feminino;Casa e estilo de vida;28,32;5;7,08;148,68;3/11/2023;13:28;Ewallet;141,6;4,761904762;7,08;6,2
+535;583-41-4548;Representante;Sobradisney;Normal;Masculino;Casa e estilo de vida;16,67;7;5,8345;122,5245;2/7/2023;11:36;Ewallet;116,69;4,761904762;5,8345;7,4
+536;339-12-4827;E-commerce;Alagoinha;Member;Feminino;Moda e acessórios;73,96;1;3,698;77,658;1/5/2023;11:32;Cartão de credito;73,96;4,761904762;3,698;5,0
+537;643-38-7867;Loja Física;Ceilondon;Normal;Masculino;Casa e estilo de vida;97,94;1;4,897;102,837;3/7/2023;11:44;Ewallet;97,94;4,761904762;4,897;6,9
+538;308-81-0538;Loja Física;Ceilondon;Normal;Feminino;Moda e acessórios;73,05;4;14,61;306,81;2/25/2023;17:16;Cartão de credito;292,2;4,761904762;14,61;4,9
+539;358-88-9262;Representante;Sobradisney;Member;Feminino;Comida e bebidas;87,48;6;26,244;551,124;2/1/2023;18:43;Ewallet;524,88;4,761904762;26,244;5,1
+540;460-35-4390;Loja Física;Ceilondon;Normal;Masculino;Casa e estilo de vida;30,68;3;4,602;96,642;1/22/2023;11:00;Ewallet;92,04;4,761904762;4,602;9,1
+541;343-87-0864;Representante;Sobradisney;Member;Masculino;Saúde e beleza;75,88;1;3,794;79,674;1/3/2023;10:30;Cartão de credito;75,88;4,761904762;3,794;7,1
+542;173-50-1108;E-commerce;Alagoinha;Member;Feminino;Esportes e viagens;20,18;4;4,036;84,756;2/13/2023;12:14;Cartão de credito;80,72;4,761904762;4,036;5,0
+543;243-47-2663;Representante;Sobradisney;Member;Masculino;Eletrônicos e acessórios;18,77;6;5,631;118,251;1/28/2023;16:43;Cartão de credito;112,62;4,761904762;5,631;5,5
+544;841-18-8232;E-commerce;Alagoinha;Normal;Feminino;Comida e bebidas;71,2;1;3,56;74,76;1/5/2023;20:40;Cartão de credito;71,2;4,761904762;3,56;9,2
+545;701-23-5550;E-commerce;Alagoinha;Member;Masculino;Casa e estilo de vida;38,81;4;7,762;163,002;3/19/2023;13:40;Ewallet;155,24;4,761904762;7,762;4,9
+546;647-50-1224;Loja Física;Ceilondon;Normal;Feminino;Moda e acessórios;29,42;10;14,71;308,91;1/12/2023;16:23;Ewallet;294,2;4,761904762;14,71;8,9
+547;541-48-8554;Loja Física;Ceilondon;Normal;Masculino;Esportes e viagens;60,95;9;27,4275;575,9775;1/7/2023;12:08;Cartão de credito;548,55;4,761904762;27,4275;6,0
+548;539-21-7227;E-commerce;Alagoinha;Normal;Feminino;Esportes e viagens;51,54;5;12,885;270,585;1/26/2023;17:45;Em espécie;257,7;4,761904762;12,885;4,2
+549;213-32-1216;Loja Física;Ceilondon;Normal;Feminino;Eletrônicos e acessórios;66,06;6;19,818;416,178;1/23/2023;10:28;Em espécie;396,36;4,761904762;19,818;7,3
+550;747-58-7183;E-commerce;Alagoinha;Normal;Masculino;Moda e acessórios;57,27;3;8,5905;180,4005;2/9/2023;20:31;Ewallet;171,81;4,761904762;8,5905;6,5
+551;582-52-8065;E-commerce;Alagoinha;Normal;Feminino;Moda e acessórios;54,31;9;24,4395;513,2295;2/22/2023;10:49;Em espécie;488,79;4,761904762;24,4395;8,9
+552;210-57-1719;E-commerce;Alagoinha;Normal;Feminino;Saúde e beleza;58,24;9;26,208;550,368;2/5/2023;12:34;Em espécie;524,16;4,761904762;26,208;9,7
+553;399-69-4630;Representante;Sobradisney;Normal;Masculino;Eletrônicos e acessórios;22,21;6;6,663;139,923;3/7/2023;10:23;Cartão de credito;133,26;4,761904762;6,663;8,6
+554;134-75-2619;Loja Física;Ceilondon;Member;Masculino;Eletrônicos e acessórios;19,32;7;6,762;142,002;3/25/2023;18:51;Em espécie;135,24;4,761904762;6,762;6,9
+555;356-44-8813;E-commerce;Alagoinha;Normal;Masculino;Casa e estilo de vida;37,48;3;5,622;118,062;1/20/2023;13:45;Cartão de credito;112,44;4,761904762;5,622;7,7
+556;198-66-9832;E-commerce;Alagoinha;Member;Feminino;Moda e acessórios;72,04;2;7,204;151,284;2/4/2023;19:38;Em espécie;144,08;4,761904762;7,204;9,5
+557;283-26-5248;Representante;Sobradisney;Member;Feminino;Comida e bebidas;98,52;10;49,26;1034,46;1/30/2023;20:23;Ewallet;985,2;4,761904762;49,26;4,5
+558;712-39-0363;Loja Física;Ceilondon;Member;Masculino;Comida e bebidas;41,66;6;12,498;262,458;1/2/2023;15:24;Ewallet;249,96;4,761904762;12,498;5,6
+559;218-59-9410;Loja Física;Ceilondon;Member;Feminino;Casa e estilo de vida;72,42;3;10,863;228,123;3/29/2023;16:54;Ewallet;217,26;4,761904762;10,863;8,2
+560;174-75-0888;E-commerce;Alagoinha;Normal;Masculino;Eletrônicos e acessórios;21,58;9;9,711;203,931;3/14/2023;12:32;Em espécie;194,22;4,761904762;9,711;7,3
+561;866-99-7614;Representante;Sobradisney;Normal;Masculino;Comida e bebidas;89,2;10;44,6;936,6;2/11/2023;15:42;Cartão de credito;892,0;4,761904762;44,6;4,4
+562;134-54-4720;E-commerce;Alagoinha;Normal;Feminino;Eletrônicos e acessórios;42,42;8;16,968;356,328;1/30/2023;13:58;Ewallet;339,36;4,761904762;16,968;5,7
+563;760-90-2357;Loja Física;Ceilondon;Member;Masculino;Eletrônicos e acessórios;74,51;6;22,353;469,413;3/20/2023;15:08;Ewallet;447,06;4,761904762;22,353;5,0
+564;514-37-2845;E-commerce;Alagoinha;Normal;Masculino;Moda e acessórios;99,25;2;9,925;208,425;3/20/2023;13:02;Em espécie;198,5;4,761904762;9,925;9,0
+565;698-98-5964;Loja Física;Ceilondon;Normal;Feminino;Comida e bebidas;81,21;10;40,605;852,705;1/17/2023;13:01;Cartão de credito;812,1;4,761904762;40,605;6,3
+566;718-57-9773;Representante;Sobradisney;Normal;Feminino;Esportes e viagens;49,33;10;24,665;517,965;2/3/2023;16:40;Cartão de credito;493,3;4,761904762;24,665;9,4
+567;651-88-7328;Loja Física;Ceilondon;Normal;Feminino;Moda e acessórios;65,74;9;29,583;621,243;1/1/2023;13:55;Em espécie;591,66;4,761904762;29,583;7,7
+568;241-11-2261;E-commerce;Alagoinha;Normal;Feminino;Moda e acessórios;79,86;7;27,951;586,971;1/10/2023;10:33;Cartão de credito;559,02;4,761904762;27,951;5,5
+569;408-26-9866;Representante;Sobradisney;Normal;Feminino;Esportes e viagens;73,98;7;25,893;543,753;3/2/2023;16:42;Ewallet;517,86;4,761904762;25,893;4,1
+570;834-83-1826;E-commerce;Alagoinha;Member;Feminino;Casa e estilo de vida;82,04;5;20,51;430,71;2/25/2023;17:16;Cartão de credito;410,2;4,761904762;20,51;7,6
+571;343-61-3544;E-commerce;Alagoinha;Member;Masculino;Esportes e viagens;26,67;10;13,335;280,035;1/29/2023;11:48;Em espécie;266,7;4,761904762;13,335;8,6
+572;239-48-4278;Loja Física;Ceilondon;Member;Masculino;Comida e bebidas;10,13;7;3,5455;74,4555;3/10/2023;19:35;Ewallet;70,91;4,761904762;3,5455;8,3
+573;355-34-6244;E-commerce;Alagoinha;Normal;Masculino;Comida e bebidas;72,39;2;7,239;152,019;1/13/2023;19:55;Cartão de credito;144,78;4,761904762;7,239;8,1
+574;550-84-8664;Loja Física;Ceilondon;Normal;Masculino;Esportes e viagens;85,91;5;21,4775;451,0275;3/22/2023;14:33;Cartão de credito;429,55;4,761904762;21,4775;8,6
+575;339-96-8318;E-commerce;Alagoinha;Member;Masculino;Moda e acessórios;81,31;7;28,4585;597,6285;3/1/2023;19:49;Ewallet;569,17;4,761904762;28,4585;6,3
+576;458-61-0011;E-commerce;Alagoinha;Normal;Masculino;Comida e bebidas;60,3;4;12,06;253,26;2/20/2023;18:43;Em espécie;241,2;4,761904762;12,06;5,8
+577;592-34-6155;Representante;Sobradisney;Normal;Masculino;Comida e bebidas;31,77;4;6,354;133,434;1/14/2023;14:43;Ewallet;127,08;4,761904762;6,354;6,2
+578;797-88-0493;Loja Física;Ceilondon;Normal;Feminino;Saúde e beleza;64,27;4;12,854;269,934;3/26/2023;13:54;Em espécie;257,08;4,761904762;12,854;7,7
+579;207-73-1363;E-commerce;Alagoinha;Normal;Masculino;Saúde e beleza;69,51;2;6,951;145,971;3/1/2023;12:15;Ewallet;139,02;4,761904762;6,951;8,1
+580;390-31-6381;Representante;Sobradisney;Normal;Masculino;Comida e bebidas;27,22;3;4,083;85,743;1/7/2023;12:37;Em espécie;81,66;4,761904762;4,083;7,3
+581;443-82-0585;Loja Física;Ceilondon;Member;Feminino;Saúde e beleza;77,68;4;15,536;326,256;2/1/2023;19:54;Em espécie;310,72;4,761904762;15,536;8,4
+582;339-18-7061;Representante;Sobradisney;Member;Feminino;Moda e acessórios;92,98;2;9,298;195,258;2/13/2023;15:06;Cartão de credito;185,96;4,761904762;9,298;8,0
+583;359-90-3665;E-commerce;Alagoinha;Member;Feminino;Moda e acessórios;18,08;4;3,616;75,936;1/14/2023;18:03;Cartão de credito;72,32;4,761904762;3,616;9,5
+584;375-72-3056;E-commerce;Alagoinha;Normal;Masculino;Esportes e viagens;63,06;3;9,459;198,639;1/19/2023;15:58;Ewallet;189,18;4,761904762;9,459;7,0
+585;127-47-6963;Loja Física;Ceilondon;Normal;Masculino;Saúde e beleza;51,71;4;10,342;217,182;3/9/2023;13:53;Cartão de credito;206,84;4,761904762;10,342;9,8
+586;278-86-2735;Loja Física;Ceilondon;Normal;Feminino;Comida e bebidas;52,34;3;7,851;164,871;3/27/2023;14:03;Em espécie;157,02;4,761904762;7,851;9,2
+587;695-28-6250;Loja Física;Ceilondon;Normal;Feminino;Esportes e viagens;43,06;5;10,765;226,065;2/4/2023;16:38;Ewallet;215,3;4,761904762;10,765;7,7
+588;379-17-6588;Representante;Sobradisney;Normal;Masculino;Moda e acessórios;59,61;10;29,805;625,905;3/14/2023;11:07;Em espécie;596,1;4,761904762;29,805;5,3
+589;227-50-3718;Loja Física;Ceilondon;Normal;Masculino;Saúde e beleza;14,62;5;3,655;76,755;3/4/2023;12:23;Em espécie;73,1;4,761904762;3,655;4,4
+590;302-15-2162;Representante;Sobradisney;Member;Masculino;Saúde e beleza;46,53;6;13,959;293,139;3/3/2023;10:54;Cartão de credito;279,18;4,761904762;13,959;4,3
+591;788-07-8452;Representante;Sobradisney;Member;Feminino;Casa e estilo de vida;24,24;7;8,484;178,164;1/27/2023;17:38;Ewallet;169,68;4,761904762;8,484;9,4
+592;560-49-6611;Loja Física;Ceilondon;Member;Feminino;Esportes e viagens;45,58;1;2,279;47,859;2/7/2023;14:13;Em espécie;45,58;4,761904762;2,279;9,8
+593;880-35-0356;Loja Física;Ceilondon;Member;Feminino;Esportes e viagens;75,2;3;11,28;236,88;2/5/2023;11:51;Ewallet;225,6;4,761904762;11,28;4,8
+594;585-11-6748;E-commerce;Alagoinha;Member;Masculino;Esportes e viagens;96,8;3;14,52;304,92;3/15/2023;13:05;Em espécie;290,4;4,761904762;14,52;5,3
+595;470-31-3286;E-commerce;Alagoinha;Normal;Masculino;Saúde e beleza;14,82;3;2,223;46,683;3/1/2023;11:30;Cartão de credito;44,46;4,761904762;2,223;8,7
+596;152-68-2907;Loja Física;Ceilondon;Normal;Masculino;Comida e bebidas;52,2;3;7,83;164,43;2/15/2023;13:30;Cartão de credito;156,6;4,761904762;7,83;9,5
+597;123-35-4896;Representante;Sobradisney;Normal;Feminino;Esportes e viagens;46,66;9;20,997;440,937;2/17/2023;19:11;Ewallet;419,94;4,761904762;20,997;5,3
+598;258-69-7810;Representante;Sobradisney;Normal;Feminino;Moda e acessórios;36,85;5;9,2125;193,4625;1/26/2023;18:53;Em espécie;184,25;4,761904762;9,2125;9,2
+599;334-64-2006;Loja Física;Ceilondon;Member;Feminino;Casa e estilo de vida;70,32;2;7,032;147,672;3/24/2023;14:22;Ewallet;140,64;4,761904762;7,032;9,6
+600;219-61-4139;Representante;Sobradisney;Normal;Masculino;Eletrônicos e acessórios;83,08;1;4,154;87,234;1/23/2023;17:16;Ewallet;83,08;4,761904762;4,154;6,4
+601;881-41-7302;Representante;Sobradisney;Normal;Feminino;Moda e acessórios;64,99;1;3,2495;68,2395;1/26/2023;10:06;Cartão de credito;64,99;4,761904762;3,2495;4,5
+602;373-09-4567;Representante;Sobradisney;Normal;Masculino;Comida e bebidas;77,56;10;38,78;814,38;3/14/2023;20:35;Ewallet;775,6;4,761904762;38,78;6,9
+603;642-30-6693;E-commerce;Alagoinha;Normal;Feminino;Esportes e viagens;54,51;6;16,353;343,413;3/17/2023;13:54;Ewallet;327,06;4,761904762;16,353;7,8
+604;484-22-8230;Representante;Sobradisney;Member;Feminino;Moda e acessórios;51,89;7;18,1615;381,3915;1/8/2023;20:08;Em espécie;363,23;4,761904762;18,1615;4,5
+605;830-58-2383;E-commerce;Alagoinha;Normal;Masculino;Casa e estilo de vida;31,75;4;6,35;133,35;2/8/2023;15:26;Em espécie;127,0;4,761904762;6,35;8,6
+606;559-98-9873;Loja Física;Ceilondon;Member;Feminino;Moda e acessórios;53,65;7;18,7775;394,3275;2/10/2023;12:56;Ewallet;375,55;4,761904762;18,7775;5,2
+607;544-32-5024;Representante;Sobradisney;Member;Feminino;Comida e bebidas;49,79;4;9,958;209,118;3/28/2023;19:16;Cartão de credito;199,16;4,761904762;9,958;6,4
+608;318-12-0304;Loja Física;Ceilondon;Normal;Masculino;Moda e acessórios;30,61;1;1,5305;32,1405;1/23/2023;12:20;Ewallet;30,61;4,761904762;1,5305;5,2
+609;349-97-8902;E-commerce;Alagoinha;Member;Masculino;Comida e bebidas;57,89;2;5,789;121,569;1/17/2023;10:37;Ewallet;115,78;4,761904762;5,789;8,9
+610;421-95-9805;Loja Física;Ceilondon;Normal;Feminino;Eletrônicos e acessórios;28,96;1;1,448;30,408;2/7/2023;10:18;Cartão de credito;28,96;4,761904762;1,448;6,2
+611;277-35-5865;Representante;Sobradisney;Member;Feminino;Comida e bebidas;98,97;9;44,5365;935,2665;3/9/2023;11:23;Em espécie;890,73;4,761904762;44,5365;6,7
+612;789-23-8625;E-commerce;Alagoinha;Member;Masculino;Moda e acessórios;93,22;3;13,983;293,643;1/24/2023;11:45;Em espécie;279,66;4,761904762;13,983;7,2
+613;284-54-4231;Representante;Sobradisney;Member;Masculino;Esportes e viagens;80,93;1;4,0465;84,9765;1/19/2023;16:08;Cartão de credito;80,93;4,761904762;4,0465;9,0
+614;443-59-0061;Loja Física;Ceilondon;Member;Masculino;Comida e bebidas;67,45;10;33,725;708,225;2/3/2023;11:25;Ewallet;674,5;4,761904762;33,725;4,2
+615;509-29-3912;Loja Física;Ceilondon;Member;Feminino;Esportes e viagens;38,72;9;17,424;365,904;3/20/2023;12:24;Ewallet;348,48;4,761904762;17,424;4,2
+616;327-40-9673;E-commerce;Alagoinha;Member;Masculino;Esportes e viagens;72,6;6;21,78;457,38;1/13/2023;19:51;Em espécie;435,6;4,761904762;21,78;6,9
+617;840-19-2096;Representante;Sobradisney;Member;Masculino;Eletrônicos e acessórios;87,91;5;21,9775;461,5275;3/14/2023;18:10;Ewallet;439,55;4,761904762;21,9775;4,4
+618;828-46-6863;Loja Física;Ceilondon;Member;Masculino;Comida e bebidas;98,53;6;29,559;620,739;1/23/2023;11:22;Cartão de credito;591,18;4,761904762;29,559;4,0
+619;641-96-3695;Representante;Sobradisney;Member;Feminino;Moda e acessórios;43,46;6;13,038;273,798;2/7/2023;17:55;Ewallet;260,76;4,761904762;13,038;8,5
+620;420-97-3340;Loja Física;Ceilondon;Normal;Feminino;Comida e bebidas;71,68;3;10,752;225,792;3/28/2023;15:30;Cartão de credito;215,04;4,761904762;10,752;9,2
+621;436-54-4512;Loja Física;Ceilondon;Member;Feminino;Comida e bebidas;91,61;1;4,5805;96,1905;3/20/2023;19:44;Em espécie;91,61;4,761904762;4,5805;9,8
+622;670-79-6321;E-commerce;Alagoinha;Member;Feminino;Casa e estilo de vida;94,59;7;33,1065;695,2365;1/17/2023;15:27;Cartão de credito;662,13;4,761904762;33,1065;4,9
+623;852-62-7105;E-commerce;Alagoinha;Normal;Feminino;Moda e acessórios;83,25;10;41,625;874,125;1/12/2023;11:25;Cartão de credito;832,5;4,761904762;41,625;4,4
+624;598-06-7312;E-commerce;Alagoinha;Member;Masculino;Moda e acessórios;91,35;1;4,5675;95,9175;2/16/2023;15:42;Em espécie;91,35;4,761904762;4,5675;6,8
+625;135-13-8269;E-commerce;Alagoinha;Member;Feminino;Comida e bebidas;78,88;2;7,888;165,648;1/26/2023;16:04;Em espécie;157,76;4,761904762;7,888;9,1
+626;816-57-2053;Loja Física;Ceilondon;Normal;Masculino;Esportes e viagens;60,87;2;6,087;127,827;3/9/2023;12:37;Ewallet;121,74;4,761904762;6,087;8,7
+627;628-90-8624;E-commerce;Alagoinha;Member;Masculino;Saúde e beleza;82,58;10;41,29;867,09;3/14/2023;14:41;Em espécie;825,8;4,761904762;41,29;5,0
+628;856-66-2701;Loja Física;Ceilondon;Member;Masculino;Casa e estilo de vida;53,3;3;7,995;167,895;1/25/2023;14:19;Ewallet;159,9;4,761904762;7,995;7,5
+629;308-39-1707;Loja Física;Ceilondon;Normal;Feminino;Moda e acessórios;12,09;1;0,6045;12,6945;1/26/2023;18:19;Cartão de credito;12,09;4,761904762;0,6045;8,2
+630;149-61-1929;Loja Física;Ceilondon;Normal;Masculino;Esportes e viagens;64,19;10;32,095;673,995;1/19/2023;14:08;Cartão de credito;641,9;4,761904762;32,095;6,7
+631;655-07-2265;Loja Física;Ceilondon;Normal;Masculino;Eletrônicos e acessórios;78,31;3;11,7465;246,6765;3/5/2023;16:38;Ewallet;234,93;4,761904762;11,7465;5,4
+632;589-02-8023;Loja Física;Ceilondon;Member;Masculino;Comida e bebidas;83,77;2;8,377;175,917;1/15/2023;10:54;Cartão de credito;167,54;4,761904762;8,377;7,0
+633;420-04-7590;E-commerce;Alagoinha;Normal;Masculino;Casa e estilo de vida;99,7;3;14,955;314,055;3/18/2023;11:29;Ewallet;299,1;4,761904762;14,955;4,7
+634;182-88-2763;E-commerce;Alagoinha;Member;Masculino;Comida e bebidas;79,91;3;11,9865;251,7165;3/20/2023;19:28;Cartão de credito;239,73;4,761904762;11,9865;5,0
+635;188-55-0967;E-commerce;Alagoinha;Member;Masculino;Saúde e beleza;66,47;10;33,235;697,935;1/15/2023;15:01;Cartão de credito;664,7;4,761904762;33,235;5,0
+636;610-46-4100;Loja Física;Ceilondon;Normal;Masculino;Saúde e beleza;28,95;7;10,1325;212,7825;3/3/2023;20:31;Cartão de credito;202,65;4,761904762;10,1325;6,0
+637;318-81-2368;Representante;Sobradisney;Normal;Feminino;Eletrônicos e acessórios;46,2;1;2,31;48,51;3/19/2023;12:16;Em espécie;46,2;4,761904762;2,31;6,3
+638;364-33-8584;E-commerce;Alagoinha;Member;Feminino;Comida e bebidas;17,63;5;4,4075;92,5575;3/8/2023;15:27;Em espécie;88,15;4,761904762;4,4075;8,5
+639;665-63-9737;E-commerce;Alagoinha;Normal;Masculino;Moda e acessórios;52,42;3;7,863;165,123;2/27/2023;17:36;Ewallet;157,26;4,761904762;7,863;7,5
+640;695-09-5146;E-commerce;Alagoinha;Member;Feminino;Comida e bebidas;98,79;3;14,8185;311,1885;2/23/2023;20:00;Ewallet;296,37;4,761904762;14,8185;6,4
+641;155-45-3814;Representante;Sobradisney;Member;Feminino;Eletrônicos e acessórios;88,55;8;35,42;743,82;3/19/2023;15:29;Ewallet;708,4;4,761904762;35,42;4,7
+642;794-32-2436;E-commerce;Alagoinha;Member;Masculino;Eletrônicos e acessórios;55,67;2;5,567;116,907;3/27/2023;15:08;Ewallet;111,34;4,761904762;5,567;6,0
+643;131-15-8856;Representante;Sobradisney;Member;Feminino;Comida e bebidas;72,52;8;29,008;609,168;3/30/2023;19:26;Cartão de credito;580,16;4,761904762;29,008;4,0
+644;273-84-2164;Representante;Sobradisney;Member;Masculino;Eletrônicos e acessórios;12,05;5;3,0125;63,2625;2/16/2023;15:53;Ewallet;60,25;4,761904762;3,0125;5,5
+645;706-36-6154;Loja Física;Ceilondon;Member;Masculino;Casa e estilo de vida;19,36;9;8,712;182,952;1/18/2023;18:43;Ewallet;174,24;4,761904762;8,712;8,7
+646;778-89-7974;Representante;Sobradisney;Normal;Masculino;Saúde e beleza;70,21;6;21,063;442,323;3/30/2023;14:58;Em espécie;421,26;4,761904762;21,063;7,4
+647;574-31-8277;E-commerce;Alagoinha;Member;Masculino;Moda e acessórios;33,63;1;1,6815;35,3115;3/20/2023;19:55;Em espécie;33,63;4,761904762;1,6815;5,6
+648;859-71-0933;Representante;Sobradisney;Member;Feminino;Esportes e viagens;15,49;2;1,549;32,529;1/16/2023;15:10;Em espécie;30,98;4,761904762;1,549;6,3
+649;740-11-5257;Representante;Sobradisney;Normal;Masculino;Eletrônicos e acessórios;24,74;10;12,37;259,77;2/24/2023;16:44;Em espécie;247,4;4,761904762;12,37;7,1
+650;369-82-2676;E-commerce;Alagoinha;Normal;Masculino;Eletrônicos e acessórios;75,66;5;18,915;397,215;1/15/2023;18:22;Ewallet;378,3;4,761904762;18,915;7,8
+651;563-47-4072;E-commerce;Alagoinha;Normal;Feminino;Saúde e beleza;55,81;6;16,743;351,603;1/22/2023;11:52;Em espécie;334,86;4,761904762;16,743;9,9
+652;742-04-5161;Loja Física;Ceilondon;Member;Masculino;Casa e estilo de vida;72,78;10;36,39;764,19;2/3/2023;17:24;Em espécie;727,8;4,761904762;36,39;7,3
+653;149-15-7606;E-commerce;Alagoinha;Member;Masculino;Esportes e viagens;37,32;9;16,794;352,674;3/6/2023;15:31;Ewallet;335,88;4,761904762;16,794;5,1
+654;133-77-3154;E-commerce;Alagoinha;Member;Masculino;Moda e acessórios;60,18;4;12,036;252,756;2/16/2023;18:04;Cartão de credito;240,72;4,761904762;12,036;9,4
+655;169-52-4504;Loja Física;Ceilondon;Normal;Feminino;Eletrônicos e acessórios;15,69;3;2,3535;49,4235;3/14/2023;14:13;Cartão de credito;47,07;4,761904762;2,3535;5,8
+656;250-81-7186;Representante;Sobradisney;Normal;Feminino;Eletrônicos e acessórios;99,69;1;4,9845;104,6745;2/27/2023;10:23;Cartão de credito;99,69;4,761904762;4,9845;8,0
+657;562-12-5430;Loja Física;Ceilondon;Member;Feminino;Moda e acessórios;88,15;3;13,2225;277,6725;1/18/2023;10:11;Ewallet;264,45;4,761904762;13,2225;7,9
+658;816-72-8853;Loja Física;Ceilondon;Member;Feminino;Esportes e viagens;27,93;5;6,9825;146,6325;1/29/2023;15:48;Em espécie;139,65;4,761904762;6,9825;5,9
+659;491-38-3499;Loja Física;Ceilondon;Member;Masculino;Moda e acessórios;55,45;1;2,7725;58,2225;2/26/2023;17:46;Cartão de credito;55,45;4,761904762;2,7725;4,9
+660;322-02-2271;E-commerce;Alagoinha;Normal;Feminino;Esportes e viagens;42,97;3;6,4455;135,3555;2/3/2023;11:46;Em espécie;128,91;4,761904762;6,4455;9,3
+661;842-29-4695;Representante;Sobradisney;Member;Masculino;Esportes e viagens;17,14;7;5,999;125,979;1/16/2023;12:07;Cartão de credito;119,98;4,761904762;5,999;7,9
+662;725-67-2480;E-commerce;Alagoinha;Member;Feminino;Moda e acessórios;58,75;6;17,625;370,125;3/24/2023;18:14;Cartão de credito;352,5;4,761904762;17,625;5,9
+663;641-51-2661;Representante;Sobradisney;Member;Feminino;Comida e bebidas;87,1;10;43,55;914,55;2/12/2023;14:45;Cartão de credito;871,0;4,761904762;43,55;9,9
+664;714-02-3114;Representante;Sobradisney;Normal;Feminino;Esportes e viagens;98,8;2;9,88;207,48;2/21/2023;11:39;Em espécie;197,6;4,761904762;9,88;7,7
+665;518-17-2983;Loja Física;Ceilondon;Normal;Feminino;Moda e acessórios;48,63;4;9,726;204,246;2/4/2023;15:44;Ewallet;194,52;4,761904762;9,726;7,6
+666;779-42-2410;E-commerce;Alagoinha;Member;Masculino;Comida e bebidas;57,74;3;8,661;181,881;2/20/2023;13:06;Ewallet;173,22;4,761904762;8,661;7,7
+667;190-14-3147;E-commerce;Alagoinha;Normal;Feminino;Saúde e beleza;17,97;4;3,594;75,474;2/23/2023;20:43;Ewallet;71,88;4,761904762;3,594;6,4
+668;408-66-6712;Representante;Sobradisney;Member;Feminino;Saúde e beleza;47,71;6;14,313;300,573;2/16/2023;14:19;Ewallet;286,26;4,761904762;14,313;4,4
+669;679-22-6530;E-commerce;Alagoinha;Normal;Feminino;Esportes e viagens;40,62;2;4,062;85,302;1/17/2023;10:01;Cartão de credito;81,24;4,761904762;4,062;4,1
+670;588-47-8641;Loja Física;Ceilondon;Member;Masculino;Moda e acessórios;56,04;10;28,02;588,42;1/14/2023;19:30;Ewallet;560,4;4,761904762;28,02;4,4
+671;642-61-4706;E-commerce;Alagoinha;Member;Masculino;Comida e bebidas;93,4;2;9,34;196,14;3/30/2023;16:34;Em espécie;186,8;4,761904762;9,34;5,5
+672;576-31-4774;E-commerce;Alagoinha;Normal;Feminino;Saúde e beleza;73,41;3;11,0115;231,2415;3/2/2023;13:10;Ewallet;220,23;4,761904762;11,0115;4,0
+673;556-41-6224;Representante;Sobradisney;Normal;Masculino;Saúde e beleza;33,64;8;13,456;282,576;2/15/2023;17:10;Cartão de credito;269,12;4,761904762;13,456;9,3
+674;811-03-8790;Loja Física;Ceilondon;Normal;Feminino;Eletrônicos e acessórios;45,48;10;22,74;477,54;3/1/2023;10:22;Cartão de credito;454,8;4,761904762;22,74;4,8
+675;242-11-3142;E-commerce;Alagoinha;Member;Masculino;Moda e acessórios;83,77;2;8,377;175,917;2/24/2023;19:57;Em espécie;167,54;4,761904762;8,377;4,6
+676;752-23-3760;E-commerce;Alagoinha;Member;Feminino;Esportes e viagens;64,08;7;22,428;470,988;2/19/2023;19:29;Cartão de credito;448,56;4,761904762;22,428;7,3
+677;274-05-5470;Loja Física;Ceilondon;Member;Feminino;Comida e bebidas;73,47;4;14,694;308,574;2/23/2023;18:30;Em espécie;293,88;4,761904762;14,694;6,0
+678;648-94-3045;Representante;Sobradisney;Normal;Masculino;Saúde e beleza;58,95;10;29,475;618,975;2/7/2023;14:27;Ewallet;589,5;4,761904762;29,475;8,1
+679;130-67-4723;Loja Física;Ceilondon;Member;Masculino;Comida e bebidas;48,5;6;14,55;305,55;1/11/2023;13:57;Ewallet;291,0;4,761904762;14,55;9,4
+680;528-87-5606;E-commerce;Alagoinha;Member;Feminino;Eletrônicos e acessórios;39,48;1;1,974;41,454;2/12/2023;19:43;Em espécie;39,48;4,761904762;1,974;6,5
+681;320-85-2052;E-commerce;Alagoinha;Normal;Feminino;Esportes e viagens;34,81;1;1,7405;36,5505;1/14/2023;10:11;Cartão de credito;34,81;4,761904762;1,7405;7,0
+682;370-96-0655;Representante;Sobradisney;Normal;Feminino;Moda e acessórios;49,32;6;14,796;310,716;1/9/2023;13:46;Ewallet;295,92;4,761904762;14,796;7,1
+683;105-10-6182;Loja Física;Ceilondon;Member;Masculino;Moda e acessórios;21,48;2;2,148;45,108;2/27/2023;12:22;Ewallet;42,96;4,761904762;2,148;6,6
+684;510-79-0415;E-commerce;Alagoinha;Member;Feminino;Esportes e viagens;23,08;6;6,924;145,404;1/24/2023;19:20;Ewallet;138,48;4,761904762;6,924;4,9
+685;241-96-5076;E-commerce;Alagoinha;Member;Feminino;Casa e estilo de vida;49,1;2;4,91;103,11;1/8/2023;12:58;Cartão de credito;98,2;4,761904762;4,91;6,4
+686;767-97-4650;E-commerce;Alagoinha;Member;Feminino;Esportes e viagens;64,83;2;6,483;136,143;1/8/2023;11:59;Cartão de credito;129,66;4,761904762;6,483;8,0
+687;648-83-1321;Loja Física;Ceilondon;Member;Masculino;Casa e estilo de vida;63,56;10;31,78;667,38;1/16/2023;17:59;Em espécie;635,6;4,761904762;31,78;4,3
+688;173-57-2300;Representante;Sobradisney;Member;Masculino;Esportes e viagens;72,88;2;7,288;153,048;3/13/2023;12:51;Em espécie;145,76;4,761904762;7,288;6,1
+689;305-03-2383;Loja Física;Ceilondon;Normal;Feminino;Comida e bebidas;67,1;3;10,065;211,365;2/15/2023;10:36;Em espécie;201,3;4,761904762;10,065;7,5
+690;394-55-6384;Representante;Sobradisney;Member;Feminino;Esportes e viagens;70,19;9;31,5855;663,2955;1/25/2023;13:38;Em espécie;631,71;4,761904762;31,5855;6,7
+691;266-20-6657;Representante;Sobradisney;Member;Masculino;Comida e bebidas;55,04;7;19,264;404,544;3/12/2023;19:39;Ewallet;385,28;4,761904762;19,264;5,2
+692;689-05-1884;Loja Física;Ceilondon;Member;Masculino;Saúde e beleza;48,63;10;24,315;510,615;3/4/2023;12:44;Em espécie;486,3;4,761904762;24,315;8,8
+693;196-01-2849;Representante;Sobradisney;Member;Feminino;Moda e acessórios;73,38;7;25,683;539,343;2/10/2023;13:56;Em espécie;513,66;4,761904762;25,683;9,5
+694;372-62-5264;Representante;Sobradisney;Normal;Feminino;Comida e bebidas;52,6;9;23,67;497,07;1/16/2023;14:42;Em espécie;473,4;4,761904762;23,67;7,6
+695;800-09-8606;Loja Física;Ceilondon;Member;Feminino;Casa e estilo de vida;87,37;5;21,8425;458,6925;1/29/2023;19:45;Em espécie;436,85;4,761904762;21,8425;6,6
+696;182-52-7000;Loja Física;Ceilondon;Member;Feminino;Esportes e viagens;27,04;4;5,408;113,568;1/1/2023;20:26;Ewallet;108,16;4,761904762;5,408;6,9
+697;826-58-8051;E-commerce;Alagoinha;Normal;Masculino;Casa e estilo de vida;62,19;4;12,438;261,198;1/6/2023;19:46;Ewallet;248,76;4,761904762;12,438;4,3
+698;868-06-0466;Loja Física;Ceilondon;Member;Masculino;Eletrônicos e acessórios;69,58;9;31,311;657,531;2/19/2023;19:38;Cartão de credito;626,22;4,761904762;31,311;7,8
+699;751-41-9720;Representante;Sobradisney;Normal;Masculino;Casa e estilo de vida;97,5;10;48,75;1023,75;1/12/2023;16:18;Ewallet;975,0;4,761904762;48,75;8,0
+700;626-43-7888;Representante;Sobradisney;Normal;Feminino;Moda e acessórios;60,41;8;24,164;507,444;2/7/2023;12:23;Ewallet;483,28;4,761904762;24,164;9,6
+701;176-64-7711;E-commerce;Alagoinha;Normal;Masculino;Comida e bebidas;32,32;3;4,848;101,808;3/27/2023;19:11;Cartão de credito;96,96;4,761904762;4,848;4,3
+702;191-29-0321;E-commerce;Alagoinha;Member;Feminino;Moda e acessórios;19,77;10;9,885;207,585;2/27/2023;18:57;Cartão de credito;197,7;4,761904762;9,885;5,0
+703;729-06-2010;E-commerce;Alagoinha;Member;Masculino;Saúde e beleza;80,47;9;36,2115;760,4415;1/6/2023;11:18;Em espécie;724,23;4,761904762;36,2115;9,2
+704;640-48-5028;E-commerce;Alagoinha;Member;Feminino;Casa e estilo de vida;88,39;9;39,7755;835,2855;3/2/2023;12:40;Em espécie;795,51;4,761904762;39,7755;6,3
+705;186-79-9562;E-commerce;Alagoinha;Normal;Masculino;Saúde e beleza;71,77;7;25,1195;527,5095;3/29/2023;14:06;Em espécie;502,39;4,761904762;25,1195;8,9
+706;834-45-5519;E-commerce;Alagoinha;Normal;Feminino;Eletrônicos e acessórios;43,0;4;8,6;180,6;1/31/2023;20:48;Ewallet;172,0;4,761904762;8,6;7,6
+707;162-65-8559;Representante;Sobradisney;Member;Masculino;Comida e bebidas;68,98;1;3,449;72,429;1/21/2023;20:13;Em espécie;68,98;4,761904762;3,449;4,8
+708;760-27-5490;Representante;Sobradisney;Normal;Masculino;Moda e acessórios;15,62;8;6,248;131,208;1/20/2023;20:37;Ewallet;124,96;4,761904762;6,248;9,1
+709;445-30-9252;Loja Física;Ceilondon;Normal;Masculino;Esportes e viagens;25,7;3;3,855;80,955;1/17/2023;17:59;Ewallet;77,1;4,761904762;3,855;6,1
+710;786-94-2700;Loja Física;Ceilondon;Member;Masculino;Comida e bebidas;80,62;6;24,186;507,906;2/28/2023;20:18;Em espécie;483,72;4,761904762;24,186;9,1
+711;728-88-7867;Representante;Sobradisney;Member;Feminino;Casa e estilo de vida;75,53;4;15,106;317,226;3/19/2023;15:52;Ewallet;302,12;4,761904762;15,106;8,3
+712;183-21-3799;Representante;Sobradisney;Normal;Feminino;Eletrônicos e acessórios;77,63;9;34,9335;733,6035;2/19/2023;15:14;Ewallet;698,67;4,761904762;34,9335;7,2
+713;268-20-3585;Representante;Sobradisney;Normal;Feminino;Saúde e beleza;13,85;9;6,2325;130,8825;2/4/2023;12:50;Ewallet;124,65;4,761904762;6,2325;6,0
+714;735-32-9839;Representante;Sobradisney;Member;Masculino;Moda e acessórios;98,7;8;39,48;829,08;1/31/2023;10:36;Ewallet;789,6;4,761904762;39,48;8,5
+715;258-92-7466;Loja Física;Ceilondon;Normal;Feminino;Saúde e beleza;35,68;5;8,92;187,32;2/6/2023;18:33;Cartão de credito;178,4;4,761904762;8,92;6,6
+716;857-16-3520;Loja Física;Ceilondon;Member;Feminino;Moda e acessórios;71,46;7;25,011;525,231;3/28/2023;16:06;Ewallet;500,22;4,761904762;25,011;4,5
+717;482-17-1179;Loja Física;Ceilondon;Member;Masculino;Eletrônicos e acessórios;11,94;3;1,791;37,611;1/19/2023;12:47;Cartão de credito;35,82;4,761904762;1,791;8,1
+718;788-21-5741;Loja Física;Ceilondon;Normal;Masculino;Moda e acessórios;45,38;3;6,807;142,947;2/17/2023;13:34;Cartão de credito;136,14;4,761904762;6,807;7,2
+719;821-14-9046;E-commerce;Alagoinha;Member;Feminino;Moda e acessórios;17,48;6;5,244;110,124;1/18/2023;15:04;Cartão de credito;104,88;4,761904762;5,244;6,1
+720;418-05-0656;E-commerce;Alagoinha;Normal;Feminino;Moda e acessórios;25,56;7;8,946;187,866;2/2/2023;20:42;Em espécie;178,92;4,761904762;8,946;7,1
+721;678-79-0726;Representante;Sobradisney;Member;Feminino;Esportes e viagens;90,63;9;40,7835;856,4535;1/18/2023;15:28;Em espécie;815,67;4,761904762;40,7835;5,1
+722;776-68-1096;E-commerce;Alagoinha;Normal;Masculino;Casa e estilo de vida;44,12;3;6,618;138,978;3/18/2023;13:45;Cartão de credito;132,36;4,761904762;6,618;7,9
+723;592-46-1692;Representante;Sobradisney;Member;Feminino;Comida e bebidas;36,77;7;12,8695;270,2595;1/11/2023;20:10;Em espécie;257,39;4,761904762;12,8695;7,4
+724;434-35-9162;E-commerce;Alagoinha;Member;Masculino;Comida e bebidas;23,34;4;4,668;98,028;2/4/2023;18:53;Ewallet;93,36;4,761904762;4,668;7,4
+725;149-14-0304;Representante;Sobradisney;Member;Feminino;Saúde e beleza;28,5;8;11,4;239,4;2/6/2023;14:24;Em espécie;228,0;4,761904762;11,4;6,6
+726;442-44-6497;Representante;Sobradisney;Member;Masculino;Casa e estilo de vida;55,57;3;8,3355;175,0455;1/8/2023;11:42;Cartão de credito;166,71;4,761904762;8,3355;5,9
+727;174-64-0215;E-commerce;Alagoinha;Normal;Masculino;Esportes e viagens;69,74;10;34,87;732,27;3/5/2023;17:49;Cartão de credito;697,4;4,761904762;34,87;8,9
+728;210-74-9613;Representante;Sobradisney;Normal;Masculino;Moda e acessórios;97,26;4;19,452;408,492;3/16/2023;15:33;Ewallet;389,04;4,761904762;19,452;6,8
+729;299-29-0180;E-commerce;Alagoinha;Member;Feminino;Casa e estilo de vida;52,18;7;18,263;383,523;3/9/2023;10:54;Em espécie;365,26;4,761904762;18,263;9,3
+730;247-11-2470;Loja Física;Ceilondon;Member;Feminino;Moda e acessórios;22,32;4;4,464;93,744;3/1/2023;16:23;Cartão de credito;89,28;4,761904762;4,464;4,4
+731;635-28-5728;Loja Física;Ceilondon;Normal;Masculino;Saúde e beleza;56,0;3;8,4;176,4;2/28/2023;19:33;Ewallet;168,0;4,761904762;8,4;4,8
+732;756-49-0168;Loja Física;Ceilondon;Member;Masculino;Moda e acessórios;19,7;1;0,985;20,685;2/8/2023;11:39;Ewallet;19,7;4,761904762;0,985;9,5
+733;438-23-1242;E-commerce;Alagoinha;Normal;Masculino;Eletrônicos e acessórios;75,88;7;26,558;557,718;1/24/2023;10:38;Ewallet;531,16;4,761904762;26,558;8,9
+734;238-45-6950;E-commerce;Alagoinha;Member;Masculino;Comida e bebidas;53,72;1;2,686;56,406;3/1/2023;20:03;Ewallet;53,72;4,761904762;2,686;6,4
+735;607-65-2441;Representante;Sobradisney;Member;Masculino;Saúde e beleza;81,95;10;40,975;860,475;3/10/2023;12:39;Cartão de credito;819,5;4,761904762;40,975;6,0
+736;386-27-7606;Representante;Sobradisney;Member;Feminino;Casa e estilo de vida;81,2;7;28,42;596,82;3/23/2023;15:59;Cartão de credito;568,4;4,761904762;28,42;8,1
+737;137-63-5492;Representante;Sobradisney;Normal;Masculino;Eletrônicos e acessórios;58,76;10;29,38;616,98;1/29/2023;14:26;Ewallet;587,6;4,761904762;29,38;9,0
+738;197-77-7132;E-commerce;Alagoinha;Member;Masculino;Eletrônicos e acessórios;91,56;8;36,624;769,104;1/12/2023;18:22;Ewallet;732,48;4,761904762;36,624;6,0
+739;805-86-0265;Loja Física;Ceilondon;Normal;Masculino;Casa e estilo de vida;93,96;9;42,282;887,922;3/20/2023;11:32;Em espécie;845,64;4,761904762;42,282;9,8
+740;733-29-1227;Representante;Sobradisney;Normal;Masculino;Casa e estilo de vida;55,61;7;19,4635;408,7335;3/23/2023;12:41;Em espécie;389,27;4,761904762;19,4635;8,5
+741;451-73-2711;Representante;Sobradisney;Normal;Masculino;Comida e bebidas;84,83;1;4,2415;89,0715;1/14/2023;15:20;Ewallet;84,83;4,761904762;4,2415;8,8
+742;373-14-0504;Loja Física;Ceilondon;Member;Feminino;Esportes e viagens;71,63;2;7,163;150,423;2/12/2023;14:33;Ewallet;143,26;4,761904762;7,163;8,8
+743;546-80-2899;Loja Física;Ceilondon;Member;Masculino;Casa e estilo de vida;37,69;2;3,769;79,149;2/20/2023;15:29;Ewallet;75,38;4,761904762;3,769;9,5
+744;345-68-9016;Representante;Sobradisney;Member;Feminino;Esportes e viagens;31,67;8;12,668;266,028;1/2/2023;16:19;Cartão de credito;253,36;4,761904762;12,668;5,6
+745;390-17-5806;Representante;Sobradisney;Member;Feminino;Comida e bebidas;38,42;1;1,921;40,341;2/2/2023;16:33;Em espécie;38,42;4,761904762;1,921;8,6
+746;457-13-1708;E-commerce;Alagoinha;Member;Masculino;Moda e acessórios;65,23;10;32,615;684,915;1/8/2023;19:07;Cartão de credito;652,3;4,761904762;32,615;5,2
+747;664-14-2882;Representante;Sobradisney;Member;Feminino;Casa e estilo de vida;10,53;5;2,6325;55,2825;1/30/2023;14:43;Cartão de credito;52,65;4,761904762;2,6325;5,8
+748;487-79-6868;E-commerce;Alagoinha;Member;Feminino;Casa e estilo de vida;12,29;9;5,5305;116,1405;3/26/2023;19:28;Cartão de credito;110,61;4,761904762;5,5305;8,0
+749;314-23-4520;Representante;Sobradisney;Member;Masculino;Saúde e beleza;81,23;7;28,4305;597,0405;1/15/2023;20:44;Em espécie;568,61;4,761904762;28,4305;9,0
+750;210-30-7976;E-commerce;Alagoinha;Member;Feminino;Moda e acessórios;22,32;4;4,464;93,744;3/14/2023;11:16;Ewallet;89,28;4,761904762;4,464;4,1
+751;585-86-8361;Loja Física;Ceilondon;Normal;Feminino;Comida e bebidas;27,28;5;6,82;143,22;2/3/2023;10:31;Cartão de credito;136,4;4,761904762;6,82;8,6
+752;807-14-7833;Loja Física;Ceilondon;Member;Feminino;Eletrônicos e acessórios;17,42;10;8,71;182,91;2/22/2023;12:30;Ewallet;174,2;4,761904762;8,71;7,0
+753;775-72-1988;E-commerce;Alagoinha;Normal;Masculino;Casa e estilo de vida;73,28;5;18,32;384,72;1/24/2023;15:05;Ewallet;366,4;4,761904762;18,32;8,4
+754;288-38-3758;Representante;Sobradisney;Member;Feminino;Moda e acessórios;84,87;3;12,7305;267,3405;1/25/2023;18:30;Ewallet;254,61;4,761904762;12,7305;7,4
+755;652-43-6591;Loja Física;Ceilondon;Normal;Feminino;Moda e acessórios;97,29;8;38,916;817,236;3/9/2023;13:18;Cartão de credito;778,32;4,761904762;38,916;6,2
+756;785-96-0615;E-commerce;Alagoinha;Member;Feminino;Eletrônicos e acessórios;35,74;8;14,296;300,216;2/17/2023;15:28;Ewallet;285,92;4,761904762;14,296;4,9
+757;406-46-7107;Loja Física;Ceilondon;Normal;Feminino;Casa e estilo de vida;96,52;6;28,956;608,076;1/11/2023;11:52;Em espécie;579,12;4,761904762;28,956;4,5
+758;250-17-5703;Loja Física;Ceilondon;Member;Masculino;Comida e bebidas;18,85;10;9,425;197,925;2/27/2023;18:24;Ewallet;188,5;4,761904762;9,425;5,6
+759;156-95-3964;Loja Física;Ceilondon;Normal;Feminino;Comida e bebidas;55,39;4;11,078;232,638;3/25/2023;15:19;Ewallet;221,56;4,761904762;11,078;8,0
+760;842-40-8179;E-commerce;Alagoinha;Member;Feminino;Comida e bebidas;77,2;10;38,6;810,6;2/11/2023;10:38;Cartão de credito;772,0;4,761904762;38,6;5,6
+761;525-09-8450;E-commerce;Alagoinha;Normal;Masculino;Eletrônicos e acessórios;72,13;10;36,065;757,365;1/31/2023;15:12;Cartão de credito;721,3;4,761904762;36,065;4,2
+762;410-67-1709;Loja Física;Ceilondon;Member;Feminino;Moda e acessórios;63,88;8;25,552;536,592;1/20/2023;17:48;Ewallet;511,04;4,761904762;25,552;9,9
+763;587-73-4862;Loja Física;Ceilondon;Member;Feminino;Saúde e beleza;10,69;5;2,6725;56,1225;3/26/2023;11:07;Ewallet;53,45;4,761904762;2,6725;7,6
+764;787-87-2010;Loja Física;Ceilondon;Member;Masculino;Saúde e beleza;55,5;4;11,1;233,1;1/20/2023;15:48;Cartão de credito;222,0;4,761904762;11,1;6,6
+765;593-14-4239;E-commerce;Alagoinha;Normal;Feminino;Casa e estilo de vida;95,46;8;38,184;801,864;3/5/2023;19:40;Ewallet;763,68;4,761904762;38,184;4,7
+766;801-88-0346;Representante;Sobradisney;Normal;Feminino;Moda e acessórios;76,06;3;11,409;239,589;1/5/2023;20:30;Cartão de credito;228,18;4,761904762;11,409;9,8
+767;388-76-2555;E-commerce;Alagoinha;Normal;Masculino;Esportes e viagens;13,69;6;4,107;86,247;2/13/2023;13:59;Em espécie;82,14;4,761904762;4,107;6,3
+768;711-31-1234;E-commerce;Alagoinha;Normal;Feminino;Eletrônicos e acessórios;95,64;4;19,128;401,688;3/16/2023;18:51;Em espécie;382,56;4,761904762;19,128;7,9
+769;886-54-6089;Loja Física;Ceilondon;Normal;Feminino;Casa e estilo de vida;11,43;6;3,429;72,009;1/15/2023;17:24;Em espécie;68,58;4,761904762;3,429;7,7
+770;707-32-7409;E-commerce;Alagoinha;Member;Feminino;Esportes e viagens;95,54;4;19,108;401,268;2/26/2023;11:58;Ewallet;382,16;4,761904762;19,108;4,5
+771;759-98-4285;Representante;Sobradisney;Member;Feminino;Saúde e beleza;85,87;7;30,0545;631,1445;2/27/2023;19:01;Cartão de credito;601,09;4,761904762;30,0545;8,0
+772;201-63-8275;Representante;Sobradisney;Member;Feminino;Esportes e viagens;67,99;7;23,7965;499,7265;2/17/2023;16:50;Ewallet;475,93;4,761904762;23,7965;5,7
+773;471-06-8611;Representante;Sobradisney;Normal;Feminino;Comida e bebidas;52,42;1;2,621;55,041;2/6/2023;10:22;Cartão de credito;52,42;4,761904762;2,621;6,3
+774;200-16-5952;Representante;Sobradisney;Member;Masculino;Comida e bebidas;65,65;2;6,565;137,865;1/17/2023;16:46;Em espécie;131,3;4,761904762;6,565;6,0
+775;120-54-2248;E-commerce;Alagoinha;Normal;Feminino;Comida e bebidas;28,86;5;7,215;151,515;1/22/2023;18:08;Cartão de credito;144,3;4,761904762;7,215;8,0
+776;102-77-2261;Representante;Sobradisney;Member;Masculino;Saúde e beleza;65,31;7;22,8585;480,0285;3/5/2023;18:02;Cartão de credito;457,17;4,761904762;22,8585;4,2
+777;875-31-8302;E-commerce;Alagoinha;Normal;Masculino;Esportes e viagens;93,38;1;4,669;98,049;1/3/2023;13:07;Em espécie;93,38;4,761904762;4,669;9,6
+778;102-06-2002;Representante;Sobradisney;Member;Masculino;Esportes e viagens;25,25;5;6,3125;132,5625;3/20/2023;17:52;Em espécie;126,25;4,761904762;6,3125;6,1
+779;457-94-0464;E-commerce;Alagoinha;Member;Masculino;Eletrônicos e acessórios;87,87;9;39,5415;830,3715;1/31/2023;20:32;Ewallet;790,83;4,761904762;39,5415;5,6
+780;629-42-4133;Representante;Sobradisney;Normal;Masculino;Saúde e beleza;21,8;8;8,72;183,12;2/19/2023;19:24;Em espécie;174,4;4,761904762;8,72;8,3
+781;534-53-3526;Loja Física;Ceilondon;Normal;Feminino;Esportes e viagens;94,76;4;18,952;397,992;2/11/2023;16:06;Ewallet;379,04;4,761904762;18,952;7,8
+782;307-04-2070;Loja Física;Ceilondon;Member;Feminino;Moda e acessórios;30,62;1;1,531;32,151;2/5/2023;14:14;Cartão de credito;30,62;4,761904762;1,531;4,1
+783;468-99-7231;Representante;Sobradisney;Normal;Feminino;Casa e estilo de vida;44,01;8;17,604;369,684;3/3/2023;17:36;Em espécie;352,08;4,761904762;17,604;8,8
+784;516-77-6464;Representante;Sobradisney;Member;Feminino;Saúde e beleza;10,16;5;2,54;53,34;2/24/2023;13:08;Ewallet;50,8;4,761904762;2,54;4,1
+785;404-91-5964;Loja Física;Ceilondon;Normal;Masculino;Eletrônicos e acessórios;74,58;7;26,103;548,163;2/4/2023;16:09;Cartão de credito;522,06;4,761904762;26,103;9,0
+786;886-77-9084;Representante;Sobradisney;Normal;Masculino;Eletrônicos e acessórios;71,89;8;28,756;603,876;2/19/2023;11:33;Ewallet;575,12;4,761904762;28,756;5,5
+787;790-38-4466;Representante;Sobradisney;Normal;Feminino;Saúde e beleza;10,99;5;2,7475;57,6975;1/23/2023;10:18;Cartão de credito;54,95;4,761904762;2,7475;9,3
+788;704-10-4056;Representante;Sobradisney;Member;Masculino;Saúde e beleza;60,47;3;9,0705;190,4805;1/14/2023;10:55;Cartão de credito;181,41;4,761904762;9,0705;5,6
+789;497-37-6538;Loja Física;Ceilondon;Normal;Masculino;Esportes e viagens;58,91;7;20,6185;432,9885;1/17/2023;15:15;Ewallet;412,37;4,761904762;20,6185;9,7
+790;651-96-5970;Loja Física;Ceilondon;Normal;Masculino;Moda e acessórios;46,41;1;2,3205;48,7305;3/3/2023;20:06;Cartão de credito;46,41;4,761904762;2,3205;4,0
+791;400-80-4065;Representante;Sobradisney;Member;Masculino;Saúde e beleza;68,55;4;13,71;287,91;2/15/2023;20:21;Cartão de credito;274,2;4,761904762;13,71;9,2
+792;744-16-7898;E-commerce;Alagoinha;Normal;Feminino;Casa e estilo de vida;97,37;10;48,685;1022,385;1/15/2023;13:48;Cartão de credito;973,7;4,761904762;48,685;4,9
+793;263-12-5321;Loja Física;Ceilondon;Member;Masculino;Eletrônicos e acessórios;92,6;7;32,41;680,61;2/27/2023;12:52;Cartão de credito;648,2;4,761904762;32,41;9,3
+794;702-72-0487;Loja Física;Ceilondon;Normal;Feminino;Eletrônicos e acessórios;46,61;2;4,661;97,881;2/26/2023;12:28;Cartão de credito;93,22;4,761904762;4,661;6,6
+795;605-83-1050;E-commerce;Alagoinha;Normal;Masculino;Moda e acessórios;27,18;2;2,718;57,078;3/15/2023;16:26;Ewallet;54,36;4,761904762;2,718;4,3
+796;443-60-9639;Representante;Sobradisney;Member;Feminino;Casa e estilo de vida;60,87;1;3,0435;63,9135;1/24/2023;13:24;Em espécie;60,87;4,761904762;3,0435;5,5
+797;864-24-7918;Loja Física;Ceilondon;Member;Feminino;Esportes e viagens;24,49;10;12,245;257,145;2/22/2023;15:15;Em espécie;244,9;4,761904762;12,245;8,1
+798;359-94-5395;E-commerce;Alagoinha;Normal;Masculino;Saúde e beleza;92,78;1;4,639;97,419;3/15/2023;10:50;Cartão de credito;92,78;4,761904762;4,639;9,8
+799;401-09-4232;Representante;Sobradisney;Member;Masculino;Casa e estilo de vida;86,69;5;21,6725;455,1225;2/11/2023;18:38;Ewallet;433,45;4,761904762;21,6725;9,4
+800;751-15-6198;E-commerce;Alagoinha;Normal;Masculino;Esportes e viagens;23,01;6;6,903;144,963;1/12/2023;16:45;Ewallet;138,06;4,761904762;6,903;7,9
+801;324-41-6833;Representante;Sobradisney;Member;Feminino;Eletrônicos e acessórios;30,2;8;12,08;253,68;3/3/2023;19:30;Ewallet;241,6;4,761904762;12,08;5,1
+802;474-33-8305;Representante;Sobradisney;Member;Masculino;Moda e acessórios;67,39;7;23,5865;495,3165;3/23/2023;13:23;Ewallet;471,73;4,761904762;23,5865;6,9
+803;759-29-9521;Loja Física;Ceilondon;Member;Feminino;Moda e acessórios;48,96;9;22,032;462,672;3/4/2023;11:27;Em espécie;440,64;4,761904762;22,032;8,0
+804;831-81-6575;E-commerce;Alagoinha;Member;Feminino;Eletrônicos e acessórios;75,59;9;34,0155;714,3255;2/23/2023;11:12;Em espécie;680,31;4,761904762;34,0155;8,0
+805;220-68-6701;Loja Física;Ceilondon;Normal;Feminino;Casa e estilo de vida;77,47;4;15,494;325,374;3/17/2023;16:36;Em espécie;309,88;4,761904762;15,494;4,2
+806;618-34-8551;Loja Física;Ceilondon;Normal;Feminino;Esportes e viagens;93,18;2;9,318;195,678;1/16/2023;18:41;Cartão de credito;186,36;4,761904762;9,318;8,5
+807;257-60-7754;Loja Física;Ceilondon;Normal;Feminino;Eletrônicos e acessórios;50,23;4;10,046;210,966;1/8/2023;17:12;Em espécie;200,92;4,761904762;10,046;9,0
+808;559-61-5987;E-commerce;Alagoinha;Normal;Feminino;Saúde e beleza;17,75;1;0,8875;18,6375;1/14/2023;10:38;Em espécie;17,75;4,761904762;0,8875;8,6
+809;189-55-2313;Representante;Sobradisney;Normal;Feminino;Moda e acessórios;62,18;10;31,09;652,89;1/31/2023;10:33;Ewallet;621,8;4,761904762;31,09;6,0
+810;565-91-4567;E-commerce;Alagoinha;Normal;Masculino;Saúde e beleza;10,75;8;4,3;90,3;3/15/2023;14:38;Ewallet;86,0;4,761904762;4,3;6,2
+811;380-60-5336;Loja Física;Ceilondon;Normal;Feminino;Eletrônicos e acessórios;40,26;10;20,13;422,73;2/24/2023;18:06;Cartão de credito;402,6;4,761904762;20,13;5,0
+812;815-04-6282;Representante;Sobradisney;Member;Feminino;Esportes e viagens;64,97;5;16,2425;341,0925;2/8/2023;12:52;Cartão de credito;324,85;4,761904762;16,2425;6,5
+813;674-56-6360;Loja Física;Ceilondon;Normal;Masculino;Eletrônicos e acessórios;95,15;1;4,7575;99,9075;3/22/2023;14:00;Em espécie;95,15;4,761904762;4,7575;6,0
+814;778-34-2523;Loja Física;Ceilondon;Member;Feminino;Eletrônicos e acessórios;48,62;8;19,448;408,408;1/24/2023;10:57;Em espécie;388,96;4,761904762;19,448;5,0
+815;499-27-7781;E-commerce;Alagoinha;Normal;Feminino;Comida e bebidas;53,21;8;21,284;446,964;3/14/2023;16:45;Ewallet;425,68;4,761904762;21,284;5,0
+816;477-59-2456;Representante;Sobradisney;Normal;Feminino;Moda e acessórios;45,44;7;15,904;333,984;1/23/2023;11:15;Em espécie;318,08;4,761904762;15,904;9,2
+817;832-51-6761;Loja Física;Ceilondon;Normal;Masculino;Comida e bebidas;33,88;8;13,552;284,592;1/19/2023;20:29;Ewallet;271,04;4,761904762;13,552;9,6
+818;869-11-3082;E-commerce;Alagoinha;Member;Masculino;Saúde e beleza;96,16;4;19,232;403,872;1/27/2023;20:03;Cartão de credito;384,64;4,761904762;19,232;8,4
+819;190-59-3964;E-commerce;Alagoinha;Member;Masculino;Comida e bebidas;47,16;5;11,79;247,59;2/3/2023;14:35;Cartão de credito;235,8;4,761904762;11,79;6,0
+820;366-43-6862;E-commerce;Alagoinha;Normal;Masculino;Eletrônicos e acessórios;52,89;4;10,578;222,138;3/25/2023;16:32;Ewallet;211,56;4,761904762;10,578;6,7
+821;186-43-8965;Loja Física;Ceilondon;Member;Feminino;Casa e estilo de vida;47,68;2;4,768;100,128;2/24/2023;10:10;Cartão de credito;95,36;4,761904762;4,768;4,1
+822;784-21-9238;Representante;Sobradisney;Member;Masculino;Esportes e viagens;10,17;1;0,5085;10,6785;2/7/2023;14:15;Em espécie;10,17;4,761904762;0,5085;5,9
+823;276-75-6884;Loja Física;Ceilondon;Normal;Feminino;Saúde e beleza;68,71;3;10,3065;216,4365;3/4/2023;10:05;Em espécie;206,13;4,761904762;10,3065;8,7
+824;109-86-4363;E-commerce;Alagoinha;Member;Feminino;Esportes e viagens;60,08;7;21,028;441,588;2/14/2023;11:36;Cartão de credito;420,56;4,761904762;21,028;4,5
+825;569-76-2760;Loja Física;Ceilondon;Member;Feminino;Esportes e viagens;22,01;4;4,402;92,442;1/29/2023;18:15;Cartão de credito;88,04;4,761904762;4,402;6,6
+826;222-42-0244;E-commerce;Alagoinha;Member;Feminino;Saúde e beleza;72,11;9;32,4495;681,4395;1/28/2023;13:53;Cartão de credito;648,99;4,761904762;32,4495;7,7
+827;760-53-9233;Loja Física;Ceilondon;Member;Masculino;Moda e acessórios;41,28;3;6,192;130,032;3/26/2023;18:37;Cartão de credito;123,84;4,761904762;6,192;8,5
+828;538-22-0304;Representante;Sobradisney;Normal;Masculino;Eletrônicos e acessórios;64,95;10;32,475;681,975;3/24/2023;18:27;Em espécie;649,5;4,761904762;32,475;5,2
+829;416-17-9926;Loja Física;Ceilondon;Member;Feminino;Eletrônicos e acessórios;74,22;10;37,11;779,31;1/1/2023;14:42;Cartão de credito;742,2;4,761904762;37,11;4,3
+830;237-44-6163;Loja Física;Ceilondon;Normal;Masculino;Eletrônicos e acessórios;10,56;8;4,224;88,704;1/24/2023;17:43;Em espécie;84,48;4,761904762;4,224;7,6
+831;636-17-0325;E-commerce;Alagoinha;Normal;Masculino;Saúde e beleza;62,57;4;12,514;262,794;2/25/2023;18:37;Em espécie;250,28;4,761904762;12,514;9,5
+832;343-75-9322;E-commerce;Alagoinha;Member;Feminino;Esportes e viagens;11,85;8;4,74;99,54;1/9/2023;16:34;Em espécie;94,8;4,761904762;4,74;4,1
+833;528-14-9470;Loja Física;Ceilondon;Member;Masculino;Saúde e beleza;91,3;1;4,565;95,865;2/14/2023;14:42;Ewallet;91,3;4,761904762;4,565;9,2
+834;427-45-9297;E-commerce;Alagoinha;Member;Feminino;Casa e estilo de vida;40,73;7;14,2555;299,3655;3/12/2023;11:01;Ewallet;285,11;4,761904762;14,2555;5,4
+835;807-34-3742;Loja Física;Ceilondon;Normal;Masculino;Moda e acessórios;52,38;1;2,619;54,999;3/26/2023;19:44;Em espécie;52,38;4,761904762;2,619;5,8
+836;288-62-1085;Loja Física;Ceilondon;Member;Masculino;Moda e acessórios;38,54;5;9,635;202,335;1/9/2023;13:34;Ewallet;192,7;4,761904762;9,635;5,6
+837;670-71-7306;E-commerce;Alagoinha;Normal;Masculino;Esportes e viagens;44,63;6;13,389;281,169;1/2/2023;20:08;Cartão de credito;267,78;4,761904762;13,389;5,1
+838;660-29-7083;Representante;Sobradisney;Normal;Masculino;Eletrônicos e acessórios;55,87;10;27,935;586,635;1/15/2023;15:01;Em espécie;558,7;4,761904762;27,935;5,8
+839;271-77-8740;Representante;Sobradisney;Member;Feminino;Esportes e viagens;29,22;6;8,766;184,086;1/1/2023;11:40;Ewallet;175,32;4,761904762;8,766;5,0
+840;497-36-0989;Loja Física;Ceilondon;Normal;Masculino;Moda e acessórios;51,94;3;7,791;163,611;2/15/2023;15:21;Em espécie;155,82;4,761904762;7,791;7,9
+841;291-59-1384;E-commerce;Alagoinha;Normal;Masculino;Eletrônicos e acessórios;60,3;1;3,015;63,315;2/28/2023;17:38;Em espécie;60,3;4,761904762;3,015;6,0
+842;860-73-6466;Loja Física;Ceilondon;Member;Feminino;Esportes e viagens;39,47;2;3,947;82,887;3/2/2023;16:16;Cartão de credito;78,94;4,761904762;3,947;5,0
+843;549-23-9016;Representante;Sobradisney;Member;Feminino;Comida e bebidas;14,87;2;1,487;31,227;2/13/2023;18:15;Cartão de credito;29,74;4,761904762;1,487;8,9
+844;896-34-0956;Loja Física;Ceilondon;Normal;Masculino;Moda e acessórios;21,32;1;1,066;22,386;1/26/2023;12:43;Em espécie;21,32;4,761904762;1,066;5,9
+845;804-38-3935;Loja Física;Ceilondon;Member;Masculino;Eletrônicos e acessórios;93,78;3;14,067;295,407;1/30/2023;11:32;Cartão de credito;281,34;4,761904762;14,067;5,9
+846;585-90-0249;Loja Física;Ceilondon;Member;Masculino;Eletrônicos e acessórios;73,26;1;3,663;76,923;1/27/2023;18:08;Ewallet;73,26;4,761904762;3,663;9,7
+847;862-29-5914;Representante;Sobradisney;Normal;Feminino;Esportes e viagens;22,38;1;1,119;23,499;1/30/2023;17:08;Cartão de credito;22,38;4,761904762;1,119;8,6
+848;845-94-6841;Representante;Sobradisney;Member;Feminino;Comida e bebidas;72,88;9;32,796;688,716;1/8/2023;19:38;Em espécie;655,92;4,761904762;32,796;4,0
+849;125-45-2293;Loja Física;Ceilondon;Normal;Feminino;Moda e acessórios;99,1;6;29,73;624,33;1/19/2023;13:11;Em espécie;594,6;4,761904762;29,73;4,2
+850;843-73-4724;Loja Física;Ceilondon;Normal;Masculino;Moda e acessórios;74,1;1;3,705;77,805;1/25/2023;11:05;Em espécie;74,1;4,761904762;3,705;9,2
+851;409-33-9708;Loja Física;Ceilondon;Normal;Feminino;Moda e acessórios;98,48;2;9,848;206,808;2/19/2023;10:12;Ewallet;196,96;4,761904762;9,848;9,2
+852;658-66-3967;Representante;Sobradisney;Normal;Masculino;Saúde e beleza;53,19;7;18,6165;390,9465;1/14/2023;15:42;Ewallet;372,33;4,761904762;18,6165;5,0
+853;866-70-2814;E-commerce;Alagoinha;Normal;Feminino;Eletrônicos e acessórios;52,79;10;26,395;554,295;2/25/2023;11:58;Ewallet;527,9;4,761904762;26,395;10,0
+854;160-22-2687;Loja Física;Ceilondon;Member;Feminino;Saúde e beleza;95,95;5;23,9875;503,7375;1/23/2023;14:21;Ewallet;479,75;4,761904762;23,9875;8,8
+855;895-03-6665;E-commerce;Alagoinha;Normal;Feminino;Moda e acessórios;36,51;9;16,4295;345,0195;2/16/2023;10:52;Em espécie;328,59;4,761904762;16,4295;4,2
+856;770-42-8960;E-commerce;Alagoinha;Normal;Masculino;Comida e bebidas;21,12;8;8,448;177,408;1/1/2023;19:31;Em espécie;168,96;4,761904762;8,448;6,3
+857;748-45-2862;Loja Física;Ceilondon;Member;Feminino;Casa e estilo de vida;28,31;4;5,662;118,902;3/7/2023;18:35;Em espécie;113,24;4,761904762;5,662;8,2
+858;234-36-2483;E-commerce;Alagoinha;Normal;Masculino;Saúde e beleza;57,59;6;17,277;362,817;2/15/2023;13:51;Em espécie;345,54;4,761904762;17,277;5,1
+859;316-66-3011;Loja Física;Ceilondon;Member;Feminino;Comida e bebidas;47,63;9;21,4335;450,1035;1/23/2023;12:35;Em espécie;428,67;4,761904762;21,4335;5,0
+860;848-95-6252;Representante;Sobradisney;Member;Feminino;Casa e estilo de vida;86,27;1;4,3135;90,5835;2/20/2023;13:24;Ewallet;86,27;4,761904762;4,3135;7,0
+861;840-76-5966;Loja Física;Ceilondon;Member;Masculino;Esportes e viagens;12,76;2;1,276;26,796;1/8/2023;18:06;Ewallet;25,52;4,761904762;1,276;7,8
+862;152-03-4217;E-commerce;Alagoinha;Normal;Feminino;Casa e estilo de vida;11,28;9;5,076;106,596;3/17/2023;11:55;Cartão de credito;101,52;4,761904762;5,076;4,3
+863;533-66-5566;E-commerce;Alagoinha;Normal;Feminino;Casa e estilo de vida;51,07;7;17,8745;375,3645;1/12/2023;11:42;Em espécie;357,49;4,761904762;17,8745;7,0
+864;124-31-1458;Loja Física;Ceilondon;Member;Feminino;Eletrônicos e acessórios;79,59;3;11,9385;250,7085;1/8/2023;14:30;Em espécie;238,77;4,761904762;11,9385;6,6
+865;176-78-1170;Representante;Sobradisney;Member;Masculino;Saúde e beleza;33,81;3;5,0715;106,5015;1/26/2023;15:11;Ewallet;101,43;4,761904762;5,0715;7,3
+866;361-59-0574;E-commerce;Alagoinha;Member;Masculino;Esportes e viagens;90,53;8;36,212;760,452;3/15/2023;14:48;Cartão de credito;724,24;4,761904762;36,212;6,5
+867;101-81-4070;Representante;Sobradisney;Member;Feminino;Saúde e beleza;62,82;2;6,282;131,922;1/17/2023;12:36;Ewallet;125,64;4,761904762;6,282;4,9
+868;631-34-1880;Representante;Sobradisney;Member;Masculino;Comida e bebidas;24,31;3;3,6465;76,5765;1/8/2023;19:09;Cartão de credito;72,93;4,761904762;3,6465;4,3
+869;852-82-2749;Loja Física;Ceilondon;Normal;Masculino;Esportes e viagens;64,59;4;12,918;271,278;1/6/2023;13:35;Ewallet;258,36;4,761904762;12,918;9,3
+870;873-14-6353;Loja Física;Ceilondon;Member;Masculino;Comida e bebidas;24,82;7;8,687;182,427;2/16/2023;10:33;Cartão de credito;173,74;4,761904762;8,687;7,1
+871;584-66-4073;Representante;Sobradisney;Normal;Masculino;Moda e acessórios;56,5;1;2,825;59,325;3/13/2023;15:45;Ewallet;56,5;4,761904762;2,825;9,6
+872;544-55-9589;E-commerce;Alagoinha;Member;Feminino;Eletrônicos e acessórios;21,43;10;10,715;225,015;1/28/2023;11:51;Em espécie;214,3;4,761904762;10,715;6,2
+873;166-19-2553;Loja Física;Ceilondon;Member;Masculino;Esportes e viagens;89,06;6;26,718;561,078;1/18/2023;17:26;Em espécie;534,36;4,761904762;26,718;9,9
+874;737-88-5876;Loja Física;Ceilondon;Member;Masculino;Casa e estilo de vida;23,29;4;4,658;97,818;3/19/2023;11:52;Cartão de credito;93,16;4,761904762;4,658;5,9
+875;154-87-7367;Representante;Sobradisney;Normal;Masculino;Casa e estilo de vida;65,26;8;26,104;548,184;3/15/2023;14:04;Ewallet;522,08;4,761904762;26,104;6,3
+876;885-56-0389;Representante;Sobradisney;Member;Masculino;Moda e acessórios;52,35;1;2,6175;54,9675;2/12/2023;17:49;Em espécie;52,35;4,761904762;2,6175;4,0
+877;608-05-3804;E-commerce;Alagoinha;Member;Masculino;Eletrônicos e acessórios;39,75;1;1,9875;41,7375;2/25/2023;20:19;Em espécie;39,75;4,761904762;1,9875;6,1
+878;448-61-3783;Loja Física;Ceilondon;Normal;Feminino;Eletrônicos e acessórios;90,02;8;36,008;756,168;3/21/2023;16:08;Cartão de credito;720,16;4,761904762;36,008;4,5
+879;761-49-0439;E-commerce;Alagoinha;Member;Feminino;Eletrônicos e acessórios;12,1;8;4,84;101,64;1/19/2023;10:17;Ewallet;96,8;4,761904762;4,84;8,6
+880;490-95-0021;E-commerce;Alagoinha;Member;Feminino;Comida e bebidas;33,21;10;16,605;348,705;1/8/2023;14:25;Ewallet;332,1;4,761904762;16,605;6,0
+881;115-38-7388;Representante;Sobradisney;Member;Feminino;Moda e acessórios;10,18;8;4,072;85,512;3/30/2023;12:51;Cartão de credito;81,44;4,761904762;4,072;9,5
+882;311-13-6971;E-commerce;Alagoinha;Member;Masculino;Esportes e viagens;31,99;10;15,995;335,895;2/20/2023;15:18;Cartão de credito;319,9;4,761904762;15,995;9,9
+883;291-55-6563;Loja Física;Ceilondon;Member;Feminino;Casa e estilo de vida;34,42;6;10,326;216,846;3/30/2023;12:45;Ewallet;206,52;4,761904762;10,326;7,5
+884;548-48-3156;Loja Física;Ceilondon;Member;Feminino;Comida e bebidas;83,34;2;8,334;175,014;3/19/2023;13:37;Em espécie;166,68;4,761904762;8,334;7,6
+885;460-93-5834;Loja Física;Ceilondon;Normal;Masculino;Esportes e viagens;45,58;7;15,953;335,013;1/13/2023;10:03;Em espécie;319,06;4,761904762;15,953;5,0
+886;325-89-4209;Loja Física;Ceilondon;Member;Masculino;Comida e bebidas;87,9;1;4,395;92,295;2/5/2023;19:42;Ewallet;87,9;4,761904762;4,395;6,7
+887;884-80-6021;Loja Física;Ceilondon;Member;Feminino;Eletrônicos e acessórios;73,47;10;36,735;771,435;3/23/2023;13:14;Ewallet;734,7;4,761904762;36,735;9,5
+888;137-74-8729;Representante;Sobradisney;Normal;Feminino;Moda e acessórios;12,19;8;4,876;102,396;3/13/2023;12:47;Ewallet;97,52;4,761904762;4,876;6,8
+889;880-46-5796;Loja Física;Ceilondon;Member;Masculino;Esportes e viagens;76,92;10;38,46;807,66;3/17/2023;19:53;Ewallet;769,2;4,761904762;38,46;5,6
+890;389-70-2397;Representante;Sobradisney;Normal;Feminino;Saúde e beleza;83,66;5;20,915;439,215;2/21/2023;10:26;Em espécie;418,3;4,761904762;20,915;7,2
+891;114-35-5271;E-commerce;Alagoinha;Normal;Feminino;Eletrônicos e acessórios;57,91;8;23,164;486,444;2/7/2023;15:06;Em espécie;463,28;4,761904762;23,164;8,1
+892;607-76-6216;Representante;Sobradisney;Member;Feminino;Moda e acessórios;92,49;5;23,1225;485,5725;3/2/2023;16:35;Cartão de credito;462,45;4,761904762;23,1225;8,6
+893;715-20-1673;E-commerce;Alagoinha;Normal;Masculino;Eletrônicos e acessórios;28,38;5;7,095;148,995;3/6/2023;20:57;Em espécie;141,9;4,761904762;7,095;9,4
+894;811-35-1094;E-commerce;Alagoinha;Member;Masculino;Eletrônicos e acessórios;50,45;6;15,135;317,835;2/6/2023;15:16;Cartão de credito;302,7;4,761904762;15,135;8,9
+895;699-88-1972;E-commerce;Alagoinha;Normal;Masculino;Saúde e beleza;99,16;8;39,664;832,944;1/28/2023;17:47;Cartão de credito;793,28;4,761904762;39,664;4,2
+896;781-84-8059;Representante;Sobradisney;Normal;Masculino;Moda e acessórios;60,74;7;21,259;446,439;1/18/2023;16:23;Ewallet;425,18;4,761904762;21,259;5,0
+897;409-49-6995;Representante;Sobradisney;Member;Feminino;Comida e bebidas;47,27;6;14,181;297,801;2/5/2023;10:17;Em espécie;283,62;4,761904762;14,181;8,8
+898;725-54-0677;Representante;Sobradisney;Member;Masculino;Saúde e beleza;85,6;7;29,96;629,16;3/2/2023;13:50;Em espécie;599,2;4,761904762;29,96;5,3
+899;146-09-5432;Loja Física;Ceilondon;Member;Masculino;Comida e bebidas;35,04;9;15,768;331,128;2/9/2023;19:17;Ewallet;315,36;4,761904762;15,768;4,6
+900;377-79-7592;Representante;Sobradisney;Member;Feminino;Eletrônicos e acessórios;44,84;9;20,178;423,738;1/14/2023;14:00;Cartão de credito;403,56;4,761904762;20,178;7,5
+901;509-10-0516;E-commerce;Alagoinha;Normal;Masculino;Casa e estilo de vida;45,97;4;9,194;193,074;2/9/2023;12:02;Ewallet;183,88;4,761904762;9,194;5,1
+902;595-94-9924;Loja Física;Ceilondon;Member;Feminino;Saúde e beleza;27,73;5;6,9325;145,5825;3/26/2023;20:21;Cartão de credito;138,65;4,761904762;6,9325;4,2
+903;865-41-9075;Loja Física;Ceilondon;Normal;Masculino;Comida e bebidas;11,53;7;4,0355;84,7455;1/28/2023;17:35;Em espécie;80,71;4,761904762;4,0355;8,1
+904;545-07-8534;Representante;Sobradisney;Normal;Feminino;Saúde e beleza;58,32;2;5,832;122,472;2/14/2023;12:42;Ewallet;116,64;4,761904762;5,832;6,0
+905;118-62-1812;Representante;Sobradisney;Member;Feminino;Casa e estilo de vida;78,38;4;15,676;329,196;3/24/2023;17:56;Em espécie;313,52;4,761904762;15,676;7,9
+906;450-42-3339;Representante;Sobradisney;Normal;Masculino;Saúde e beleza;84,61;10;42,305;888,405;2/9/2023;18:58;Cartão de credito;846,1;4,761904762;42,305;8,8
+907;851-98-3555;E-commerce;Alagoinha;Normal;Feminino;Saúde e beleza;82,88;5;20,72;435,12;3/24/2023;14:08;Cartão de credito;414,4;4,761904762;20,72;6,6
+908;186-71-5196;Loja Física;Ceilondon;Member;Feminino;Comida e bebidas;79,54;2;7,954;167,034;3/27/2023;16:30;Ewallet;159,08;4,761904762;7,954;6,2
+909;624-01-8356;E-commerce;Alagoinha;Normal;Feminino;Casa e estilo de vida;49,01;10;24,505;514,605;1/27/2023;10:44;Cartão de credito;490,1;4,761904762;24,505;4,2
+910;313-66-9943;E-commerce;Alagoinha;Member;Feminino;Comida e bebidas;29,15;3;4,3725;91,8225;3/27/2023;20:29;Cartão de credito;87,45;4,761904762;4,3725;7,3
+911;151-27-8496;Representante;Sobradisney;Normal;Feminino;Eletrônicos e acessórios;56,13;4;11,226;235,746;1/19/2023;11:43;Ewallet;224,52;4,761904762;11,226;8,6
+912;453-33-6436;Loja Física;Ceilondon;Normal;Feminino;Casa e estilo de vida;93,12;8;37,248;782,208;2/7/2023;10:09;Em espécie;744,96;4,761904762;37,248;6,8
+913;522-57-8364;Loja Física;Ceilondon;Member;Masculino;Moda e acessórios;51,34;8;20,536;431,256;1/31/2023;10:00;Ewallet;410,72;4,761904762;20,536;7,6
+914;459-45-2396;Loja Física;Ceilondon;Member;Feminino;Comida e bebidas;99,6;3;14,94;313,74;2/25/2023;18:45;Em espécie;298,8;4,761904762;14,94;5,8
+915;717-96-4189;Representante;Sobradisney;Normal;Feminino;Eletrônicos e acessórios;35,49;6;10,647;223,587;2/2/2023;12:40;Em espécie;212,94;4,761904762;10,647;4,1
+916;722-13-2115;Representante;Sobradisney;Member;Masculino;Esportes e viagens;42,85;1;2,1425;44,9925;3/14/2023;15:36;Cartão de credito;42,85;4,761904762;2,1425;9,3
+917;749-81-8133;Loja Física;Ceilondon;Normal;Feminino;Moda e acessórios;94,67;4;18,934;397,614;3/11/2023;12:04;Em espécie;378,68;4,761904762;18,934;6,8
+918;777-67-2495;E-commerce;Alagoinha;Normal;Masculino;Casa e estilo de vida;68,97;3;10,3455;217,2555;2/22/2023;11:26;Ewallet;206,91;4,761904762;10,3455;8,7
+919;636-98-3364;E-commerce;Alagoinha;Member;Feminino;Eletrônicos e acessórios;26,26;3;3,939;82,719;3/2/2023;12:36;Ewallet;78,78;4,761904762;3,939;6,3
+920;246-55-6923;Representante;Sobradisney;Member;Feminino;Casa e estilo de vida;35,79;9;16,1055;338,2155;3/10/2023;15:06;Cartão de credito;322,11;4,761904762;16,1055;5,1
+921;181-82-6255;E-commerce;Alagoinha;Normal;Feminino;Casa e estilo de vida;16,37;6;4,911;103,131;2/8/2023;10:58;Em espécie;98,22;4,761904762;4,911;7,0
+922;838-02-1821;Representante;Sobradisney;Member;Feminino;Casa e estilo de vida;12,73;2;1,273;26,733;2/22/2023;12:10;Cartão de credito;25,46;4,761904762;1,273;5,2
+923;887-42-0517;Representante;Sobradisney;Normal;Feminino;Esportes e viagens;83,14;7;29,099;611,079;1/10/2023;10:31;Cartão de credito;581,98;4,761904762;29,099;6,6
+924;457-12-0244;Representante;Sobradisney;Member;Feminino;Esportes e viagens;35,22;6;10,566;221,886;3/14/2023;13:49;Ewallet;211,32;4,761904762;10,566;6,5
+925;226-34-0034;E-commerce;Alagoinha;Normal;Feminino;Eletrônicos e acessórios;13,78;4;2,756;57,876;1/10/2023;11:10;Ewallet;55,12;4,761904762;2,756;9,0
+926;321-49-7382;E-commerce;Alagoinha;Member;Masculino;Esportes e viagens;88,31;1;4,4155;92,7255;2/15/2023;17:38;Cartão de credito;88,31;4,761904762;4,4155;5,2
+927;397-25-8725;Loja Física;Ceilondon;Member;Feminino;Saúde e beleza;39,62;9;17,829;374,409;1/13/2023;17:54;Cartão de credito;356,58;4,761904762;17,829;6,8
+928;431-66-2305;E-commerce;Alagoinha;Normal;Feminino;Eletrônicos e acessórios;88,25;9;39,7125;833,9625;2/15/2023;20:51;Cartão de credito;794,25;4,761904762;39,7125;7,6
+929;825-94-5922;E-commerce;Alagoinha;Normal;Masculino;Esportes e viagens;25,31;2;2,531;53,151;3/2/2023;19:26;Ewallet;50,62;4,761904762;2,531;7,2
+930;641-62-7288;E-commerce;Alagoinha;Normal;Masculino;Casa e estilo de vida;99,92;6;29,976;629,496;3/24/2023;13:33;Ewallet;599,52;4,761904762;29,976;7,1
+931;756-93-1854;Representante;Sobradisney;Member;Feminino;Moda e acessórios;83,35;2;8,335;175,035;2/2/2023;14:05;Cartão de credito;166,7;4,761904762;8,335;9,5
+932;243-55-8457;Loja Física;Ceilondon;Normal;Feminino;Comida e bebidas;74,44;10;37,22;781,62;2/27/2023;11:40;Ewallet;744,4;4,761904762;37,22;5,1
+933;458-10-8612;Representante;Sobradisney;Normal;Masculino;Saúde e beleza;64,08;7;22,428;470,988;1/20/2023;12:27;Ewallet;448,56;4,761904762;22,428;7,6
+934;501-61-1753;E-commerce;Alagoinha;Normal;Feminino;Casa e estilo de vida;63,15;6;18,945;397,845;1/3/2023;20:24;Ewallet;378,9;4,761904762;18,945;9,8
+935;235-06-8510;Representante;Sobradisney;Member;Masculino;Casa e estilo de vida;85,72;3;12,858;270,018;1/24/2023;20:59;Ewallet;257,16;4,761904762;12,858;5,1
+936;433-08-7822;Representante;Sobradisney;Normal;Feminino;Saúde e beleza;78,89;7;27,6115;579,8415;1/5/2023;19:48;Ewallet;552,23;4,761904762;27,6115;7,5
+937;361-85-2571;Loja Física;Ceilondon;Normal;Feminino;Esportes e viagens;89,48;5;22,37;469,77;3/30/2023;10:18;Em espécie;447,4;4,761904762;22,37;7,4
+938;131-70-8179;Loja Física;Ceilondon;Member;Feminino;Saúde e beleza;92,09;3;13,8135;290,0835;2/17/2023;16:27;Em espécie;276,27;4,761904762;13,8135;4,2
+939;500-02-2261;Representante;Sobradisney;Normal;Feminino;Comida e bebidas;57,29;6;17,187;360,927;3/21/2023;17:04;Ewallet;343,74;4,761904762;17,187;5,9
+940;720-72-2436;Loja Física;Ceilondon;Normal;Masculino;Comida e bebidas;66,52;4;13,304;279,384;3/2/2023;18:14;Ewallet;266,08;4,761904762;13,304;6,9
+941;702-83-5291;Representante;Sobradisney;Member;Masculino;Moda e acessórios;99,82;9;44,919;943,299;3/27/2023;10:43;Em espécie;898,38;4,761904762;44,919;6,6
+942;809-69-9497;Loja Física;Ceilondon;Normal;Feminino;Casa e estilo de vida;45,68;10;22,84;479,64;1/19/2023;19:30;Ewallet;456,8;4,761904762;22,84;5,7
+943;449-16-6770;Loja Física;Ceilondon;Normal;Masculino;Saúde e beleza;50,79;5;12,6975;266,6475;2/19/2023;14:53;Cartão de credito;253,95;4,761904762;12,6975;5,3
+944;333-23-2632;Loja Física;Ceilondon;Member;Masculino;Saúde e beleza;10,08;7;3,528;74,088;3/28/2023;20:14;Em espécie;70,56;4,761904762;3,528;4,2
+945;489-82-1237;Loja Física;Ceilondon;Normal;Feminino;Eletrônicos e acessórios;93,88;7;32,858;690,018;1/5/2023;11:51;Cartão de credito;657,16;4,761904762;32,858;7,3
+946;859-97-6048;Representante;Sobradisney;Member;Masculino;Eletrônicos e acessórios;84,25;2;8,425;176,925;3/26/2023;14:13;Cartão de credito;168,5;4,761904762;8,425;5,3
+947;676-10-2200;E-commerce;Alagoinha;Member;Masculino;Moda e acessórios;53,78;1;2,689;56,469;2/3/2023;20:13;Ewallet;53,78;4,761904762;2,689;4,7
+948;373-88-1424;Representante;Sobradisney;Member;Masculino;Casa e estilo de vida;35,81;5;8,9525;188,0025;2/6/2023;18:44;Ewallet;179,05;4,761904762;8,9525;7,9
+949;365-16-4334;E-commerce;Alagoinha;Normal;Feminino;Comida e bebidas;26,43;8;10,572;222,012;2/24/2023;14:26;Ewallet;211,44;4,761904762;10,572;8,9
+950;503-21-4385;E-commerce;Alagoinha;Member;Masculino;Saúde e beleza;39,91;3;5,9865;125,7165;2/21/2023;12:40;Ewallet;119,73;4,761904762;5,9865;9,3
+951;305-89-2768;E-commerce;Alagoinha;Member;Feminino;Casa e estilo de vida;21,9;3;3,285;68,985;1/9/2023;18:43;Ewallet;65,7;4,761904762;3,285;4,7
+952;574-80-1489;E-commerce;Alagoinha;Member;Feminino;Comida e bebidas;62,85;4;12,57;263,97;2/25/2023;13:22;Ewallet;251,4;4,761904762;12,57;8,7
+953;784-08-0310;Representante;Sobradisney;Member;Feminino;Comida e bebidas;21,04;4;4,208;88,368;1/13/2023;13:58;Em espécie;84,16;4,761904762;4,208;7,6
+954;200-40-6154;E-commerce;Alagoinha;Member;Masculino;Casa e estilo de vida;65,91;6;19,773;415,233;2/9/2023;11:45;Em espécie;395,46;4,761904762;19,773;5,7
+955;846-10-0341;Loja Física;Ceilondon;Normal;Feminino;Moda e acessórios;42,57;7;14,8995;312,8895;1/6/2023;11:51;Em espécie;297,99;4,761904762;14,8995;6,8
+956;577-34-7579;Representante;Sobradisney;Member;Masculino;Comida e bebidas;50,49;9;22,7205;477,1305;1/10/2023;17:16;Em espécie;454,41;4,761904762;22,7205;5,4
+957;430-02-3888;E-commerce;Alagoinha;Normal;Masculino;Eletrônicos e acessórios;46,02;6;13,806;289,926;2/7/2023;15:55;Em espécie;276,12;4,761904762;13,806;7,1
+958;867-47-1948;Representante;Sobradisney;Normal;Feminino;Casa e estilo de vida;15,8;10;7,9;165,9;1/9/2023;12:07;Em espécie;158,0;4,761904762;7,9;7,8
+959;384-59-6655;Loja Física;Ceilondon;Member;Feminino;Comida e bebidas;98,66;9;44,397;932,337;2/19/2023;15:07;Em espécie;887,94;4,761904762;44,397;8,4
+960;256-58-3609;Representante;Sobradisney;Member;Masculino;Moda e acessórios;91,98;1;4,599;96,579;3/18/2023;15:29;Em espécie;91,98;4,761904762;4,599;9,8
+961;324-92-3863;Loja Física;Ceilondon;Member;Masculino;Eletrônicos e acessórios;20,89;2;2,089;43,869;2/5/2023;18:45;Em espécie;41,78;4,761904762;2,089;9,8
+962;593-08-5916;Loja Física;Ceilondon;Normal;Feminino;Moda e acessórios;15,5;1;0,775;16,275;3/19/2023;15:23;Cartão de credito;15,5;4,761904762;0,775;7,4
+963;364-34-2972;Representante;Sobradisney;Member;Masculino;Eletrônicos e acessórios;96,82;3;14,523;304,983;3/30/2023;20:37;Em espécie;290,46;4,761904762;14,523;6,7
+964;794-42-3736;E-commerce;Alagoinha;Normal;Masculino;Comida e bebidas;33,33;2;3,333;69,993;1/26/2023;14:41;Cartão de credito;66,66;4,761904762;3,333;6,4
+965;172-42-8274;E-commerce;Alagoinha;Normal;Feminino;Eletrônicos e acessórios;38,27;2;3,827;80,367;3/2/2023;18:18;Cartão de credito;76,54;4,761904762;3,827;5,8
+966;558-60-5016;Loja Física;Ceilondon;Normal;Feminino;Casa e estilo de vida;33,3;9;14,985;314,685;3/4/2023;15:27;Ewallet;299,7;4,761904762;14,985;7,2
+967;195-06-0432;Loja Física;Ceilondon;Member;Masculino;Casa e estilo de vida;81,01;3;12,1515;255,1815;1/13/2023;12:55;Cartão de credito;243,03;4,761904762;12,1515;9,3
+968;605-03-2706;Loja Física;Ceilondon;Normal;Feminino;Saúde e beleza;15,8;3;2,37;49,77;3/25/2023;18:02;Em espécie;47,4;4,761904762;2,37;9,5
+969;214-30-2776;E-commerce;Alagoinha;Member;Feminino;Eletrônicos e acessórios;34,49;5;8,6225;181,0725;3/11/2023;19:44;Cartão de credito;172,45;4,761904762;8,6225;9,0
+970;746-04-1077;E-commerce;Alagoinha;Member;Feminino;Comida e bebidas;84,63;10;42,315;888,615;1/1/2023;11:36;Cartão de credito;846,3;4,761904762;42,315;9,0
+971;448-34-8700;E-commerce;Alagoinha;Member;Masculino;Casa e estilo de vida;36,91;7;12,9185;271,2885;2/10/2023;13:51;Ewallet;258,37;4,761904762;12,9185;6,7
+972;452-04-8808;E-commerce;Alagoinha;Normal;Masculino;Eletrônicos e acessórios;87,08;7;30,478;640,038;1/26/2023;15:17;Em espécie;609,56;4,761904762;30,478;5,5
+973;531-56-4728;Loja Física;Ceilondon;Normal;Masculino;Casa e estilo de vida;80,08;3;12,012;252,252;2/11/2023;15:29;Em espécie;240,24;4,761904762;12,012;5,4
+974;744-82-9138;Representante;Sobradisney;Normal;Masculino;Moda e acessórios;86,13;2;8,613;180,873;2/7/2023;17:59;Em espécie;172,26;4,761904762;8,613;8,2
+975;883-69-1285;E-commerce;Alagoinha;Member;Masculino;Moda e acessórios;49,92;2;4,992;104,832;3/6/2023;11:55;Cartão de credito;99,84;4,761904762;4,992;7,0
+976;221-25-5073;Loja Física;Ceilondon;Normal;Feminino;Comida e bebidas;74,66;4;14,932;313,572;3/4/2023;10:39;Em espécie;298,64;4,761904762;14,932;8,5
+977;518-71-6847;E-commerce;Alagoinha;Member;Masculino;Comida e bebidas;26,6;6;7,98;167,58;2/26/2023;15:10;Ewallet;159,6;4,761904762;7,98;4,9
+978;156-20-0370;E-commerce;Alagoinha;Normal;Feminino;Eletrônicos e acessórios;25,45;1;1,2725;26,7225;3/10/2023;18:10;Cartão de credito;25,45;4,761904762;1,2725;5,1
+979;151-33-7434;E-commerce;Alagoinha;Normal;Feminino;Comida e bebidas;67,77;1;3,3885;71,1585;2/4/2023;20:43;Cartão de credito;67,77;4,761904762;3,3885;6,5
+980;728-47-9078;Representante;Sobradisney;Member;Masculino;Comida e bebidas;59,59;4;11,918;250,278;1/19/2023;12:46;Em espécie;238,36;4,761904762;11,918;9,8
+981;809-46-1866;Loja Física;Ceilondon;Normal;Masculino;Saúde e beleza;58,15;4;11,63;244,23;1/23/2023;17:44;Em espécie;232,6;4,761904762;11,63;8,4
+982;139-32-4183;Loja Física;Ceilondon;Member;Feminino;Esportes e viagens;97,48;9;43,866;921,186;3/14/2023;14:19;Ewallet;877,32;4,761904762;43,866;7,4
+983;148-41-7930;Representante;Sobradisney;Normal;Masculino;Saúde e beleza;99,96;7;34,986;734,706;1/23/2023;10:33;Em espécie;699,72;4,761904762;34,986;6,1
+984;189-40-5216;Representante;Sobradisney;Normal;Masculino;Eletrônicos e acessórios;96,37;7;33,7295;708,3195;1/9/2023;11:40;Em espécie;674,59;4,761904762;33,7295;6,0
+985;374-38-5555;E-commerce;Alagoinha;Normal;Feminino;Moda e acessórios;63,71;5;15,9275;334,4775;2/7/2023;19:30;Ewallet;318,55;4,761904762;15,9275;8,5
+986;764-44-8999;E-commerce;Alagoinha;Normal;Feminino;Saúde e beleza;14,76;2;1,476;30,996;2/18/2023;14:42;Ewallet;29,52;4,761904762;1,476;4,3
+987;552-44-5977;E-commerce;Alagoinha;Member;Masculino;Saúde e beleza;62,0;8;24,8;520,8;1/3/2023;19:08;Cartão de credito;496,0;4,761904762;24,8;6,2
+988;267-62-7380;Representante;Sobradisney;Member;Masculino;Eletrônicos e acessórios;82,34;10;41,17;864,57;3/29/2023;19:12;Ewallet;823,4;4,761904762;41,17;4,3
+989;430-53-4718;E-commerce;Alagoinha;Member;Masculino;Saúde e beleza;75,37;8;30,148;633,108;1/28/2023;15:46;Cartão de credito;602,96;4,761904762;30,148;8,4
+990;886-18-2897;Loja Física;Ceilondon;Normal;Feminino;Comida e bebidas;56,56;5;14,14;296,94;3/22/2023;19:06;Cartão de credito;282,8;4,761904762;14,14;4,5
+991;602-16-6955;E-commerce;Alagoinha;Normal;Feminino;Esportes e viagens;76,6;10;38,3;804,3;1/24/2023;18:10;Ewallet;766,0;4,761904762;38,3;6,0
+992;745-74-0715;Loja Física;Ceilondon;Normal;Masculino;Eletrônicos e acessórios;58,03;2;5,803;121,863;3/10/2023;20:46;Ewallet;116,06;4,761904762;5,803;8,8
+993;690-01-6631;E-commerce;Alagoinha;Normal;Masculino;Moda e acessórios;17,49;10;8,745;183,645;2/22/2023;18:35;Ewallet;174,9;4,761904762;8,745;6,6
+994;652-49-6720;Representante;Sobradisney;Member;Feminino;Eletrônicos e acessórios;60,95;1;3,0475;63,9975;2/18/2023;11:40;Ewallet;60,95;4,761904762;3,0475;5,9
+995;233-67-5758;Representante;Sobradisney;Normal;Masculino;Saúde e beleza;40,35;1;2,0175;42,3675;1/29/2023;13:46;Ewallet;40,35;4,761904762;2,0175;6,2
+996;303-96-2227;E-commerce;Alagoinha;Normal;Feminino;Casa e estilo de vida;97,38;10;48,69;1022,49;3/2/2023;17:16;Ewallet;973,8;4,761904762;48,69;4,4
+997;727-02-1313;Loja Física;Ceilondon;Member;Masculino;Comida e bebidas;31,84;1;1,592;33,432;2/9/2023;13:22;Em espécie;31,84;4,761904762;1,592;7,7
+998;347-56-2442;Loja Física;Ceilondon;Normal;Masculino;Casa e estilo de vida;65,82;1;3,291;69,111;2/22/2023;15:33;Em espécie;65,82;4,761904762;3,291;4,1
+999;849-09-3807;Loja Física;Ceilondon;Member;Feminino;Moda e acessórios;88,34;7;30,919;649,299;2/18/2023;13:28;Em espécie;618,38;4,761904762;30,919;6,6
