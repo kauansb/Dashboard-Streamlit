@@ -5,6 +5,13 @@ import numpy as np
 
 # ===================== Configuração da Página =====================
 # Configuração inicial da página
+
+# Tenta mostrar logo na sidebar (arquivo `logo.png` na pasta do projeto)
+try:
+    st.image("logo.png", width=250)
+except Exception:
+    pass
+
 st.set_page_config(layout="wide", page_title="Dashboard")
 
 # ===================== Funções =====================
@@ -35,12 +42,6 @@ ramo_selecionado = st.sidebar.multiselect(
 # Filtrar os dados
 df_filtrado = df[(df["Mes"] == mes_selecionado) & (df["Ramo"].isin(ramo_selecionado))]
 
-# Tenta mostrar logo na sidebar (arquivo `logo.png` na pasta do projeto)
-try:
-    st.sidebar.image("logo.png", width='stretch')
-except Exception:
-    pass
-
 # ===================== Visual e KPIs =====================
 # KPIs
 total_faturamento = df_filtrado["Total"].sum()
@@ -65,7 +66,7 @@ with col_left:
     st.subheader(f"Faturamento por Cidade — {mes_selecionado}")
     # Agrupa por cidade e plota com st.bar_chart (Streamlit)
     df_cidade = df_filtrado.groupby("Cidade")["Total"].sum().sort_values(ascending=False)
-    st.bar_chart(df_cidade)
+    st.bar_chart(df_cidade, color="#ff4b4b")
 
 with col_right:
     st.subheader("Faturamento por Forma de Pagamento")
